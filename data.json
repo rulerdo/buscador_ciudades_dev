@@ -1,0 +1,9362 @@
+[
+  {
+    "rank": 1,
+    "Name": "Tokyo",
+    "Country": "Japan",
+    "Population": 37339804,
+    "Prev": 37393128,
+    "Growth": "-0.0014"
+  },
+  {
+    "rank": 2,
+    "Name": "Delhi",
+    "Country": "India",
+    "Population": 31181376,
+    "Prev": 30290936,
+    "Growth": "0.0294"
+  },
+  {
+    "rank": 3,
+    "Name": "Shanghai",
+    "Country": "China",
+    "Population": 27795702,
+    "Prev": 27058480,
+    "Growth": "0.0272"
+  },
+  {
+    "rank": 4,
+    "Name": "Sao Paulo",
+    "Country": "Brazil",
+    "Population": 22237472,
+    "Prev": 22043028,
+    "Growth": "0.0088"
+  },
+  {
+    "rank": 5,
+    "Name": "Mexico City",
+    "Country": "Mexico",
+    "Population": 21918936,
+    "Prev": 21782378,
+    "Growth": "0.0063"
+  },
+  {
+    "rank": 6,
+    "Name": "Dhaka",
+    "Country": "Bangladesh",
+    "Population": 21741090,
+    "Prev": 21005860,
+    "Growth": "0.0350"
+  },
+  {
+    "rank": 7,
+    "Name": "Cairo",
+    "Country": "Egypt",
+    "Population": 21322750,
+    "Prev": 20900604,
+    "Growth": "0.0202"
+  },
+  {
+    "rank": 8,
+    "Name": "Beijing",
+    "Country": "China",
+    "Population": 20896820,
+    "Prev": 20462610,
+    "Growth": "0.0212"
+  },
+  {
+    "rank": 9,
+    "Name": "Mumbai",
+    "Country": "India",
+    "Population": 20667656,
+    "Prev": 20411274,
+    "Growth": "0.0126"
+  },
+  {
+    "rank": 10,
+    "Name": "Osaka",
+    "Country": "Japan",
+    "Population": 19110616,
+    "Prev": 19165340,
+    "Growth": "-0.0029"
+  },
+  {
+    "rank": 11,
+    "Name": "Karachi",
+    "Country": "Pakistan",
+    "Population": 16459472,
+    "Prev": 16093786,
+    "Growth": "0.0227"
+  },
+  {
+    "rank": 12,
+    "Name": "Chongqing",
+    "Country": "China",
+    "Population": 16382376,
+    "Prev": 15872179,
+    "Growth": "0.0321"
+  },
+  {
+    "rank": 13,
+    "Name": "Istanbul",
+    "Country": "Turkey",
+    "Population": 15415197,
+    "Prev": 15190336,
+    "Growth": "0.0148"
+  },
+  {
+    "rank": 14,
+    "Name": "Buenos Aires",
+    "Country": "Argentina",
+    "Population": 15257673,
+    "Prev": 15153729,
+    "Growth": "0.0069"
+  },
+  {
+    "rank": 15,
+    "Name": "Kolkata",
+    "Country": "India",
+    "Population": 14974073,
+    "Prev": 14850066,
+    "Growth": "0.0084"
+  },
+  {
+    "rank": 16,
+    "Name": "Kinshasa",
+    "Country": "DR Congo",
+    "Population": 14970460,
+    "Prev": 14342439,
+    "Growth": "0.0438"
+  },
+  {
+    "rank": 17,
+    "Name": "Lagos",
+    "Country": "Nigeria",
+    "Population": 14862111,
+    "Prev": 14368332,
+    "Growth": "0.0344"
+  },
+  {
+    "rank": 18,
+    "Name": "Manila",
+    "Country": "Philippines",
+    "Population": 14158573,
+    "Prev": 13923452,
+    "Growth": "0.0169"
+  },
+  {
+    "rank": 19,
+    "Name": "Tianjin",
+    "Country": "China",
+    "Population": 13794450,
+    "Prev": 13589078,
+    "Growth": "0.0151"
+  },
+  {
+    "rank": 20,
+    "Name": "Guangzhou",
+    "Country": "China",
+    "Population": 13635397,
+    "Prev": 13301532,
+    "Growth": "0.0251"
+  },
+  {
+    "rank": 21,
+    "Name": "Rio de Janeiro",
+    "Country": "Brazil",
+    "Population": 13544462,
+    "Prev": 13458075,
+    "Growth": "0.0064"
+  },
+  {
+    "rank": 22,
+    "Name": "Lahore",
+    "Country": "Pakistan",
+    "Population": 13095166,
+    "Prev": 12642423,
+    "Growth": "0.0358"
+  },
+  {
+    "rank": 23,
+    "Name": "Bangalore",
+    "Country": "India",
+    "Population": 12764935,
+    "Prev": 12326532,
+    "Growth": "0.0356"
+  },
+  {
+    "rank": 24,
+    "Name": "Moscow",
+    "Country": "Russia",
+    "Population": 12593252,
+    "Prev": 12537954,
+    "Growth": "0.0044"
+  },
+  {
+    "rank": 25,
+    "Name": "Shenzhen",
+    "Country": "China",
+    "Population": 12591696,
+    "Prev": 12356820,
+    "Growth": "0.0190"
+  },
+  {
+    "rank": 26,
+    "Name": "Chennai",
+    "Country": "India",
+    "Population": 11235018,
+    "Prev": 10971108,
+    "Growth": "0.0241"
+  },
+  {
+    "rank": 27,
+    "Name": "Bogota",
+    "Country": "Colombia",
+    "Population": 11167392,
+    "Prev": 10978360,
+    "Growth": "0.0172"
+  },
+  {
+    "rank": 28,
+    "Name": "Paris",
+    "Country": "France",
+    "Population": 11078546,
+    "Prev": 11017230,
+    "Growth": "0.0056"
+  },
+  {
+    "rank": 29,
+    "Name": "Jakarta",
+    "Country": "Indonesia",
+    "Population": 10915364,
+    "Prev": 10770487,
+    "Growth": "0.0135"
+  },
+  {
+    "rank": 30,
+    "Name": "Lima",
+    "Country": "Peru",
+    "Population": 10882757,
+    "Prev": 10719188,
+    "Growth": "0.0153"
+  },
+  {
+    "rank": 31,
+    "Name": "Bangkok",
+    "Country": "Thailand",
+    "Population": 10722815,
+    "Prev": 10539415,
+    "Growth": "0.0174"
+  },
+  {
+    "rank": 32,
+    "Name": "Hyderabad",
+    "Country": "India",
+    "Population": 10268653,
+    "Prev": 10004144,
+    "Growth": "0.0264"
+  },
+  {
+    "rank": 33,
+    "Name": "Seoul",
+    "Country": "South Korea",
+    "Population": 9967677,
+    "Prev": 9963452,
+    "Growth": "0.0004"
+  },
+  {
+    "rank": 34,
+    "Name": "Nagoya",
+    "Country": "Japan",
+    "Population": 9565642,
+    "Prev": 9552132,
+    "Growth": "0.0014"
+  },
+  {
+    "rank": 35,
+    "Name": "London",
+    "Country": "United Kingdom",
+    "Population": 9425622,
+    "Prev": 9304016,
+    "Growth": "0.0131"
+  },
+  {
+    "rank": 36,
+    "Name": "Chengdu",
+    "Country": "China",
+    "Population": 9305116,
+    "Prev": 9135768,
+    "Growth": "0.0185"
+  },
+  {
+    "rank": 37,
+    "Name": "Tehran",
+    "Country": "Iran",
+    "Population": 9259009,
+    "Prev": 9134708,
+    "Growth": "0.0136"
+  },
+  {
+    "rank": 38,
+    "Name": "Nanjing",
+    "Country": "China",
+    "Population": 9143980,
+    "Prev": 8847372,
+    "Growth": "0.0335"
+  },
+  {
+    "rank": 39,
+    "Name": "Ho Chi Minh City",
+    "Country": "Vietnam",
+    "Population": 8837544,
+    "Prev": 8602317,
+    "Growth": "0.0273"
+  },
+  {
+    "rank": 40,
+    "Name": "Luanda",
+    "Country": "Angola",
+    "Population": 8631876,
+    "Prev": 8329798,
+    "Growth": "0.0363"
+  },
+  {
+    "rank": 41,
+    "Name": "Wuhan",
+    "Country": "China",
+    "Population": 8473405,
+    "Prev": 8364977,
+    "Growth": "0.0130"
+  },
+  {
+    "rank": 42,
+    "Name": "Xi-an Shaanxi",
+    "Country": "China",
+    "Population": 8274651,
+    "Prev": 8000965,
+    "Growth": "0.0342"
+  },
+  {
+    "rank": 43,
+    "Name": "Ahmedabad",
+    "Country": "India",
+    "Population": 8253226,
+    "Prev": 8059441,
+    "Growth": "0.0240"
+  },
+  {
+    "rank": 44,
+    "Name": "New York City",
+    "Country": "United States",
+    "Population": 8230290,
+    "Prev": 8283550,
+    "Growth": "-0.0064"
+  },
+  {
+    "rank": 45,
+    "Name": "Kuala Lumpur",
+    "Country": "Malaysia",
+    "Population": 8210745,
+    "Prev": 7996830,
+    "Growth": "0.0267"
+  },
+  {
+    "rank": 46,
+    "Name": "Hangzhou",
+    "Country": "China",
+    "Population": 7845501,
+    "Prev": 7642147,
+    "Growth": "0.0266"
+  },
+  {
+    "rank": 47,
+    "Name": "Hong Kong",
+    "Country": "Hong Kong",
+    "Population": 7598189,
+    "Prev": 7547652,
+    "Growth": "0.0067"
+  },
+  {
+    "rank": 48,
+    "Name": "Surat",
+    "Country": "India",
+    "Population": 7489742,
+    "Prev": 7184590,
+    "Growth": "0.0425"
+  },
+  {
+    "rank": 49,
+    "Name": "Dongguan",
+    "Country": "China",
+    "Population": 7451889,
+    "Prev": 7407852,
+    "Growth": "0.0059"
+  },
+  {
+    "rank": 50,
+    "Name": "Suzhou",
+    "Country": "China",
+    "Population": 7427096,
+    "Prev": 7069992,
+    "Growth": "0.0505"
+  },
+  {
+    "rank": 51,
+    "Name": "Foshan",
+    "Country": "China",
+    "Population": 7406751,
+    "Prev": 7326852,
+    "Growth": "0.0109"
+  },
+  {
+    "rank": 52,
+    "Name": "Riyadh",
+    "Country": "Saudi Arabia",
+    "Population": 7387817,
+    "Prev": 7231447,
+    "Growth": "0.0216"
+  },
+  {
+    "rank": 53,
+    "Name": "Shenyang",
+    "Country": "China",
+    "Population": 7373655,
+    "Prev": 7220104,
+    "Growth": "0.0213"
+  },
+  {
+    "rank": 54,
+    "Name": "Baghdad",
+    "Country": "Iraq",
+    "Population": 7323079,
+    "Prev": 7144260,
+    "Growth": "0.0250"
+  },
+  {
+    "rank": 55,
+    "Name": "Dar es Salaam",
+    "Country": "Tanzania",
+    "Population": 7046892,
+    "Prev": 6701650,
+    "Growth": "0.0515"
+  },
+  {
+    "rank": 56,
+    "Name": "Santiago",
+    "Country": "Chile",
+    "Population": 6811595,
+    "Prev": 6767223,
+    "Growth": "0.0066"
+  },
+  {
+    "rank": 57,
+    "Name": "Pune",
+    "Country": "India",
+    "Population": 6807984,
+    "Prev": 6629347,
+    "Growth": "0.0269"
+  },
+  {
+    "rank": 58,
+    "Name": "Madrid",
+    "Country": "Spain",
+    "Population": 6668865,
+    "Prev": 6617513,
+    "Growth": "0.0078"
+  },
+  {
+    "rank": 59,
+    "Name": "Haerbin",
+    "Country": "China",
+    "Population": 6526439,
+    "Prev": 6387195,
+    "Growth": "0.0218"
+  },
+  {
+    "rank": 60,
+    "Name": "Toronto",
+    "Country": "Canada",
+    "Population": 6254571,
+    "Prev": 6196731,
+    "Growth": "0.0093"
+  },
+  {
+    "rank": 61,
+    "Name": "Belo Horizonte",
+    "Country": "Brazil",
+    "Population": 6139774,
+    "Prev": 6084430,
+    "Growth": "0.0091"
+  },
+  {
+    "rank": 62,
+    "Name": "Singapore",
+    "Country": "Singapore",
+    "Population": 5991801,
+    "Prev": 5935053,
+    "Growth": "0.0096"
+  },
+  {
+    "rank": 63,
+    "Name": "Khartoum",
+    "Country": "Sudan",
+    "Population": 5989024,
+    "Prev": 5828858,
+    "Growth": "0.0275"
+  },
+  {
+    "rank": 64,
+    "Name": "Johannesburg",
+    "Country": "South Africa",
+    "Population": 5926668,
+    "Prev": 5782747,
+    "Growth": "0.0249"
+  },
+  {
+    "rank": 65,
+    "Name": "Dalian",
+    "Country": "China",
+    "Population": 5775938,
+    "Prev": 5617849,
+    "Growth": "0.0281"
+  },
+  {
+    "rank": 66,
+    "Name": "Qingdao",
+    "Country": "China",
+    "Population": 5742486,
+    "Prev": 5619977,
+    "Growth": "0.0218"
+  },
+  {
+    "rank": 67,
+    "Name": "Barcelona",
+    "Country": "Spain",
+    "Population": 5624498,
+    "Prev": 5585556,
+    "Growth": "0.0070"
+  },
+  {
+    "rank": 68,
+    "Name": "Fukuoka",
+    "Country": "Japan",
+    "Population": 5516158,
+    "Prev": 5528632,
+    "Growth": "-0.0023"
+  },
+  {
+    "rank": 69,
+    "Name": "Ji-nan Shandong",
+    "Country": "China",
+    "Population": 5513597,
+    "Prev": 5360185,
+    "Growth": "0.0286"
+  },
+  {
+    "rank": 70,
+    "Name": "Zhengzhou",
+    "Country": "China",
+    "Population": 5510341,
+    "Prev": 5322696,
+    "Growth": "0.0353"
+  },
+  {
+    "rank": 71,
+    "Name": "Saint Petersburg",
+    "Country": "Russia",
+    "Population": 5504305,
+    "Prev": 5467808,
+    "Growth": "0.0067"
+  },
+  {
+    "rank": 72,
+    "Name": "Yangon",
+    "Country": "Myanmar",
+    "Population": 5421806,
+    "Prev": 5331800,
+    "Growth": "0.0169"
+  },
+  {
+    "rank": 73,
+    "Name": "Alexandria",
+    "Country": "Egypt",
+    "Population": 5381101,
+    "Prev": 5280664,
+    "Growth": "0.0190"
+  },
+  {
+    "rank": 74,
+    "Name": "Abidjan",
+    "Country": "Ivory Coast",
+    "Population": 5354826,
+    "Prev": 5202762,
+    "Growth": "0.0292"
+  },
+  {
+    "rank": 75,
+    "Name": "Guadalajara",
+    "Country": "Mexico",
+    "Population": 5259296,
+    "Prev": 5179479,
+    "Growth": "0.0154"
+  },
+  {
+    "rank": 76,
+    "Name": "Ankara",
+    "Country": "Turkey",
+    "Population": 5215747,
+    "Prev": 5117603,
+    "Growth": "0.0192"
+  },
+  {
+    "rank": 77,
+    "Name": "Chittagong",
+    "Country": "Bangladesh",
+    "Population": 5132751,
+    "Prev": 5019824,
+    "Growth": "0.0225"
+  },
+  {
+    "rank": 78,
+    "Name": "Melbourne",
+    "Country": "Australia",
+    "Population": 5061439,
+    "Prev": 4967733,
+    "Growth": "0.0189"
+  },
+  {
+    "rank": 79,
+    "Name": "Addis Ababa",
+    "Country": "Ethiopia",
+    "Population": 5005524,
+    "Prev": 4793699,
+    "Growth": "0.0442"
+  },
+  {
+    "rank": 80,
+    "Name": "Sydney",
+    "Country": "Australia",
+    "Population": 4991654,
+    "Prev": 4925987,
+    "Growth": "0.0133"
+  },
+  {
+    "rank": 81,
+    "Name": "Monterrey",
+    "Country": "Mexico",
+    "Population": 4955506,
+    "Prev": 4874095,
+    "Growth": "0.0167"
+  },
+  {
+    "rank": 82,
+    "Name": "Nairobi",
+    "Country": "Kenya",
+    "Population": 4922192,
+    "Prev": 4734881,
+    "Growth": "0.0396"
+  },
+  {
+    "rank": 83,
+    "Name": "Hanoi",
+    "Country": "Vietnam",
+    "Population": 4874982,
+    "Prev": 4678198,
+    "Growth": "0.0421"
+  },
+  {
+    "rank": 84,
+    "Name": "Brasilia",
+    "Country": "Brazil",
+    "Population": 4727902,
+    "Prev": 4645843,
+    "Growth": "0.0177"
+  },
+  {
+    "rank": 85,
+    "Name": "Cape Town",
+    "Country": "South Africa",
+    "Population": 4709990,
+    "Prev": 4617560,
+    "Growth": "0.0200"
+  },
+  {
+    "rank": 86,
+    "Name": "Jiddah",
+    "Country": "Saudi Arabia",
+    "Population": 4696535,
+    "Prev": 4610176,
+    "Growth": "0.0187"
+  },
+  {
+    "rank": 87,
+    "Name": "Changsha",
+    "Country": "China",
+    "Population": 4694722,
+    "Prev": 4577723,
+    "Growth": "0.0256"
+  },
+  {
+    "rank": 88,
+    "Name": "Kunming",
+    "Country": "China",
+    "Population": 4550831,
+    "Prev": 4443186,
+    "Growth": "0.0242"
+  },
+  {
+    "rank": 89,
+    "Name": "Urumqi",
+    "Country": "China",
+    "Population": 4543684,
+    "Prev": 4368865,
+    "Growth": "0.0400"
+  },
+  {
+    "rank": 90,
+    "Name": "Changchun",
+    "Country": "China",
+    "Population": 4520695,
+    "Prev": 4425761,
+    "Growth": "0.0215"
+  },
+  {
+    "rank": 91,
+    "Name": "Xinbei",
+    "Country": "Taiwan",
+    "Population": 4434905,
+    "Prev": 4398383,
+    "Growth": "0.0083"
+  },
+  {
+    "rank": 92,
+    "Name": "Shantou",
+    "Country": "China",
+    "Population": 4407928,
+    "Prev": 4327316,
+    "Growth": "0.0186"
+  },
+  {
+    "rank": 93,
+    "Name": "Hefei",
+    "Country": "China",
+    "Population": 4371005,
+    "Prev": 4241514,
+    "Growth": "0.0305"
+  },
+  {
+    "rank": 94,
+    "Name": "Kabul",
+    "Country": "Afghanistan",
+    "Population": 4335770,
+    "Prev": 4221532,
+    "Growth": "0.0271"
+  },
+  {
+    "rank": 95,
+    "Name": "Rome",
+    "Country": "Italy",
+    "Population": 4278350,
+    "Prev": 4257056,
+    "Growth": "0.0050"
+  },
+  {
+    "rank": 96,
+    "Name": "Ningbo",
+    "Country": "China",
+    "Population": 4263843,
+    "Prev": 4116209,
+    "Growth": "0.0359"
+  },
+  {
+    "rank": 97,
+    "Name": "Tel Aviv",
+    "Country": "Israel",
+    "Population": 4263745,
+    "Prev": 4181479,
+    "Growth": "0.0197"
+  },
+  {
+    "rank": 98,
+    "Name": "Montreal",
+    "Country": "Canada",
+    "Population": 4247446,
+    "Prev": 4220566,
+    "Growth": "0.0064"
+  },
+  {
+    "rank": 99,
+    "Name": "Shijiazhuang",
+    "Country": "China",
+    "Population": 4199392,
+    "Prev": 4114393,
+    "Growth": "0.0207"
+  },
+  {
+    "rank": 100,
+    "Name": "Recife",
+    "Country": "Brazil",
+    "Population": 4174774,
+    "Prev": 4127091,
+    "Growth": "0.0116"
+  },
+  {
+    "rank": 101,
+    "Name": "Yaounde",
+    "Country": "Cameroon",
+    "Population": 4164167,
+    "Prev": 3992411,
+    "Growth": "0.0430"
+  },
+  {
+    "rank": 102,
+    "Name": "Porto Alegre",
+    "Country": "Brazil",
+    "Population": 4160682,
+    "Prev": 4137417,
+    "Growth": "0.0056"
+  },
+  {
+    "rank": 103,
+    "Name": "Fortaleza",
+    "Country": "Brazil",
+    "Population": 4119633,
+    "Prev": 4073465,
+    "Growth": "0.0113"
+  },
+  {
+    "rank": 104,
+    "Name": "Kano",
+    "Country": "Nigeria",
+    "Population": 4103015,
+    "Prev": 3999050,
+    "Growth": "0.0260"
+  },
+  {
+    "rank": 105,
+    "Name": "Medellin",
+    "Country": "Colombia",
+    "Population": 4033783,
+    "Prev": 4000263,
+    "Growth": "0.0084"
+  },
+  {
+    "rank": 106,
+    "Name": "Jaipur",
+    "Country": "India",
+    "Population": 4007505,
+    "Prev": 3909333,
+    "Growth": "0.0251"
+  },
+  {
+    "rank": 107,
+    "Name": "Los Angeles",
+    "Country": "United States",
+    "Population": 3983540,
+    "Prev": 3981560,
+    "Growth": "0.0005"
+  },
+  {
+    "rank": 108,
+    "Name": "Taiyuan Shanxi",
+    "Country": "China",
+    "Population": 3975985,
+    "Prev": 3891127,
+    "Growth": "0.0218"
+  },
+  {
+    "rank": 109,
+    "Name": "Nanning",
+    "Country": "China",
+    "Population": 3974322,
+    "Prev": 3859608,
+    "Growth": "0.0297"
+  },
+  {
+    "rank": 110,
+    "Name": "Ekurhuleni",
+    "Country": "South Africa",
+    "Population": 3969937,
+    "Prev": 3894262,
+    "Growth": "0.0194"
+  },
+  {
+    "rank": 111,
+    "Name": "Salvador",
+    "Country": "Brazil",
+    "Population": 3880314,
+    "Prev": 3839076,
+    "Growth": "0.0107"
+  },
+  {
+    "rank": 112,
+    "Name": "Casablanca",
+    "Country": "Morocco",
+    "Population": 3793585,
+    "Prev": 3752357,
+    "Growth": "0.0110"
+  },
+  {
+    "rank": 113,
+    "Name": "Douala",
+    "Country": "Cameroon",
+    "Population": 3793363,
+    "Prev": 3663227,
+    "Growth": "0.0355"
+  },
+  {
+    "rank": 114,
+    "Name": "Xiamen",
+    "Country": "China",
+    "Population": 3790792,
+    "Prev": 3720141,
+    "Growth": "0.0190"
+  },
+  {
+    "rank": 115,
+    "Name": "Lucknow",
+    "Country": "India",
+    "Population": 3764619,
+    "Prev": 3676515,
+    "Growth": "0.0240"
+  },
+  {
+    "rank": 116,
+    "Name": "Fuzhou Fujian",
+    "Country": "China",
+    "Population": 3764559,
+    "Prev": 3685701,
+    "Growth": "0.0214"
+  },
+  {
+    "rank": 117,
+    "Name": "Changzhou",
+    "Country": "China",
+    "Population": 3749712,
+    "Prev": 3625328,
+    "Growth": "0.0343"
+  },
+  {
+    "rank": 118,
+    "Name": "Kozhikode",
+    "Country": "India",
+    "Population": 3742198,
+    "Prev": 3555411,
+    "Growth": "0.0525"
+  },
+  {
+    "rank": 119,
+    "Name": "Curitiba",
+    "Country": "Brazil",
+    "Population": 3726050,
+    "Prev": 3678732,
+    "Growth": "0.0129"
+  },
+  {
+    "rank": 120,
+    "Name": "Wenzhou",
+    "Country": "China",
+    "Population": 3725342,
+    "Prev": 3623646,
+    "Growth": "0.0281"
+  },
+  {
+    "rank": 121,
+    "Name": "Nanchang",
+    "Country": "China",
+    "Population": 3709958,
+    "Prev": 3598421,
+    "Growth": "0.0310"
+  },
+  {
+    "rank": 122,
+    "Name": "Ibadan",
+    "Country": "Nigeria",
+    "Population": 3649023,
+    "Prev": 3551961,
+    "Growth": "0.0273"
+  },
+  {
+    "rank": 123,
+    "Name": "Malappuram",
+    "Country": "India",
+    "Population": 3608928,
+    "Prev": 3391277,
+    "Growth": "0.0642"
+  },
+  {
+    "rank": 124,
+    "Name": "Berlin",
+    "Country": "Germany",
+    "Population": 3566791,
+    "Prev": 3562038,
+    "Growth": "0.0013"
+  },
+  {
+    "rank": 125,
+    "Name": "Tangshan Hebei",
+    "Country": "China",
+    "Population": 3562719,
+    "Prev": 3425638,
+    "Growth": "0.0400"
+  },
+  {
+    "rank": 126,
+    "Name": "Faisalabad",
+    "Country": "Pakistan",
+    "Population": 3542020,
+    "Prev": 3462295,
+    "Growth": "0.0230"
+  },
+  {
+    "rank": 127,
+    "Name": "Antananarivo",
+    "Country": "Madagascar",
+    "Population": 3531887,
+    "Prev": 3368585,
+    "Growth": "0.0485"
+  },
+  {
+    "rank": 128,
+    "Name": "Bekasi",
+    "Country": "Indonesia",
+    "Population": 3510050,
+    "Prev": 3394273,
+    "Growth": "0.0341"
+  },
+  {
+    "rank": 129,
+    "Name": "Kumasi",
+    "Country": "Ghana",
+    "Population": 3490030,
+    "Prev": 3348062,
+    "Growth": "0.0424"
+  },
+  {
+    "rank": 130,
+    "Name": "Kampala",
+    "Country": "Uganda",
+    "Population": 3469510,
+    "Prev": 3298364,
+    "Growth": "0.0519"
+  },
+  {
+    "rank": 131,
+    "Name": "Busan",
+    "Country": "South Korea",
+    "Population": 3465946,
+    "Prev": 3465190,
+    "Growth": "0.0002"
+  },
+  {
+    "rank": 132,
+    "Name": "Abuja",
+    "Country": "Nigeria",
+    "Population": 3464123,
+    "Prev": 3277740,
+    "Growth": "0.0569"
+  },
+  {
+    "rank": 133,
+    "Name": "Guiyang",
+    "Country": "China",
+    "Population": 3407463,
+    "Prev": 3317110,
+    "Growth": "0.0272"
+  },
+  {
+    "rank": 134,
+    "Name": "Asuncion",
+    "Country": "Paraguay",
+    "Population": 3394309,
+    "Prev": 3336562,
+    "Growth": "0.0173"
+  },
+  {
+    "rank": 135,
+    "Name": "Santo Domingo",
+    "Country": "Dominican Republic",
+    "Population": 3388809,
+    "Prev": 3317784,
+    "Growth": "0.0214"
+  },
+  {
+    "rank": 136,
+    "Name": "Campinas",
+    "Country": "Brazil",
+    "Population": 3343816,
+    "Prev": 3300794,
+    "Growth": "0.0130"
+  },
+  {
+    "rank": 137,
+    "Name": "Wuxi",
+    "Country": "China",
+    "Population": 3315113,
+    "Prev": 3256020,
+    "Growth": "0.0181"
+  },
+  {
+    "rank": 138,
+    "Name": "Mashhad",
+    "Country": "Iran",
+    "Population": 3264101,
+    "Prev": 3208336,
+    "Growth": "0.0174"
+  },
+  {
+    "rank": 139,
+    "Name": "Puebla",
+    "Country": "Mexico",
+    "Population": 3244710,
+    "Prev": 3194848,
+    "Growth": "0.0156"
+  },
+  {
+    "rank": 140,
+    "Name": "Dakar",
+    "Country": "Senegal",
+    "Population": 3229800,
+    "Prev": 3140442,
+    "Growth": "0.0285"
+  },
+  {
+    "rank": 141,
+    "Name": "Thrissur",
+    "Country": "India",
+    "Population": 3212604,
+    "Prev": 3068164,
+    "Growth": "0.0471"
+  },
+  {
+    "rank": 142,
+    "Name": "Kochi",
+    "Country": "India",
+    "Population": 3193029,
+    "Prev": 3082055,
+    "Growth": "0.0360"
+  },
+  {
+    "rank": 143,
+    "Name": "Kuwait City",
+    "Country": "Kuwait",
+    "Population": 3177315,
+    "Prev": 3114553,
+    "Growth": "0.0202"
+  },
+  {
+    "rank": 144,
+    "Name": "Durban",
+    "Country": "South Africa",
+    "Population": 3176254,
+    "Prev": 3158313,
+    "Growth": "0.0057"
+  },
+  {
+    "rank": 145,
+    "Name": "Port Harcourt",
+    "Country": "Nigeria",
+    "Population": 3171076,
+    "Prev": 3020232,
+    "Growth": "0.0499"
+  },
+  {
+    "rank": 146,
+    "Name": "Lanzhou",
+    "Country": "China",
+    "Population": 3153808,
+    "Prev": 3080522,
+    "Growth": "0.0238"
+  },
+  {
+    "rank": 147,
+    "Name": "Kanpur",
+    "Country": "India",
+    "Population": 3153425,
+    "Prev": 3123990,
+    "Growth": "0.0094"
+  },
+  {
+    "rank": 148,
+    "Name": "Athens",
+    "Country": "Greece",
+    "Population": 3153255,
+    "Prev": 3153355,
+    "Growth": "-0.0000"
+  },
+  {
+    "rank": 149,
+    "Name": "Milan",
+    "Country": "Italy",
+    "Population": 3144473,
+    "Prev": 3140181,
+    "Growth": "0.0014"
+  },
+  {
+    "rank": 150,
+    "Name": "Indore",
+    "Country": "India",
+    "Population": 3113445,
+    "Prev": 3016713,
+    "Growth": "0.0321"
+  },
+  {
+    "rank": 151,
+    "Name": "Pyongyang",
+    "Country": "North Korea",
+    "Population": 3108108,
+    "Prev": 3084244,
+    "Growth": "0.0077"
+  },
+  {
+    "rank": 152,
+    "Name": "Sanaa",
+    "Country": "Yemen",
+    "Population": 3075257,
+    "Prev": 2972988,
+    "Growth": "0.0344"
+  },
+  {
+    "rank": 153,
+    "Name": "Guayaquil",
+    "Country": "Ecuador",
+    "Population": 3042941,
+    "Prev": 2994218,
+    "Growth": "0.0163"
+  },
+  {
+    "rank": 154,
+    "Name": "Izmir",
+    "Country": "Turkey",
+    "Population": 3024020,
+    "Prev": 2992953,
+    "Growth": "0.0104"
+  },
+  {
+    "rank": 155,
+    "Name": "Kiev",
+    "Country": "Ukraine",
+    "Population": 3000604,
+    "Prev": 2988176,
+    "Growth": "0.0042"
+  },
+  {
+    "rank": 156,
+    "Name": "Guatemala City",
+    "Country": "Guatemala",
+    "Population": 2983174,
+    "Prev": 2934841,
+    "Growth": "0.0165"
+  },
+  {
+    "rank": 157,
+    "Name": "Surabaya",
+    "Country": "Indonesia",
+    "Population": 2972091,
+    "Prev": 2944403,
+    "Growth": "0.0094"
+  },
+  {
+    "rank": 158,
+    "Name": "Lisbon",
+    "Country": "Portugal",
+    "Population": 2971587,
+    "Prev": 2956879,
+    "Growth": "0.0050"
+  },
+  {
+    "rank": 159,
+    "Name": "Caracas",
+    "Country": "Venezuela",
+    "Population": 2945858,
+    "Prev": 2938992,
+    "Growth": "0.0023"
+  },
+  {
+    "rank": 160,
+    "Name": "Zhongshan",
+    "Country": "China",
+    "Population": 2941522,
+    "Prev": 2913974,
+    "Growth": "0.0095"
+  },
+  {
+    "rank": 161,
+    "Name": "Nagpur",
+    "Country": "India",
+    "Population": 2940487,
+    "Prev": 2893455,
+    "Growth": "0.0163"
+  },
+  {
+    "rank": 162,
+    "Name": "Shizuoka",
+    "Country": "Japan",
+    "Population": 2930341,
+    "Prev": 2922320,
+    "Growth": "0.0027"
+  },
+  {
+    "rank": 163,
+    "Name": "Dubai",
+    "Country": "United Arab Emirates",
+    "Population": 2921376,
+    "Prev": 2878344,
+    "Growth": "0.0150"
+  },
+  {
+    "rank": 164,
+    "Name": "Ouagadougou",
+    "Country": "Burkina Faso",
+    "Population": 2914619,
+    "Prev": 2780331,
+    "Growth": "0.0483"
+  },
+  {
+    "rank": 165,
+    "Name": "Lusaka",
+    "Country": "Zambia",
+    "Population": 2905993,
+    "Prev": 2774133,
+    "Growth": "0.0475"
+  },
+  {
+    "rank": 166,
+    "Name": "Coimbatore",
+    "Country": "India",
+    "Population": 2860445,
+    "Prev": 2786600,
+    "Growth": "0.0265"
+  },
+  {
+    "rank": 167,
+    "Name": "Port-au-Prince",
+    "Country": "Haiti",
+    "Population": 2843925,
+    "Prev": 2773553,
+    "Growth": "0.0254"
+  },
+  {
+    "rank": 168,
+    "Name": "Depok",
+    "Country": "Indonesia",
+    "Population": 2836941,
+    "Prev": 2727209,
+    "Growth": "0.0402"
+  },
+  {
+    "rank": 169,
+    "Name": "Handan",
+    "Country": "China",
+    "Population": 2824345,
+    "Prev": 2726835,
+    "Growth": "0.0358"
+  },
+  {
+    "rank": 170,
+    "Name": "Incheon",
+    "Country": "South Korea",
+    "Population": 2818288,
+    "Prev": 2801039,
+    "Growth": "0.0062"
+  },
+  {
+    "rank": 171,
+    "Name": "Cali",
+    "Country": "Colombia",
+    "Population": 2809508,
+    "Prev": 2781980,
+    "Growth": "0.0099"
+  },
+  {
+    "rank": 172,
+    "Name": "Algiers",
+    "Country": "Algeria",
+    "Population": 2809158,
+    "Prev": 2767661,
+    "Growth": "0.0150"
+  },
+  {
+    "rank": 173,
+    "Name": "Huaian",
+    "Country": "China",
+    "Population": 2770106,
+    "Prev": 2655320,
+    "Growth": "0.0432"
+  },
+  {
+    "rank": 174,
+    "Name": "Manchester",
+    "Country": "United Kingdom",
+    "Population": 2750120,
+    "Prev": 2730076,
+    "Growth": "0.0073"
+  },
+  {
+    "rank": 175,
+    "Name": "Goiania",
+    "Country": "Brazil",
+    "Population": 2747887,
+    "Prev": 2690011,
+    "Growth": "0.0215"
+  },
+  {
+    "rank": 176,
+    "Name": "Weifang",
+    "Country": "China",
+    "Population": 2746160,
+    "Prev": 2653989,
+    "Growth": "0.0347"
+  },
+  {
+    "rank": 177,
+    "Name": "Taibei",
+    "Country": "Taiwan",
+    "Population": 2731208,
+    "Prev": 2721485,
+    "Growth": "0.0036"
+  },
+  {
+    "rank": 178,
+    "Name": "Bamako",
+    "Country": "Mali",
+    "Population": 2713230,
+    "Prev": 2617686,
+    "Growth": "0.0365"
+  },
+  {
+    "rank": 179,
+    "Name": "Thiruvananthapuram",
+    "Country": "India",
+    "Population": 2690703,
+    "Prev": 2584752,
+    "Growth": "0.0410"
+  },
+  {
+    "rank": 180,
+    "Name": "Zibo",
+    "Country": "China",
+    "Population": 2685108,
+    "Prev": 2639735,
+    "Growth": "0.0172"
+  },
+  {
+    "rank": 181,
+    "Name": "Chicago",
+    "Country": "United States",
+    "Population": 2679080,
+    "Prev": 2686530,
+    "Growth": "-0.0028"
+  },
+  {
+    "rank": 182,
+    "Name": "Sapporo",
+    "Country": "Japan",
+    "Population": 2670121,
+    "Prev": 2669680,
+    "Growth": "0.0002"
+  },
+  {
+    "rank": 183,
+    "Name": "Pretoria",
+    "Country": "South Africa",
+    "Population": 2655282,
+    "Prev": 2565660,
+    "Growth": "0.0349"
+  },
+  {
+    "rank": 184,
+    "Name": "Mbuji-Mayi",
+    "Country": "DR Congo",
+    "Population": 2642794,
+    "Prev": 2525263,
+    "Growth": "0.0465"
+  },
+  {
+    "rank": 185,
+    "Name": "Shaoxing",
+    "Country": "China",
+    "Population": 2633145,
+    "Prev": 2540018,
+    "Growth": "0.0367"
+  },
+  {
+    "rank": 186,
+    "Name": "Birmingham",
+    "Country": "United Kingdom",
+    "Population": 2626374,
+    "Prev": 2607437,
+    "Growth": "0.0073"
+  },
+  {
+    "rank": 187,
+    "Name": "Yantai",
+    "Country": "China",
+    "Population": 2609465,
+    "Prev": 2526702,
+    "Growth": "0.0328"
+  },
+  {
+    "rank": 188,
+    "Name": "Bandung",
+    "Country": "Indonesia",
+    "Population": 2606850,
+    "Prev": 2580191,
+    "Growth": "0.0103"
+  },
+  {
+    "rank": 189,
+    "Name": "Vancouver",
+    "Country": "Canada",
+    "Population": 2606351,
+    "Prev": 2581079,
+    "Growth": "0.0098"
+  },
+  {
+    "rank": 190,
+    "Name": "Huizhou",
+    "Country": "China",
+    "Population": 2605871,
+    "Prev": 2524543,
+    "Growth": "0.0322"
+  },
+  {
+    "rank": 191,
+    "Name": "Lubumbashi",
+    "Country": "DR Congo",
+    "Population": 2584133,
+    "Prev": 2478262,
+    "Growth": "0.0427"
+  },
+  {
+    "rank": 192,
+    "Name": "Accra",
+    "Country": "Ghana",
+    "Population": 2556972,
+    "Prev": 2514005,
+    "Growth": "0.0171"
+  },
+  {
+    "rank": 193,
+    "Name": "Tashkent",
+    "Country": "Uzbekistan",
+    "Population": 2545159,
+    "Prev": 2517381,
+    "Growth": "0.0110"
+  },
+  {
+    "rank": 194,
+    "Name": "Toluca de Lerdo",
+    "Country": "Mexico",
+    "Population": 2522407,
+    "Prev": 2467241,
+    "Growth": "0.0224"
+  },
+  {
+    "rank": 195,
+    "Name": "Patna",
+    "Country": "India",
+    "Population": 2481530,
+    "Prev": 2436447,
+    "Growth": "0.0185"
+  },
+  {
+    "rank": 196,
+    "Name": "Brazzaville",
+    "Country": "Republic of the Congo",
+    "Population": 2469630,
+    "Prev": 2388090,
+    "Growth": "0.0341"
+  },
+  {
+    "rank": 197,
+    "Name": "Luoyang",
+    "Country": "China",
+    "Population": 2461883,
+    "Prev": 2387094,
+    "Growth": "0.0313"
+  },
+  {
+    "rank": 198,
+    "Name": "Bhopal",
+    "Country": "India",
+    "Population": 2446882,
+    "Prev": 2389547,
+    "Growth": "0.0240"
+  },
+  {
+    "rank": 199,
+    "Name": "San Juan",
+    "Country": "Puerto Rico",
+    "Population": 2445462,
+    "Prev": 2448417,
+    "Growth": "-0.0012"
+  },
+  {
+    "rank": 200,
+    "Name": "Damascus",
+    "Country": "Syria",
+    "Population": 2439814,
+    "Prev": 2392045,
+    "Growth": "0.0200"
+  },
+  {
+    "rank": 201,
+    "Name": "Brisbane",
+    "Country": "Australia",
+    "Population": 2439467,
+    "Prev": 2406182,
+    "Growth": "0.0138"
+  },
+  {
+    "rank": 202,
+    "Name": "Beirut",
+    "Country": "Lebanon",
+    "Population": 2434609,
+    "Prev": 2424425,
+    "Growth": "0.0042"
+  },
+  {
+    "rank": 203,
+    "Name": "Tunis",
+    "Country": "Tunisia",
+    "Population": 2402680,
+    "Prev": 2365201,
+    "Growth": "0.0158"
+  },
+  {
+    "rank": 204,
+    "Name": "Tangerang",
+    "Country": "Indonesia",
+    "Population": 2397447,
+    "Prev": 2338547,
+    "Growth": "0.0252"
+  },
+  {
+    "rank": 205,
+    "Name": "Mogadishu",
+    "Country": "Somalia",
+    "Population": 2387920,
+    "Prev": 2282009,
+    "Growth": "0.0464"
+  },
+  {
+    "rank": 206,
+    "Name": "Baku",
+    "Country": "Azerbaijan",
+    "Population": 2370776,
+    "Prev": 2341443,
+    "Growth": "0.0125"
+  },
+  {
+    "rank": 207,
+    "Name": "Medan",
+    "Country": "Indonesia",
+    "Population": 2368348,
+    "Prev": 2337958,
+    "Growth": "0.0130"
+  },
+  {
+    "rank": 208,
+    "Name": "Belem",
+    "Country": "Brazil",
+    "Population": 2360474,
+    "Prev": 2334462,
+    "Growth": "0.0111"
+  },
+  {
+    "rank": 209,
+    "Name": "Nantong",
+    "Country": "China",
+    "Population": 2351145,
+    "Prev": 2275777,
+    "Growth": "0.0331"
+  },
+  {
+    "rank": 210,
+    "Name": "Sendai",
+    "Country": "Japan",
+    "Population": 2334959,
+    "Prev": 2327417,
+    "Growth": "0.0032"
+  },
+  {
+    "rank": 211,
+    "Name": "Houston",
+    "Country": "United States",
+    "Population": 2323660,
+    "Prev": 2321960,
+    "Growth": "0.0007"
+  },
+  {
+    "rank": 212,
+    "Name": "Manaus",
+    "Country": "Brazil",
+    "Population": 2302374,
+    "Prev": 2260788,
+    "Growth": "0.0184"
+  },
+  {
+    "rank": 213,
+    "Name": "Barranquilla",
+    "Country": "Colombia",
+    "Population": 2299186,
+    "Prev": 2272914,
+    "Growth": "0.0116"
+  },
+  {
+    "rank": 214,
+    "Name": "Maracaibo",
+    "Country": "Venezuela",
+    "Population": 2296118,
+    "Prev": 2257999,
+    "Growth": "0.0169"
+  },
+  {
+    "rank": 215,
+    "Name": "Gujranwala",
+    "Country": "Pakistan",
+    "Population": 2290461,
+    "Prev": 2229220,
+    "Growth": "0.0275"
+  },
+  {
+    "rank": 216,
+    "Name": "Rawalpindi",
+    "Country": "Pakistan",
+    "Population": 2280733,
+    "Prev": 2236905,
+    "Growth": "0.0196"
+  },
+  {
+    "rank": 217,
+    "Name": "Peshawar",
+    "Country": "Pakistan",
+    "Population": 2272812,
+    "Prev": 2202946,
+    "Growth": "0.0317"
+  },
+  {
+    "rank": 218,
+    "Name": "Taoyuan",
+    "Country": "Taiwan",
+    "Population": 2271507,
+    "Prev": 2245162,
+    "Growth": "0.0117"
+  },
+  {
+    "rank": 219,
+    "Name": "Agra",
+    "Country": "India",
+    "Population": 2261561,
+    "Prev": 2210246,
+    "Growth": "0.0232"
+  },
+  {
+    "rank": 220,
+    "Name": "Hohhot",
+    "Country": "China",
+    "Population": 2239344,
+    "Prev": 2163394,
+    "Growth": "0.0351"
+  },
+  {
+    "rank": 221,
+    "Name": "Baotou",
+    "Country": "China",
+    "Population": 2238823,
+    "Prev": 2190495,
+    "Growth": "0.0221"
+  },
+  {
+    "rank": 222,
+    "Name": "Vadodara",
+    "Country": "India",
+    "Population": 2232521,
+    "Prev": 2189973,
+    "Growth": "0.0194"
+  },
+  {
+    "rank": 223,
+    "Name": "Kannur",
+    "Country": "India",
+    "Population": 2226693,
+    "Prev": 2166906,
+    "Growth": "0.0276"
+  },
+  {
+    "rank": 224,
+    "Name": "Liuzhou",
+    "Country": "China",
+    "Population": 2226508,
+    "Prev": 2165257,
+    "Growth": "0.0283"
+  },
+  {
+    "rank": 225,
+    "Name": "Visakhapatnam",
+    "Country": "India",
+    "Population": 2225906,
+    "Prev": 2174968,
+    "Growth": "0.0234"
+  },
+  {
+    "rank": 226,
+    "Name": "Xuzhou",
+    "Country": "China",
+    "Population": 2193219,
+    "Prev": 2145970,
+    "Growth": "0.0220"
+  },
+  {
+    "rank": 227,
+    "Name": "Daegu",
+    "Country": "South Korea",
+    "Population": 2190571,
+    "Prev": 2198962,
+    "Growth": "-0.0038"
+  },
+  {
+    "rank": 228,
+    "Name": "Naples",
+    "Country": "Italy",
+    "Population": 2182885,
+    "Prev": 2186853,
+    "Growth": "-0.0018"
+  },
+  {
+    "rank": 229,
+    "Name": "Amman",
+    "Country": "Jordan",
+    "Population": 2182151,
+    "Prev": 2148293,
+    "Growth": "0.0158"
+  },
+  {
+    "rank": 230,
+    "Name": "Tijuana",
+    "Country": "Mexico",
+    "Population": 2181104,
+    "Prev": 2140398,
+    "Growth": "0.0190"
+  },
+  {
+    "rank": 231,
+    "Name": "Esfahan",
+    "Country": "Iran",
+    "Population": 2176927,
+    "Prev": 2132037,
+    "Growth": "0.0211"
+  },
+  {
+    "rank": 232,
+    "Name": "Phnom Penh",
+    "Country": "Cambodia",
+    "Population": 2143591,
+    "Prev": 2077757,
+    "Growth": "0.0317"
+  },
+  {
+    "rank": 233,
+    "Name": "Havana",
+    "Country": "Cuba",
+    "Population": 2142866,
+    "Prev": 2140423,
+    "Growth": "0.0011"
+  },
+  {
+    "rank": 234,
+    "Name": "Nashik",
+    "Country": "India",
+    "Population": 2123018,
+    "Prev": 2065728,
+    "Growth": "0.0277"
+  },
+  {
+    "rank": 235,
+    "Name": "Grande Vitoria",
+    "Country": "Brazil",
+    "Population": 2109869,
+    "Prev": 2075857,
+    "Growth": "0.0164"
+  },
+  {
+    "rank": 236,
+    "Name": "Vijayawada",
+    "Country": "India",
+    "Population": 2104113,
+    "Prev": 2039845,
+    "Growth": "0.0315"
+  },
+  {
+    "rank": 237,
+    "Name": "Brussels",
+    "Country": "Belgium",
+    "Population": 2095688,
+    "Prev": 2080788,
+    "Growth": "0.0072"
+  },
+  {
+    "rank": 238,
+    "Name": "Mecca",
+    "Country": "Saudi Arabia",
+    "Population": 2078766,
+    "Prev": 2042106,
+    "Growth": "0.0180"
+  },
+  {
+    "rank": 239,
+    "Name": "Hiroshima",
+    "Country": "Japan",
+    "Population": 2077569,
+    "Prev": 2083223,
+    "Growth": "-0.0027"
+  },
+  {
+    "rank": 240,
+    "Name": "Perth",
+    "Country": "Australia",
+    "Population": 2067333,
+    "Prev": 2041959,
+    "Growth": "0.0124"
+  },
+  {
+    "rank": 241,
+    "Name": "Multan",
+    "Country": "Pakistan",
+    "Population": 2059534,
+    "Prev": 2015091,
+    "Growth": "0.0221"
+  },
+  {
+    "rank": 242,
+    "Name": "Yangzhou",
+    "Country": "China",
+    "Population": 2039472,
+    "Prev": 1992773,
+    "Growth": "0.0234"
+  },
+  {
+    "rank": 243,
+    "Name": "Minsk",
+    "Country": "Belarus",
+    "Population": 2038822,
+    "Prev": 2028104,
+    "Growth": "0.0053"
+  },
+  {
+    "rank": 244,
+    "Name": "Bursa",
+    "Country": "Turkey",
+    "Population": 2021116,
+    "Prev": 1986268,
+    "Growth": "0.0175"
+  },
+  {
+    "rank": 245,
+    "Name": "Baoding",
+    "Country": "China",
+    "Population": 2019960,
+    "Prev": 1975790,
+    "Growth": "0.0224"
+  },
+  {
+    "rank": 246,
+    "Name": "Aleppo",
+    "Country": "Syria",
+    "Population": 2003671,
+    "Prev": 1916781,
+    "Growth": "0.0453"
+  },
+  {
+    "rank": 247,
+    "Name": "Putian",
+    "Country": "China",
+    "Population": 2002884,
+    "Prev": 1907350,
+    "Growth": "0.0501"
+  },
+  {
+    "rank": 248,
+    "Name": "Taizhou Zhejiang",
+    "Country": "China",
+    "Population": 1992626,
+    "Prev": 1934847,
+    "Growth": "0.0299"
+  },
+  {
+    "rank": 249,
+    "Name": "Conakry",
+    "Country": "Guinea",
+    "Population": 1991134,
+    "Prev": 1938272,
+    "Growth": "0.0273"
+  },
+  {
+    "rank": 250,
+    "Name": "Linyi Shandong",
+    "Country": "China",
+    "Population": 1984133,
+    "Prev": 1936908,
+    "Growth": "0.0244"
+  },
+  {
+    "rank": 251,
+    "Name": "Wuhu Anhui",
+    "Country": "China",
+    "Population": 1960681,
+    "Prev": 1870281,
+    "Growth": "0.0483"
+  },
+  {
+    "rank": 252,
+    "Name": "Vienna",
+    "Country": "Austria",
+    "Population": 1944910,
+    "Prev": 1929944,
+    "Growth": "0.0078"
+  },
+  {
+    "rank": 253,
+    "Name": "Kollam",
+    "Country": "India",
+    "Population": 1940571,
+    "Prev": 1851558,
+    "Growth": "0.0481"
+  },
+  {
+    "rank": 254,
+    "Name": "Valencia",
+    "Country": "Venezuela",
+    "Population": 1934891,
+    "Prev": 1910188,
+    "Growth": "0.0129"
+  },
+  {
+    "rank": 255,
+    "Name": "Rajkot",
+    "Country": "India",
+    "Population": 1933522,
+    "Prev": 1878032,
+    "Growth": "0.0295"
+  },
+  {
+    "rank": 256,
+    "Name": "Haikou",
+    "Country": "China",
+    "Population": 1931705,
+    "Prev": 1889071,
+    "Growth": "0.0226"
+  },
+  {
+    "rank": 257,
+    "Name": "Almaty",
+    "Country": "Kazakhstan",
+    "Population": 1927623,
+    "Prev": 1895742,
+    "Growth": "0.0168"
+  },
+  {
+    "rank": 258,
+    "Name": "Baixada Santista",
+    "Country": "Brazil",
+    "Population": 1911338,
+    "Prev": 1892314,
+    "Growth": "0.0101"
+  },
+  {
+    "rank": 259,
+    "Name": "Yancheng Jiangsu",
+    "Country": "China",
+    "Population": 1907903,
+    "Prev": 1864424,
+    "Growth": "0.0233"
+  },
+  {
+    "rank": 260,
+    "Name": "Daqing",
+    "Country": "China",
+    "Population": 1907293,
+    "Prev": 1859001,
+    "Growth": "0.0260"
+  },
+  {
+    "rank": 261,
+    "Name": "Rabat",
+    "Country": "Morocco",
+    "Population": 1907071,
+    "Prev": 1884802,
+    "Growth": "0.0118"
+  },
+  {
+    "rank": 262,
+    "Name": "West Yorkshire",
+    "Country": "United Kingdom",
+    "Population": 1901947,
+    "Prev": 1889095,
+    "Growth": "0.0068"
+  },
+  {
+    "rank": 263,
+    "Name": "Semarang",
+    "Country": "Indonesia",
+    "Population": 1901570,
+    "Prev": 1866492,
+    "Growth": "0.0188"
+  },
+  {
+    "rank": 264,
+    "Name": "Quito",
+    "Country": "Ecuador",
+    "Population": 1900571,
+    "Prev": 1873763,
+    "Growth": "0.0143"
+  },
+  {
+    "rank": 265,
+    "Name": "Panama City",
+    "Country": "Panama",
+    "Population": 1899081,
+    "Prev": 1860291,
+    "Growth": "0.0209"
+  },
+  {
+    "rank": 266,
+    "Name": "Hyderabad",
+    "Country": "Pakistan",
+    "Population": 1886734,
+    "Prev": 1849829,
+    "Growth": "0.0200"
+  },
+  {
+    "rank": 267,
+    "Name": "Ludhiana",
+    "Country": "India",
+    "Population": 1885456,
+    "Prev": 1856849,
+    "Growth": "0.0154"
+  },
+  {
+    "rank": 268,
+    "Name": "La Paz",
+    "Country": "Bolivia",
+    "Population": 1881796,
+    "Prev": 1857797,
+    "Growth": "0.0129"
+  },
+  {
+    "rank": 269,
+    "Name": "Lianyungang",
+    "Country": "China",
+    "Population": 1877847,
+    "Prev": 1820127,
+    "Growth": "0.0317"
+  },
+  {
+    "rank": 270,
+    "Name": "Lome",
+    "Country": "Togo",
+    "Population": 1874394,
+    "Prev": 1827878,
+    "Growth": "0.0254"
+  },
+  {
+    "rank": 271,
+    "Name": "Davao City",
+    "Country": "Philippines",
+    "Population": 1866401,
+    "Prev": 1825450,
+    "Growth": "0.0224"
+  },
+  {
+    "rank": 272,
+    "Name": "Leon de los Aldamas",
+    "Country": "Mexico",
+    "Population": 1848932,
+    "Prev": 1825080,
+    "Growth": "0.0131"
+  },
+  {
+    "rank": 273,
+    "Name": "Zhuhai",
+    "Country": "China",
+    "Population": 1803711,
+    "Prev": 1759378,
+    "Growth": "0.0252"
+  },
+  {
+    "rank": 274,
+    "Name": "Turin",
+    "Country": "Italy",
+    "Population": 1795235,
+    "Prev": 1792163,
+    "Growth": "0.0017"
+  },
+  {
+    "rank": 275,
+    "Name": "Bucharest",
+    "Country": "Romania",
+    "Population": 1794248,
+    "Prev": 1803247,
+    "Growth": "-0.0050"
+  },
+  {
+    "rank": 276,
+    "Name": "Adana",
+    "Country": "Turkey",
+    "Population": 1792565,
+    "Prev": 1770850,
+    "Growth": "0.0123"
+  },
+  {
+    "rank": 277,
+    "Name": "Warsaw",
+    "Country": "Poland",
+    "Population": 1789620,
+    "Prev": 1783251,
+    "Growth": "0.0036"
+  },
+  {
+    "rank": 278,
+    "Name": "Hamburg",
+    "Country": "Germany",
+    "Population": 1788995,
+    "Prev": 1789954,
+    "Growth": "-0.0005"
+  },
+  {
+    "rank": 279,
+    "Name": "Datong",
+    "Country": "China",
+    "Population": 1788913,
+    "Prev": 1745333,
+    "Growth": "0.0250"
+  },
+  {
+    "rank": 280,
+    "Name": "Benin City",
+    "Country": "Nigeria",
+    "Population": 1781999,
+    "Prev": 1727169,
+    "Growth": "0.0317"
+  },
+  {
+    "rank": 281,
+    "Name": "Budapest",
+    "Country": "Hungary",
+    "Population": 1771865,
+    "Prev": 1768073,
+    "Growth": "0.0021"
+  },
+  {
+    "rank": 282,
+    "Name": "Madurai",
+    "Country": "India",
+    "Population": 1765534,
+    "Prev": 1734173,
+    "Growth": "0.0181"
+  },
+  {
+    "rank": 283,
+    "Name": "Montevideo",
+    "Country": "Uruguay",
+    "Population": 1759906,
+    "Prev": 1752388,
+    "Growth": "0.0043"
+  },
+  {
+    "rank": 284,
+    "Name": "Quanzhou",
+    "Country": "China",
+    "Population": 1755721,
+    "Prev": 1694076,
+    "Growth": "0.0364"
+  },
+  {
+    "rank": 285,
+    "Name": "Palembang",
+    "Country": "Indonesia",
+    "Population": 1753269,
+    "Prev": 1722700,
+    "Growth": "0.0177"
+  },
+  {
+    "rank": 286,
+    "Name": "Santa Cruz",
+    "Country": "Bolivia",
+    "Population": 1748540,
+    "Prev": 1712688,
+    "Growth": "0.0209"
+  },
+  {
+    "rank": 287,
+    "Name": "Matola",
+    "Country": "Mozambique",
+    "Population": 1748247,
+    "Prev": 1705886,
+    "Growth": "0.0248"
+  },
+  {
+    "rank": 288,
+    "Name": "Gaziantep",
+    "Country": "Turkey",
+    "Population": 1739687,
+    "Prev": 1704118,
+    "Growth": "0.0209"
+  },
+  {
+    "rank": 289,
+    "Name": "Sharjah",
+    "Country": "United Arab Emirates",
+    "Population": 1736799,
+    "Prev": 1684649,
+    "Growth": "0.0310"
+  },
+  {
+    "rank": 290,
+    "Name": "Phoenix",
+    "Country": "United States",
+    "Population": 1733630,
+    "Prev": 1707310,
+    "Growth": "0.0154"
+  },
+  {
+    "rank": 291,
+    "Name": "Lyon",
+    "Country": "France",
+    "Population": 1733581,
+    "Prev": 1719268,
+    "Growth": "0.0083"
+  },
+  {
+    "rank": 292,
+    "Name": "Meerut",
+    "Country": "India",
+    "Population": 1728435,
+    "Prev": 1696440,
+    "Growth": "0.0189"
+  },
+  {
+    "rank": 293,
+    "Name": "Jiangmen",
+    "Country": "China",
+    "Population": 1713021,
+    "Prev": 1687310,
+    "Growth": "0.0152"
+  },
+  {
+    "rank": 294,
+    "Name": "Can Tho",
+    "Country": "Vietnam",
+    "Population": 1703487,
+    "Prev": 1617602,
+    "Growth": "0.0531"
+  },
+  {
+    "rank": 295,
+    "Name": "Raipur",
+    "Country": "India",
+    "Population": 1702048,
+    "Prev": 1642169,
+    "Growth": "0.0365"
+  },
+  {
+    "rank": 296,
+    "Name": "Varanasi",
+    "Country": "India",
+    "Population": 1692509,
+    "Prev": 1664942,
+    "Growth": "0.0166"
+  },
+  {
+    "rank": 297,
+    "Name": "Xiangyang",
+    "Country": "China",
+    "Population": 1684991,
+    "Prev": 1657726,
+    "Growth": "0.0164"
+  },
+  {
+    "rank": 298,
+    "Name": "Mosul",
+    "Country": "Iraq",
+    "Population": 1683029,
+    "Prev": 1629932,
+    "Growth": "0.0326"
+  },
+  {
+    "rank": 299,
+    "Name": "Glasgow",
+    "Country": "United Kingdom",
+    "Population": 1680669,
+    "Prev": 1673332,
+    "Growth": "0.0044"
+  },
+  {
+    "rank": 300,
+    "Name": "Novosibirsk",
+    "Country": "Russia",
+    "Population": 1675866,
+    "Prev": 1663748,
+    "Growth": "0.0073"
+  },
+  {
+    "rank": 301,
+    "Name": "Shiraz",
+    "Country": "Iran",
+    "Population": 1675226,
+    "Prev": 1651362,
+    "Growth": "0.0145"
+  },
+  {
+    "rank": 302,
+    "Name": "La Laguna",
+    "Country": "Mexico",
+    "Population": 1674258,
+    "Prev": 1614854,
+    "Growth": "0.0368"
+  },
+  {
+    "rank": 303,
+    "Name": "Cixi",
+    "Country": "China",
+    "Population": 1672457,
+    "Prev": 1609221,
+    "Growth": "0.0393"
+  },
+  {
+    "rank": 304,
+    "Name": "Stockholm",
+    "Country": "Sweden",
+    "Population": 1656571,
+    "Prev": 1632798,
+    "Growth": "0.0146"
+  },
+  {
+    "rank": 305,
+    "Name": "Anshan",
+    "Country": "China",
+    "Population": 1647001,
+    "Prev": 1629166,
+    "Growth": "0.0109"
+  },
+  {
+    "rank": 306,
+    "Name": "Auckland",
+    "Country": "New Zealand",
+    "Population": 1630092,
+    "Prev": 1606564,
+    "Growth": "0.0146"
+  },
+  {
+    "rank": 307,
+    "Name": "Jamshedpur",
+    "Country": "India",
+    "Population": 1629621,
+    "Prev": 1599434,
+    "Growth": "0.0189"
+  },
+  {
+    "rank": 308,
+    "Name": "Tabriz",
+    "Country": "Iran",
+    "Population": 1627304,
+    "Prev": 1611133,
+    "Growth": "0.0100"
+  },
+  {
+    "rank": 309,
+    "Name": "Yinchuan",
+    "Country": "China",
+    "Population": 1626584,
+    "Prev": 1579049,
+    "Growth": "0.0301"
+  },
+  {
+    "rank": 310,
+    "Name": "Jilin",
+    "Country": "China",
+    "Population": 1623240,
+    "Prev": 1603332,
+    "Growth": "0.0124"
+  },
+  {
+    "rank": 311,
+    "Name": "Srinagar",
+    "Country": "India",
+    "Population": 1622454,
+    "Prev": 1585774,
+    "Growth": "0.0231"
+  },
+  {
+    "rank": 312,
+    "Name": "Batam",
+    "Country": "Indonesia",
+    "Population": 1617168,
+    "Prev": 1546064,
+    "Growth": "0.0460"
+  },
+  {
+    "rank": 313,
+    "Name": "Ulaanbaatar",
+    "Country": "Mongolia",
+    "Population": 1615094,
+    "Prev": 1584358,
+    "Growth": "0.0194"
+  },
+  {
+    "rank": 314,
+    "Name": "Marseille",
+    "Country": "France",
+    "Population": 1613797,
+    "Prev": 1608236,
+    "Growth": "0.0035"
+  },
+  {
+    "rank": 315,
+    "Name": "Makassar",
+    "Country": "Indonesia",
+    "Population": 1612249,
+    "Prev": 1583553,
+    "Growth": "0.0181"
+  },
+  {
+    "rank": 316,
+    "Name": "Yichang",
+    "Country": "China",
+    "Population": 1605526,
+    "Prev": 1548423,
+    "Growth": "0.0369"
+  },
+  {
+    "rank": 317,
+    "Name": "Aurangabad",
+    "Country": "India",
+    "Population": 1599927,
+    "Prev": 1558412,
+    "Growth": "0.0266"
+  },
+  {
+    "rank": 318,
+    "Name": "Muscat",
+    "Country": "Oman",
+    "Population": 1589865,
+    "Prev": 1549729,
+    "Growth": "0.0259"
+  },
+  {
+    "rank": 319,
+    "Name": "Qinhuangdao",
+    "Country": "China",
+    "Population": 1585961,
+    "Prev": 1535223,
+    "Growth": "0.0330"
+  },
+  {
+    "rank": 320,
+    "Name": "Philadelphia",
+    "Country": "United States",
+    "Population": 1585010,
+    "Prev": 1584540,
+    "Growth": "0.0003"
+  },
+  {
+    "rank": 321,
+    "Name": "Cordoba",
+    "Country": "Argentina",
+    "Population": 1584599,
+    "Prev": 1571944,
+    "Growth": "0.0081"
+  },
+  {
+    "rank": 322,
+    "Name": "Qiqihaer",
+    "Country": "China",
+    "Population": 1583663,
+    "Prev": 1559581,
+    "Growth": "0.0154"
+  },
+  {
+    "rank": 323,
+    "Name": "Xining",
+    "Country": "China",
+    "Population": 1583164,
+    "Prev": 1539437,
+    "Growth": "0.0284"
+  },
+  {
+    "rank": 324,
+    "Name": "Karaj",
+    "Country": "Iran",
+    "Population": 1582351,
+    "Prev": 1580413,
+    "Growth": "0.0012"
+  },
+  {
+    "rank": 325,
+    "Name": "San Antonio",
+    "Country": "United States",
+    "Population": 1581730,
+    "Prev": 1564490,
+    "Growth": "0.0110"
+  },
+  {
+    "rank": 326,
+    "Name": "Calgary",
+    "Country": "Canada",
+    "Population": 1580659,
+    "Prev": 1547484,
+    "Growth": "0.0214"
+  },
+  {
+    "rank": 327,
+    "Name": "Hengyang",
+    "Country": "China",
+    "Population": 1573731,
+    "Prev": 1527107,
+    "Growth": "0.0305"
+  },
+  {
+    "rank": 328,
+    "Name": "Daejon",
+    "Country": "South Korea",
+    "Population": 1569459,
+    "Prev": 1565656,
+    "Growth": "0.0024"
+  },
+  {
+    "rank": 329,
+    "Name": "Monrovia",
+    "Country": "Liberia",
+    "Population": 1569013,
+    "Prev": 1517235,
+    "Growth": "0.0341"
+  },
+  {
+    "rank": 330,
+    "Name": "Tiruppur",
+    "Country": "India",
+    "Population": 1558993,
+    "Prev": 1496389,
+    "Growth": "0.0418"
+  },
+  {
+    "rank": 331,
+    "Name": "Rosario",
+    "Country": "Argentina",
+    "Population": 1553530,
+    "Prev": 1532128,
+    "Growth": "0.0140"
+  },
+  {
+    "rank": 332,
+    "Name": "Munich",
+    "Country": "Germany",
+    "Population": 1553373,
+    "Prev": 1538302,
+    "Growth": "0.0098"
+  },
+  {
+    "rank": 333,
+    "Name": "Gaoxiong",
+    "Country": "Taiwan",
+    "Population": 1541861,
+    "Prev": 1537640,
+    "Growth": "0.0027"
+  },
+  {
+    "rank": 334,
+    "Name": "Harare",
+    "Country": "Zimbabwe",
+    "Population": 1541824,
+    "Prev": 1529920,
+    "Growth": "0.0078"
+  },
+  {
+    "rank": 335,
+    "Name": "Ciudad Juarez",
+    "Country": "Mexico",
+    "Population": 1539758,
+    "Prev": 1519214,
+    "Growth": "0.0135"
+  },
+  {
+    "rank": 336,
+    "Name": "Anyang",
+    "Country": "China",
+    "Population": 1524622,
+    "Prev": 1460114,
+    "Growth": "0.0442"
+  },
+  {
+    "rank": 337,
+    "Name": "Kananga",
+    "Country": "DR Congo",
+    "Population": 1524234,
+    "Prev": 1458400,
+    "Growth": "0.0451"
+  },
+  {
+    "rank": 338,
+    "Name": "Gwangju",
+    "Country": "South Korea",
+    "Population": 1523822,
+    "Prev": 1521506,
+    "Growth": "0.0015"
+  },
+  {
+    "rank": 339,
+    "Name": "Suqian",
+    "Country": "China",
+    "Population": 1520240,
+    "Prev": 1440060,
+    "Growth": "0.0557"
+  },
+  {
+    "rank": 340,
+    "Name": "Jining Shandong",
+    "Country": "China",
+    "Population": 1518329,
+    "Prev": 1494249,
+    "Growth": "0.0161"
+  },
+  {
+    "rank": 341,
+    "Name": "Medina",
+    "Country": "Saudi Arabia",
+    "Population": 1517501,
+    "Prev": 1488782,
+    "Growth": "0.0193"
+  },
+  {
+    "rank": 342,
+    "Name": "Yekaterinburg",
+    "Country": "Russia",
+    "Population": 1513142,
+    "Prev": 1503812,
+    "Growth": "0.0062"
+  },
+  {
+    "rank": 343,
+    "Name": "Abu Dhabi",
+    "Country": "United Arab Emirates",
+    "Population": 1511768,
+    "Prev": 1482816,
+    "Growth": "0.0195"
+  },
+  {
+    "rank": 344,
+    "Name": "Jodhpur",
+    "Country": "India",
+    "Population": 1509826,
+    "Prev": 1471900,
+    "Growth": "0.0258"
+  },
+  {
+    "rank": 345,
+    "Name": "Grande Sao Luis",
+    "Country": "Brazil",
+    "Population": 1498475,
+    "Prev": 1485763,
+    "Growth": "0.0086"
+  },
+  {
+    "rank": 346,
+    "Name": "Edmonton",
+    "Country": "Canada",
+    "Population": 1491076,
+    "Prev": 1461182,
+    "Growth": "0.0205"
+  },
+  {
+    "rank": 347,
+    "Name": "Natal",
+    "Country": "Brazil",
+    "Population": 1485363,
+    "Prev": 1456844,
+    "Growth": "0.0196"
+  },
+  {
+    "rank": 348,
+    "Name": "Tegucigalpa",
+    "Country": "Honduras",
+    "Population": 1485300,
+    "Prev": 1444085,
+    "Growth": "0.0285"
+  },
+  {
+    "rank": 349,
+    "Name": "Onitsha",
+    "Country": "Nigeria",
+    "Population": 1482971,
+    "Prev": 1414790,
+    "Growth": "0.0482"
+  },
+  {
+    "rank": 350,
+    "Name": "N-Djamena",
+    "Country": "Chad",
+    "Population": 1476115,
+    "Prev": 1422547,
+    "Growth": "0.0377"
+  },
+  {
+    "rank": 351,
+    "Name": "Ranchi",
+    "Country": "India",
+    "Population": 1474748,
+    "Prev": 1439195,
+    "Growth": "0.0247"
+  },
+  {
+    "rank": 352,
+    "Name": "Kathmandu",
+    "Country": "Nepal",
+    "Population": 1471867,
+    "Prev": 1423515,
+    "Growth": "0.0340"
+  },
+  {
+    "rank": 353,
+    "Name": "Jabalpur",
+    "Country": "India",
+    "Population": 1471644,
+    "Prev": 1449787,
+    "Growth": "0.0151"
+  },
+  {
+    "rank": 354,
+    "Name": "Mandalay",
+    "Country": "Myanmar",
+    "Population": 1469193,
+    "Prev": 1437554,
+    "Growth": "0.0220"
+  },
+  {
+    "rank": 355,
+    "Name": "Zhangjiakou",
+    "Country": "China",
+    "Population": 1468954,
+    "Prev": 1434649,
+    "Growth": "0.0239"
+  },
+  {
+    "rank": 356,
+    "Name": "Huainan",
+    "Country": "China",
+    "Population": 1461918,
+    "Prev": 1437838,
+    "Growth": "0.0167"
+  },
+  {
+    "rank": 357,
+    "Name": "Asansol",
+    "Country": "India",
+    "Population": 1453747,
+    "Prev": 1431260,
+    "Growth": "0.0157"
+  },
+  {
+    "rank": 358,
+    "Name": "Chaozhou",
+    "Country": "China",
+    "Population": 1449830,
+    "Prev": 1428383,
+    "Growth": "0.0150"
+  },
+  {
+    "rank": 359,
+    "Name": "Kota",
+    "Country": "India",
+    "Population": 1430870,
+    "Prev": 1386877,
+    "Growth": "0.0317"
+  },
+  {
+    "rank": 360,
+    "Name": "San Diego",
+    "Country": "United States",
+    "Population": 1427720,
+    "Prev": 1425780,
+    "Growth": "0.0014"
+  },
+  {
+    "rank": 361,
+    "Name": "Kharkiv",
+    "Country": "Ukraine",
+    "Population": 1425987,
+    "Prev": 1429004,
+    "Growth": "-0.0021"
+  },
+  {
+    "rank": 362,
+    "Name": "San Jose",
+    "Country": "Costa Rica",
+    "Population": 1420533,
+    "Prev": 1399629,
+    "Growth": "0.0149"
+  },
+  {
+    "rank": 363,
+    "Name": "Chon Buri",
+    "Country": "Thailand",
+    "Population": 1417247,
+    "Prev": 1398645,
+    "Growth": "0.0133"
+  },
+  {
+    "rank": 364,
+    "Name": "Allahabad",
+    "Country": "India",
+    "Population": 1415463,
+    "Prev": 1393723,
+    "Growth": "0.0156"
+  },
+  {
+    "rank": 365,
+    "Name": "Gwalior",
+    "Country": "India",
+    "Population": 1409820,
+    "Prev": 1378375,
+    "Growth": "0.0228"
+  },
+  {
+    "rank": 366,
+    "Name": "Ottawa",
+    "Country": "Canada",
+    "Population": 1407928,
+    "Prev": 1393086,
+    "Growth": "0.0107"
+  },
+  {
+    "rank": 367,
+    "Name": "Zurich",
+    "Country": "Switzerland",
+    "Population": 1407572,
+    "Prev": 1395356,
+    "Growth": "0.0088"
+  },
+  {
+    "rank": 368,
+    "Name": "Belgrade",
+    "Country": "Serbia",
+    "Population": 1401786,
+    "Prev": 1397939,
+    "Growth": "0.0028"
+  },
+  {
+    "rank": 369,
+    "Name": "Amritsar",
+    "Country": "India",
+    "Population": 1400311,
+    "Prev": 1377371,
+    "Growth": "0.0167"
+  },
+  {
+    "rank": 370,
+    "Name": "Joao Pessoa",
+    "Country": "Brazil",
+    "Population": 1393345,
+    "Prev": 1378249,
+    "Growth": "0.0110"
+  },
+  {
+    "rank": 371,
+    "Name": "Yiwu",
+    "Country": "China",
+    "Population": 1386791,
+    "Prev": 1334356,
+    "Growth": "0.0393"
+  },
+  {
+    "rank": 372,
+    "Name": "Basra",
+    "Country": "Iraq",
+    "Population": 1381731,
+    "Prev": 1352210,
+    "Growth": "0.0218"
+  },
+  {
+    "rank": 373,
+    "Name": "Taizhou Jiangsu",
+    "Country": "China",
+    "Population": 1381569,
+    "Prev": 1348056,
+    "Growth": "0.0249"
+  },
+  {
+    "rank": 374,
+    "Name": "Nouakchott",
+    "Country": "Mauritania",
+    "Population": 1372244,
+    "Prev": 1314636,
+    "Growth": "0.0438"
+  },
+  {
+    "rank": 375,
+    "Name": "Queretaro",
+    "Country": "Mexico",
+    "Population": 1364446,
+    "Prev": 1339103,
+    "Growth": "0.0189"
+  },
+  {
+    "rank": 376,
+    "Name": "Taian Shandong",
+    "Country": "China",
+    "Population": 1364154,
+    "Prev": 1338828,
+    "Growth": "0.0189"
+  },
+  {
+    "rank": 377,
+    "Name": "Homs",
+    "Country": "Syria",
+    "Population": 1362480,
+    "Prev": 1335804,
+    "Growth": "0.0200"
+  },
+  {
+    "rank": 378,
+    "Name": "Copenhagen",
+    "Country": "Denmark",
+    "Population": 1358608,
+    "Prev": 1346485,
+    "Growth": "0.0090"
+  },
+  {
+    "rank": 379,
+    "Name": "Konya",
+    "Country": "Turkey",
+    "Population": 1356280,
+    "Prev": 1328136,
+    "Growth": "0.0212"
+  },
+  {
+    "rank": 380,
+    "Name": "Bucaramanga",
+    "Country": "Colombia",
+    "Population": 1348882,
+    "Prev": 1331453,
+    "Growth": "0.0131"
+  },
+  {
+    "rank": 381,
+    "Name": "Dhanbad",
+    "Country": "India",
+    "Population": 1348238,
+    "Prev": 1331186,
+    "Growth": "0.0128"
+  },
+  {
+    "rank": 382,
+    "Name": "Weihai",
+    "Country": "China",
+    "Population": 1347865,
+    "Prev": 1304315,
+    "Growth": "0.0334"
+  },
+  {
+    "rank": 383,
+    "Name": "Dallas",
+    "Country": "United States",
+    "Population": 1347120,
+    "Prev": 1345340,
+    "Growth": "0.0013"
+  },
+  {
+    "rank": 384,
+    "Name": "Ganzhou",
+    "Country": "China",
+    "Population": 1347065,
+    "Prev": 1285039,
+    "Growth": "0.0483"
+  },
+  {
+    "rank": 385,
+    "Name": "Adelaide",
+    "Country": "Australia",
+    "Population": 1345445,
+    "Prev": 1336403,
+    "Growth": "0.0068"
+  },
+  {
+    "rank": 386,
+    "Name": "Hai Phong",
+    "Country": "Vietnam",
+    "Population": 1341015,
+    "Prev": 1300088,
+    "Growth": "0.0315"
+  },
+  {
+    "rank": 387,
+    "Name": "Mombasa",
+    "Country": "Kenya",
+    "Population": 1340913,
+    "Prev": 1295975,
+    "Growth": "0.0347"
+  },
+  {
+    "rank": 388,
+    "Name": "Taizhong",
+    "Country": "Taiwan",
+    "Population": 1338086,
+    "Prev": 1320591,
+    "Growth": "0.0132"
+  },
+  {
+    "rank": 389,
+    "Name": "Maceio",
+    "Country": "Brazil",
+    "Population": 1336999,
+    "Prev": 1323039,
+    "Growth": "0.0106"
+  },
+  {
+    "rank": 390,
+    "Name": "Cochabamba",
+    "Country": "Bolivia",
+    "Population": 1336752,
+    "Prev": 1303907,
+    "Growth": "0.0252"
+  },
+  {
+    "rank": 391,
+    "Name": "Niamey",
+    "Country": "Niger",
+    "Population": 1335700,
+    "Prev": 1291848,
+    "Growth": "0.0339"
+  },
+  {
+    "rank": 392,
+    "Name": "Suweon",
+    "Country": "South Korea",
+    "Population": 1331826,
+    "Prev": 1311321,
+    "Growth": "0.0156"
+  },
+  {
+    "rank": 393,
+    "Name": "Samut Prakan",
+    "Country": "Thailand",
+    "Population": 1324319,
+    "Prev": 1306937,
+    "Growth": "0.0133"
+  },
+  {
+    "rank": 394,
+    "Name": "Joinville",
+    "Country": "Brazil",
+    "Population": 1319042,
+    "Prev": 1303141,
+    "Growth": "0.0122"
+  },
+  {
+    "rank": 395,
+    "Name": "Jiaxing",
+    "Country": "China",
+    "Population": 1318418,
+    "Prev": 1259844,
+    "Growth": "0.0465"
+  },
+  {
+    "rank": 396,
+    "Name": "Kaifeng",
+    "Country": "China",
+    "Population": 1317530,
+    "Prev": 1274287,
+    "Growth": "0.0339"
+  },
+  {
+    "rank": 397,
+    "Name": "Helsinki",
+    "Country": "Finland",
+    "Population": 1316757,
+    "Prev": 1304851,
+    "Growth": "0.0091"
+  },
+  {
+    "rank": 398,
+    "Name": "Porto",
+    "Country": "Portugal",
+    "Population": 1316445,
+    "Prev": 1312947,
+    "Growth": "0.0027"
+  },
+  {
+    "rank": 399,
+    "Name": "Zhanjiang",
+    "Country": "China",
+    "Population": 1315369,
+    "Prev": 1286854,
+    "Growth": "0.0222"
+  },
+  {
+    "rank": 400,
+    "Name": "Zunyi",
+    "Country": "China",
+    "Population": 1313433,
+    "Prev": 1280960,
+    "Growth": "0.0254"
+  },
+  {
+    "rank": 401,
+    "Name": "Rizhao",
+    "Country": "China",
+    "Population": 1312824,
+    "Prev": 1270948,
+    "Growth": "0.0329"
+  },
+  {
+    "rank": 402,
+    "Name": "Kisangani",
+    "Country": "DR Congo",
+    "Population": 1312353,
+    "Prev": 1261310,
+    "Growth": "0.0405"
+  },
+  {
+    "rank": 403,
+    "Name": "Prague",
+    "Country": "Czech Republic",
+    "Population": 1312199,
+    "Prev": 1305737,
+    "Growth": "0.0049"
+  },
+  {
+    "rank": 404,
+    "Name": "Dongying",
+    "Country": "China",
+    "Population": 1311494,
+    "Prev": 1276028,
+    "Growth": "0.0278"
+  },
+  {
+    "rank": 405,
+    "Name": "Qom",
+    "Country": "Iran",
+    "Population": 1311172,
+    "Prev": 1287937,
+    "Growth": "0.0180"
+  },
+  {
+    "rank": 406,
+    "Name": "Mianyang Sichuan",
+    "Country": "China",
+    "Population": 1300725,
+    "Prev": 1275851,
+    "Growth": "0.0195"
+  },
+  {
+    "rank": 407,
+    "Name": "Nanchong",
+    "Country": "China",
+    "Population": 1299462,
+    "Prev": 1257726,
+    "Growth": "0.0332"
+  },
+  {
+    "rank": 408,
+    "Name": "Fushun Liaoning",
+    "Country": "China",
+    "Population": 1288357,
+    "Prev": 1285387,
+    "Growth": "0.0023"
+  },
+  {
+    "rank": 409,
+    "Name": "Antalya",
+    "Country": "Turkey",
+    "Population": 1287439,
+    "Prev": 1253872,
+    "Growth": "0.0268"
+  },
+  {
+    "rank": 410,
+    "Name": "Bareilly",
+    "Country": "India",
+    "Population": 1285964,
+    "Prev": 1255287,
+    "Growth": "0.0244"
+  },
+  {
+    "rank": 411,
+    "Name": "Sofia",
+    "Country": "Bulgaria",
+    "Population": 1284311,
+    "Prev": 1280968,
+    "Growth": "0.0026"
+  },
+  {
+    "rank": 412,
+    "Name": "Shiyan",
+    "Country": "China",
+    "Population": 1280495,
+    "Prev": 1241450,
+    "Growth": "0.0315"
+  },
+  {
+    "rank": 413,
+    "Name": "Kazan",
+    "Country": "Russia",
+    "Population": 1279794,
+    "Prev": 1272063,
+    "Growth": "0.0061"
+  },
+  {
+    "rank": 414,
+    "Name": "Ad-Dammam",
+    "Country": "Saudi Arabia",
+    "Population": 1279092,
+    "Prev": 1252523,
+    "Growth": "0.0212"
+  },
+  {
+    "rank": 415,
+    "Name": "Port Elizabeth",
+    "Country": "South Africa",
+    "Population": 1266533,
+    "Prev": 1253742,
+    "Growth": "0.0102"
+  },
+  {
+    "rank": 416,
+    "Name": "Ahvaz",
+    "Country": "Iran",
+    "Population": 1261042,
+    "Prev": 1244250,
+    "Growth": "0.0135"
+  },
+  {
+    "rank": 417,
+    "Name": "Liuan",
+    "Country": "China",
+    "Population": 1260817,
+    "Prev": 1195907,
+    "Growth": "0.0543"
+  },
+  {
+    "rank": 418,
+    "Name": "Florianopolis",
+    "Country": "Brazil",
+    "Population": 1259112,
+    "Prev": 1239331,
+    "Growth": "0.0160"
+  },
+  {
+    "rank": 419,
+    "Name": "Nizhniy Novgorod",
+    "Country": "Russia",
+    "Population": 1255073,
+    "Prev": 1257754,
+    "Growth": "-0.0021"
+  },
+  {
+    "rank": 420,
+    "Name": "Pointe-Noire",
+    "Country": "Republic of the Congo",
+    "Population": 1253939,
+    "Prev": 1214281,
+    "Growth": "0.0327"
+  },
+  {
+    "rank": 421,
+    "Name": "Yingkou",
+    "Country": "China",
+    "Population": 1251867,
+    "Prev": 1214047,
+    "Growth": "0.0312"
+  },
+  {
+    "rank": 422,
+    "Name": "Fes",
+    "Country": "Morocco",
+    "Population": 1245303,
+    "Prev": 1224080,
+    "Growth": "0.0173"
+  },
+  {
+    "rank": 423,
+    "Name": "Aligarh",
+    "Country": "India",
+    "Population": 1244591,
+    "Prev": 1210554,
+    "Growth": "0.0281"
+  },
+  {
+    "rank": 424,
+    "Name": "Liuyang",
+    "Country": "China",
+    "Population": 1242055,
+    "Prev": 1169044,
+    "Growth": "0.0625"
+  },
+  {
+    "rank": 425,
+    "Name": "Dublin",
+    "Country": "Ireland",
+    "Population": 1241953,
+    "Prev": 1228179,
+    "Growth": "0.0112"
+  },
+  {
+    "rank": 426,
+    "Name": "Maoming",
+    "Country": "China",
+    "Population": 1238809,
+    "Prev": 1204716,
+    "Growth": "0.0283"
+  },
+  {
+    "rank": 427,
+    "Name": "Tanger",
+    "Country": "Morocco",
+    "Population": 1238322,
+    "Prev": 1197923,
+    "Growth": "0.0337"
+  },
+  {
+    "rank": 428,
+    "Name": "Pekan Baru",
+    "Country": "Indonesia",
+    "Population": 1238274,
+    "Prev": 1204883,
+    "Growth": "0.0277"
+  },
+  {
+    "rank": 429,
+    "Name": "Tengzhou",
+    "Country": "China",
+    "Population": 1236764,
+    "Prev": 1189963,
+    "Growth": "0.0393"
+  },
+  {
+    "rank": 430,
+    "Name": "Freetown",
+    "Country": "Sierra Leone",
+    "Population": 1236425,
+    "Prev": 1201900,
+    "Growth": "0.0287"
+  },
+  {
+    "rank": 431,
+    "Name": "San Luis Potosi",
+    "Country": "Mexico",
+    "Population": 1235426,
+    "Prev": 1216564,
+    "Growth": "0.0155"
+  },
+  {
+    "rank": 432,
+    "Name": "Mysore",
+    "Country": "India",
+    "Population": 1234992,
+    "Prev": 1209836,
+    "Growth": "0.0208"
+  },
+  {
+    "rank": 433,
+    "Name": "Chelyabinsk",
+    "Country": "Russia",
+    "Population": 1232887,
+    "Prev": 1227795,
+    "Growth": "0.0041"
+  },
+  {
+    "rank": 434,
+    "Name": "Moradabad",
+    "Country": "India",
+    "Population": 1232190,
+    "Prev": 1197000,
+    "Growth": "0.0294"
+  },
+  {
+    "rank": 435,
+    "Name": "Barquisimeto",
+    "Country": "Venezuela",
+    "Population": 1227444,
+    "Prev": 1214362,
+    "Growth": "0.0108"
+  },
+  {
+    "rank": 436,
+    "Name": "Durg-Bhilainagar",
+    "Country": "India",
+    "Population": 1225129,
+    "Prev": 1207637,
+    "Growth": "0.0145"
+  },
+  {
+    "rank": 437,
+    "Name": "Suzhou",
+    "Country": "China",
+    "Population": 1219579,
+    "Prev": 1169932,
+    "Growth": "0.0424"
+  },
+  {
+    "rank": 438,
+    "Name": "Maracay",
+    "Country": "Venezuela",
+    "Population": 1216288,
+    "Prev": 1203227,
+    "Growth": "0.0109"
+  },
+  {
+    "rank": 439,
+    "Name": "Astana",
+    "Country": "Kazakhstan",
+    "Population": 1211789,
+    "Prev": 1165983,
+    "Growth": "0.0393"
+  },
+  {
+    "rank": 440,
+    "Name": "Zhuzhou",
+    "Country": "China",
+    "Population": 1209032,
+    "Prev": 1186912,
+    "Growth": "0.0186"
+  },
+  {
+    "rank": 441,
+    "Name": "Ruian",
+    "Country": "China",
+    "Population": 1208306,
+    "Prev": 1168983,
+    "Growth": "0.0336"
+  },
+  {
+    "rank": 442,
+    "Name": "Uyo",
+    "Country": "Nigeria",
+    "Population": 1199929,
+    "Prev": 1135775,
+    "Growth": "0.0565"
+  },
+  {
+    "rank": 443,
+    "Name": "Zhenjiang Jiangsu",
+    "Country": "China",
+    "Population": 1199515,
+    "Prev": 1173816,
+    "Growth": "0.0219"
+  },
+  {
+    "rank": 444,
+    "Name": "Baoji",
+    "Country": "China",
+    "Population": 1197824,
+    "Prev": 1164665,
+    "Growth": "0.0285"
+  },
+  {
+    "rank": 445,
+    "Name": "Jieyang",
+    "Country": "China",
+    "Population": 1194681,
+    "Prev": 1146758,
+    "Growth": "0.0418"
+  },
+  {
+    "rank": 446,
+    "Name": "Chifeng",
+    "Country": "China",
+    "Population": 1194621,
+    "Prev": 1164793,
+    "Growth": "0.0256"
+  },
+  {
+    "rank": 447,
+    "Name": "Bhubaneswar",
+    "Country": "India",
+    "Population": 1194431,
+    "Prev": 1162886,
+    "Growth": "0.0271"
+  },
+  {
+    "rank": 448,
+    "Name": "Pingdingshan Henan",
+    "Country": "China",
+    "Population": 1193224,
+    "Prev": 1159981,
+    "Growth": "0.0287"
+  },
+  {
+    "rank": 449,
+    "Name": "Puning",
+    "Country": "China",
+    "Population": 1192348,
+    "Prev": 1160045,
+    "Growth": "0.0278"
+  },
+  {
+    "rank": 450,
+    "Name": "Mendoza",
+    "Country": "Argentina",
+    "Population": 1191470,
+    "Prev": 1172619,
+    "Growth": "0.0161"
+  },
+  {
+    "rank": 451,
+    "Name": "Bogor",
+    "Country": "Indonesia",
+    "Population": 1183090,
+    "Prev": 1159719,
+    "Growth": "0.0202"
+  },
+  {
+    "rank": 452,
+    "Name": "Chiang Mai",
+    "Country": "Thailand",
+    "Population": 1182498,
+    "Prev": 1166978,
+    "Growth": "0.0133"
+  },
+  {
+    "rank": 453,
+    "Name": "Mwanza",
+    "Country": "Tanzania",
+    "Population": 1182011,
+    "Prev": 1120430,
+    "Growth": "0.0550"
+  },
+  {
+    "rank": 454,
+    "Name": "Tiruchirappalli",
+    "Country": "India",
+    "Population": 1181912,
+    "Prev": 1164668,
+    "Growth": "0.0148"
+  },
+  {
+    "rank": 455,
+    "Name": "Omsk",
+    "Country": "Russia",
+    "Population": 1181590,
+    "Prev": 1182339,
+    "Growth": "-0.0006"
+  },
+  {
+    "rank": 456,
+    "Name": "Merida",
+    "Country": "Mexico",
+    "Population": 1181387,
+    "Prev": 1161475,
+    "Growth": "0.0171"
+  },
+  {
+    "rank": 457,
+    "Name": "Benxi",
+    "Country": "China",
+    "Population": 1176490,
+    "Prev": 1157413,
+    "Growth": "0.0165"
+  },
+  {
+    "rank": 458,
+    "Name": "Huaibei",
+    "Country": "China",
+    "Population": 1174248,
+    "Prev": 1141734,
+    "Growth": "0.0285"
+  },
+  {
+    "rank": 459,
+    "Name": "Lilongwe",
+    "Country": "Malawi",
+    "Population": 1170870,
+    "Prev": 1121720,
+    "Growth": "0.0438"
+  },
+  {
+    "rank": 460,
+    "Name": "Nanyang Henan",
+    "Country": "China",
+    "Population": 1170491,
+    "Prev": 1142799,
+    "Growth": "0.0242"
+  },
+  {
+    "rank": 461,
+    "Name": "Jinhua",
+    "Country": "China",
+    "Population": 1170332,
+    "Prev": 1122440,
+    "Growth": "0.0427"
+  },
+  {
+    "rank": 462,
+    "Name": "Xiangtan Hunan",
+    "Country": "China",
+    "Population": 1170327,
+    "Prev": 1142976,
+    "Growth": "0.0239"
+  },
+  {
+    "rank": 463,
+    "Name": "Kigali",
+    "Country": "Rwanda",
+    "Population": 1169889,
+    "Prev": 1132101,
+    "Growth": "0.0334"
+  },
+  {
+    "rank": 464,
+    "Name": "Tripoli",
+    "Country": "Libya",
+    "Population": 1169790,
+    "Prev": 1165085,
+    "Growth": "0.0040"
+  },
+  {
+    "rank": 465,
+    "Name": "Chandigarh",
+    "Country": "India",
+    "Population": 1169244,
+    "Prev": 1148472,
+    "Growth": "0.0181"
+  },
+  {
+    "rank": 466,
+    "Name": "Jinzhou",
+    "Country": "China",
+    "Population": 1168535,
+    "Prev": 1145359,
+    "Growth": "0.0202"
+  },
+  {
+    "rank": 467,
+    "Name": "Islamabad",
+    "Country": "Pakistan",
+    "Population": 1163584,
+    "Prev": 1129198,
+    "Growth": "0.0305"
+  },
+  {
+    "rank": 468,
+    "Name": "Samara",
+    "Country": "Russia",
+    "Population": 1160167,
+    "Prev": 1163296,
+    "Growth": "-0.0027"
+  },
+  {
+    "rank": 469,
+    "Name": "Amsterdam",
+    "Country": "Netherlands",
+    "Population": 1157519,
+    "Prev": 1148972,
+    "Growth": "0.0074"
+  },
+  {
+    "rank": 470,
+    "Name": "Da Nang",
+    "Country": "Vietnam",
+    "Population": 1156585,
+    "Prev": 1125316,
+    "Growth": "0.0278"
+  },
+  {
+    "rank": 471,
+    "Name": "Haifa",
+    "Country": "Israel",
+    "Population": 1155006,
+    "Prev": 1147431,
+    "Growth": "0.0066"
+  },
+  {
+    "rank": 472,
+    "Name": "Guilin",
+    "Country": "China",
+    "Population": 1154702,
+    "Prev": 1134393,
+    "Growth": "0.0179"
+  },
+  {
+    "rank": 473,
+    "Name": "Krasnoyarsk",
+    "Country": "Russia",
+    "Population": 1148957,
+    "Prev": 1137494,
+    "Growth": "0.0101"
+  },
+  {
+    "rank": 474,
+    "Name": "Mexicali",
+    "Country": "Mexico",
+    "Population": 1140298,
+    "Prev": 1120872,
+    "Growth": "0.0173"
+  },
+  {
+    "rank": 475,
+    "Name": "Ufa",
+    "Country": "Russia",
+    "Population": 1139561,
+    "Prev": 1136291,
+    "Growth": "0.0029"
+  },
+  {
+    "rank": 476,
+    "Name": "Rostov-on-Don",
+    "Country": "Russia",
+    "Population": 1137147,
+    "Prev": 1136201,
+    "Growth": "0.0008"
+  },
+  {
+    "rank": 477,
+    "Name": "Hubli-Dharwad",
+    "Country": "India",
+    "Population": 1136923,
+    "Prev": 1116728,
+    "Growth": "0.0181"
+  },
+  {
+    "rank": 478,
+    "Name": "Guwahati",
+    "Country": "India",
+    "Population": 1135065,
+    "Prev": 1116740,
+    "Growth": "0.0164"
+  },
+  {
+    "rank": 479,
+    "Name": "Kaduna",
+    "Country": "Nigeria",
+    "Population": 1133430,
+    "Prev": 1113210,
+    "Growth": "0.0182"
+  },
+  {
+    "rank": 480,
+    "Name": "Bukavu",
+    "Country": "DR Congo",
+    "Population": 1133371,
+    "Prev": 1078002,
+    "Growth": "0.0514"
+  },
+  {
+    "rank": 481,
+    "Name": "Liupanshui",
+    "Country": "China",
+    "Population": 1131854,
+    "Prev": 1077317,
+    "Growth": "0.0506"
+  },
+  {
+    "rank": 482,
+    "Name": "Quetta",
+    "Country": "Pakistan",
+    "Population": 1129361,
+    "Prev": 1099546,
+    "Growth": "0.0271"
+  },
+  {
+    "rank": 483,
+    "Name": "Cologne",
+    "Country": "Germany",
+    "Population": 1128652,
+    "Prev": 1118789,
+    "Growth": "0.0088"
+  },
+  {
+    "rank": 484,
+    "Name": "Aguascalientes",
+    "Country": "Mexico",
+    "Population": 1124909,
+    "Prev": 1106453,
+    "Growth": "0.0167"
+  },
+  {
+    "rank": 485,
+    "Name": "Binzhou",
+    "Country": "China",
+    "Population": 1124728,
+    "Prev": 1083867,
+    "Growth": "0.0377"
+  },
+  {
+    "rank": 486,
+    "Name": "Salem",
+    "Country": "India",
+    "Population": 1123873,
+    "Prev": 1102463,
+    "Growth": "0.0194"
+  },
+  {
+    "rank": 487,
+    "Name": "Abomey-Calavi",
+    "Country": "Benin",
+    "Population": 1122713,
+    "Prev": 1056440,
+    "Growth": "0.0627"
+  },
+  {
+    "rank": 488,
+    "Name": "Maputo",
+    "Country": "Mozambique",
+    "Population": 1121697,
+    "Prev": 1110477,
+    "Growth": "0.0101"
+  },
+  {
+    "rank": 489,
+    "Name": "Bandar Lampung",
+    "Country": "Indonesia",
+    "Population": 1114740,
+    "Prev": 1091512,
+    "Growth": "0.0213"
+  },
+  {
+    "rank": 490,
+    "Name": "Aba",
+    "Country": "Nigeria",
+    "Population": 1114388,
+    "Prev": 1081466,
+    "Growth": "0.0304"
+  },
+  {
+    "rank": 491,
+    "Name": "Pizhou",
+    "Country": "China",
+    "Population": 1114385,
+    "Prev": 1063231,
+    "Growth": "0.0481"
+  },
+  {
+    "rank": 492,
+    "Name": "Nnewi",
+    "Country": "Nigeria",
+    "Population": 1113546,
+    "Prev": 1050860,
+    "Growth": "0.0597"
+  },
+  {
+    "rank": 493,
+    "Name": "Tasikmalaya",
+    "Country": "Indonesia",
+    "Population": 1112112,
+    "Prev": 1056485,
+    "Growth": "0.0527"
+  },
+  {
+    "rank": 494,
+    "Name": "San Salvador",
+    "Country": "El Salvador",
+    "Population": 1107305,
+    "Prev": 1105766,
+    "Growth": "0.0014"
+  },
+  {
+    "rank": 495,
+    "Name": "Yongin",
+    "Country": "South Korea",
+    "Population": 1103265,
+    "Prev": 1083345,
+    "Growth": "0.0184"
+  },
+  {
+    "rank": 496,
+    "Name": "Zaozhuang",
+    "Country": "China",
+    "Population": 1101823,
+    "Prev": 1087745,
+    "Growth": "0.0129"
+  },
+  {
+    "rank": 497,
+    "Name": "Xinxiang",
+    "Country": "China",
+    "Population": 1100407,
+    "Prev": 1081031,
+    "Growth": "0.0179"
+  },
+  {
+    "rank": 498,
+    "Name": "Yueqing",
+    "Country": "China",
+    "Population": 1098931,
+    "Prev": 1060702,
+    "Growth": "0.0360"
+  },
+  {
+    "rank": 499,
+    "Name": "Luohe",
+    "Country": "China",
+    "Population": 1096233,
+    "Prev": 1039941,
+    "Growth": "0.0541"
+  },
+  {
+    "rank": 500,
+    "Name": "Saharanpur",
+    "Country": "India",
+    "Population": 1094581,
+    "Prev": 1054102,
+    "Growth": "0.0384"
+  },
+  {
+    "rank": 501,
+    "Name": "Shimkent",
+    "Country": "Kazakhstan",
+    "Population": 1093289,
+    "Prev": 1057936,
+    "Growth": "0.0334"
+  },
+  {
+    "rank": 502,
+    "Name": "Cuernavaca",
+    "Country": "Mexico",
+    "Population": 1091173,
+    "Prev": 1075022,
+    "Growth": "0.0150"
+  },
+  {
+    "rank": 503,
+    "Name": "Yerevan",
+    "Country": "Armenia",
+    "Population": 1089181,
+    "Prev": 1086275,
+    "Growth": "0.0027"
+  },
+  {
+    "rank": 504,
+    "Name": "Goyang",
+    "Country": "South Korea",
+    "Population": 1082815,
+    "Prev": 1069196,
+    "Growth": "0.0127"
+  },
+  {
+    "rank": 505,
+    "Name": "Tbilisi",
+    "Country": "Georgia",
+    "Population": 1078846,
+    "Prev": 1077833,
+    "Growth": "0.0009"
+  },
+  {
+    "rank": 506,
+    "Name": "Chihuahua",
+    "Country": "Mexico",
+    "Population": 1075861,
+    "Prev": 1054766,
+    "Growth": "0.0200"
+  },
+  {
+    "rank": 507,
+    "Name": "Panjin",
+    "Country": "China",
+    "Population": 1075647,
+    "Prev": 1053125,
+    "Growth": "0.0214"
+  },
+  {
+    "rank": 508,
+    "Name": "Perm",
+    "Country": "Russia",
+    "Population": 1075424,
+    "Prev": 1071419,
+    "Growth": "0.0037"
+  },
+  {
+    "rank": 509,
+    "Name": "Bujumbura",
+    "Country": "Burundi",
+    "Population": 1074642,
+    "Prev": 1012996,
+    "Growth": "0.0609"
+  },
+  {
+    "rank": 510,
+    "Name": "Jalandhar",
+    "Country": "India",
+    "Population": 1074383,
+    "Prev": 1053670,
+    "Growth": "0.0197"
+  },
+  {
+    "rank": 511,
+    "Name": "Managua",
+    "Country": "Nicaragua",
+    "Population": 1072852,
+    "Prev": 1063698,
+    "Growth": "0.0086"
+  },
+  {
+    "rank": 512,
+    "Name": "Voronezh",
+    "Country": "Russia",
+    "Population": 1072807,
+    "Prev": 1067719,
+    "Growth": "0.0048"
+  },
+  {
+    "rank": 513,
+    "Name": "Cartagena",
+    "Country": "Colombia",
+    "Population": 1070692,
+    "Prev": 1062622,
+    "Growth": "0.0076"
+  },
+  {
+    "rank": 514,
+    "Name": "Wenling",
+    "Country": "China",
+    "Population": 1069840,
+    "Prev": 1037164,
+    "Growth": "0.0315"
+  },
+  {
+    "rank": 515,
+    "Name": "Lille",
+    "Country": "France",
+    "Population": 1068051,
+    "Prev": 1063085,
+    "Growth": "0.0047"
+  },
+  {
+    "rank": 516,
+    "Name": "Fuyang",
+    "Country": "China",
+    "Population": 1065192,
+    "Prev": 1036162,
+    "Growth": "0.0280"
+  },
+  {
+    "rank": 517,
+    "Name": "Bishkek",
+    "Country": "Kyrgyzstan",
+    "Population": 1060113,
+    "Prev": 1038429,
+    "Growth": "0.0209"
+  },
+  {
+    "rank": 518,
+    "Name": "Diyarbakir",
+    "Country": "Turkey",
+    "Population": 1059686,
+    "Prev": 1039492,
+    "Growth": "0.0194"
+  },
+  {
+    "rank": 519,
+    "Name": "Bazhong",
+    "Country": "China",
+    "Population": 1057600,
+    "Prev": 991820,
+    "Growth": "0.0663"
+  },
+  {
+    "rank": 520,
+    "Name": "Siliguri",
+    "Country": "India",
+    "Population": 1056551,
+    "Prev": 1020303,
+    "Growth": "0.0355"
+  },
+  {
+    "rank": 521,
+    "Name": "Oslo",
+    "Country": "Norway",
+    "Population": 1056180,
+    "Prev": 1041377,
+    "Growth": "0.0142"
+  },
+  {
+    "rank": 522,
+    "Name": "Shangrao",
+    "Country": "China",
+    "Population": 1055178,
+    "Prev": 1028518,
+    "Growth": "0.0259"
+  },
+  {
+    "rank": 523,
+    "Name": "Changwon",
+    "Country": "South Korea",
+    "Population": 1054775,
+    "Prev": 1055974,
+    "Growth": "-0.0011"
+  },
+  {
+    "rank": 524,
+    "Name": "Jingzhou Hubei",
+    "Country": "China",
+    "Population": 1054743,
+    "Prev": 1038296,
+    "Growth": "0.0158"
+  },
+  {
+    "rank": 525,
+    "Name": "Ma'anshan",
+    "Country": "China",
+    "Population": 1051771,
+    "Prev": 1019389,
+    "Growth": "0.0318"
+  },
+  {
+    "rank": 526,
+    "Name": "Zhaoqing",
+    "Country": "China",
+    "Population": 1050908,
+    "Prev": 1023777,
+    "Growth": "0.0265"
+  },
+  {
+    "rank": 527,
+    "Name": "Antwerp",
+    "Country": "Belgium",
+    "Population": 1047613,
+    "Prev": 1042471,
+    "Growth": "0.0049"
+  },
+  {
+    "rank": 528,
+    "Name": "Kermanshah",
+    "Country": "Iran",
+    "Population": 1046604,
+    "Prev": 1025740,
+    "Growth": "0.0203"
+  },
+  {
+    "rank": 529,
+    "Name": "Xiongan",
+    "Country": "China",
+    "Population": 1045719,
+    "Prev": 969535,
+    "Growth": "0.0786"
+  },
+  {
+    "rank": 530,
+    "Name": "Bien Hoa",
+    "Country": "Vietnam",
+    "Population": 1045708,
+    "Prev": 1013064,
+    "Growth": "0.0322"
+  },
+  {
+    "rank": 531,
+    "Name": "Johor Bahru",
+    "Country": "Malaysia",
+    "Population": 1044548,
+    "Prev": 1023900,
+    "Growth": "0.0202"
+  },
+  {
+    "rank": 532,
+    "Name": "Solapur",
+    "Country": "India",
+    "Population": 1041886,
+    "Prev": 1031037,
+    "Growth": "0.0105"
+  },
+  {
+    "rank": 533,
+    "Name": "Samarinda",
+    "Country": "Indonesia",
+    "Population": 1041183,
+    "Prev": 1010413,
+    "Growth": "0.0305"
+  },
+  {
+    "rank": 534,
+    "Name": "Toulouse",
+    "Country": "France",
+    "Population": 1037115,
+    "Prev": 1024166,
+    "Growth": "0.0126"
+  },
+  {
+    "rank": 535,
+    "Name": "Mersin",
+    "Country": "Turkey",
+    "Population": 1034693,
+    "Prev": 1016019,
+    "Growth": "0.0184"
+  },
+  {
+    "rank": 536,
+    "Name": "Hargeysa",
+    "Country": "Somalia",
+    "Population": 1033205,
+    "Prev": 988716,
+    "Growth": "0.0450"
+  },
+  {
+    "rank": 537,
+    "Name": "Teresina",
+    "Country": "Brazil",
+    "Population": 1031220,
+    "Prev": 1021229,
+    "Growth": "0.0098"
+  },
+  {
+    "rank": 538,
+    "Name": "Kirkuk",
+    "Country": "Iraq",
+    "Population": 1031082,
+    "Prev": 1012614,
+    "Growth": "0.0182"
+  },
+  {
+    "rank": 539,
+    "Name": "Fuzhou Jiangxi",
+    "Country": "China",
+    "Population": 1028734,
+    "Prev": 989880,
+    "Growth": "0.0393"
+  },
+  {
+    "rank": 540,
+    "Name": "Aracaju",
+    "Country": "Brazil",
+    "Population": 1026529,
+    "Prev": 1009380,
+    "Growth": "0.0170"
+  },
+  {
+    "rank": 541,
+    "Name": "Bobo-Dioulasso",
+    "Country": "Burkina Faso",
+    "Population": 1022118,
+    "Prev": 972124,
+    "Growth": "0.0514"
+  },
+  {
+    "rank": 542,
+    "Name": "Leshan",
+    "Country": "China",
+    "Population": 1022088,
+    "Prev": 986923,
+    "Growth": "0.0356"
+  },
+  {
+    "rank": 543,
+    "Name": "Yueyang",
+    "Country": "China",
+    "Population": 1021350,
+    "Prev": 1009534,
+    "Growth": "0.0117"
+  },
+  {
+    "rank": 544,
+    "Name": "Dezhou",
+    "Country": "China",
+    "Population": 1019111,
+    "Prev": 986192,
+    "Growth": "0.0334"
+  },
+  {
+    "rank": 545,
+    "Name": "Marrakech",
+    "Country": "Morocco",
+    "Population": 1017379,
+    "Prev": 1002709,
+    "Growth": "0.0146"
+  },
+  {
+    "rank": 546,
+    "Name": "Tampico",
+    "Country": "Mexico",
+    "Population": 1016514,
+    "Prev": 1001278,
+    "Growth": "0.0152"
+  },
+  {
+    "rank": 547,
+    "Name": "Huzhou",
+    "Country": "China",
+    "Population": 1015538,
+    "Prev": 988351,
+    "Growth": "0.0275"
+  },
+  {
+    "rank": 548,
+    "Name": "Rotterdam",
+    "Country": "Netherlands",
+    "Population": 1012007,
+    "Prev": 1010026,
+    "Growth": "0.0020"
+  },
+  {
+    "rank": 549,
+    "Name": "Aden",
+    "Country": "Yemen",
+    "Population": 1011890,
+    "Prev": 980455,
+    "Growth": "0.0321"
+  },
+  {
+    "rank": 550,
+    "Name": "Austin",
+    "Country": "United States",
+    "Population": 1011790,
+    "Prev": 995347,
+    "Growth": "0.0165"
+  },
+  {
+    "rank": 551,
+    "Name": "San Jose",
+    "Country": "United States",
+    "Population": 1009340,
+    "Prev": 1015570,
+    "Growth": "-0.0061"
+  },
+  {
+    "rank": 552,
+    "Name": "Denpasar",
+    "Country": "Indonesia",
+    "Population": 1008709,
+    "Prev": 986853,
+    "Growth": "0.0221"
+  },
+  {
+    "rank": 553,
+    "Name": "Odesa",
+    "Country": "Ukraine",
+    "Population": 1008508,
+    "Prev": 1009289,
+    "Growth": "-0.0008"
+  },
+  {
+    "rank": 554,
+    "Name": "Chenzhou",
+    "Country": "China",
+    "Population": 1004240,
+    "Prev": 959881,
+    "Growth": "0.0462"
+  },
+  {
+    "rank": 555,
+    "Name": "Xuchang",
+    "Country": "China",
+    "Population": 1001570,
+    "Prev": 968135,
+    "Growth": "0.0345"
+  },
+  {
+    "rank": 556,
+    "Name": "Volgograd",
+    "Country": "Russia",
+    "Population": 1000755,
+    "Prev": 1004688,
+    "Growth": "-0.0039"
+  },
+  {
+    "rank": 557,
+    "Name": "Saltillo",
+    "Country": "Mexico",
+    "Population": 1000750,
+    "Prev": 983784,
+    "Growth": "0.0172"
+  },
+  {
+    "rank": 558,
+    "Name": "San Miguel de Tucuman",
+    "Country": "Argentina",
+    "Population": 999907,
+    "Prev": 985656,
+    "Growth": "0.0145"
+  },
+  {
+    "rank": 559,
+    "Name": "Asmara",
+    "Country": "Eritrea",
+    "Population": 998321,
+    "Prev": 962985,
+    "Growth": "0.0367"
+  },
+  {
+    "rank": 560,
+    "Name": "Padang",
+    "Country": "Indonesia",
+    "Population": 997358,
+    "Prev": 980455,
+    "Growth": "0.0172"
+  },
+  {
+    "rank": 561,
+    "Name": "Cebu City",
+    "Country": "Philippines",
+    "Population": 993744,
+    "Prev": 980070,
+    "Growth": "0.0140"
+  },
+  {
+    "rank": 562,
+    "Name": "Acapulco de Juarez",
+    "Country": "Mexico",
+    "Population": 992205,
+    "Prev": 979381,
+    "Growth": "0.0131"
+  },
+  {
+    "rank": 563,
+    "Name": "Valparaiso",
+    "Country": "Chile",
+    "Population": 992183,
+    "Prev": 983751,
+    "Growth": "0.0086"
+  },
+  {
+    "rank": 564,
+    "Name": "Sekondi Takoradi",
+    "Country": "Ghana",
+    "Population": 990661,
+    "Prev": 945519,
+    "Growth": "0.0477"
+  },
+  {
+    "rank": 565,
+    "Name": "Ikorodu",
+    "Country": "Nigeria",
+    "Population": 989117,
+    "Prev": 937615,
+    "Growth": "0.0549"
+  },
+  {
+    "rank": 566,
+    "Name": "Kayseri",
+    "Country": "Turkey",
+    "Population": 986987,
+    "Prev": 973506,
+    "Growth": "0.0138"
+  },
+  {
+    "rank": 567,
+    "Name": "Warangal",
+    "Country": "India",
+    "Population": 983128,
+    "Prev": 959658,
+    "Growth": "0.0245"
+  },
+  {
+    "rank": 568,
+    "Name": "Changshu",
+    "Country": "China",
+    "Population": 981654,
+    "Prev": 938683,
+    "Growth": "0.0458"
+  },
+  {
+    "rank": 569,
+    "Name": "Bordeaux",
+    "Country": "France",
+    "Population": 980130,
+    "Prev": 968993,
+    "Growth": "0.0115"
+  },
+  {
+    "rank": 570,
+    "Name": "Songkhla",
+    "Country": "Thailand",
+    "Population": 979453,
+    "Prev": 966597,
+    "Growth": "0.0133"
+  },
+  {
+    "rank": 571,
+    "Name": "Qujing",
+    "Country": "China",
+    "Population": 976171,
+    "Prev": 942342,
+    "Growth": "0.0359"
+  },
+  {
+    "rank": 572,
+    "Name": "Nonthaburi",
+    "Country": "Thailand",
+    "Population": 975497,
+    "Prev": 962694,
+    "Growth": "0.0133"
+  },
+  {
+    "rank": 573,
+    "Name": "Yichun Jiangxi",
+    "Country": "China",
+    "Population": 975387,
+    "Prev": 918051,
+    "Growth": "0.0625"
+  },
+  {
+    "rank": 574,
+    "Name": "Krasnodar",
+    "Country": "Russia",
+    "Population": 974377,
+    "Prev": 957214,
+    "Growth": "0.0179"
+  },
+  {
+    "rank": 575,
+    "Name": "Ilorin",
+    "Country": "Nigeria",
+    "Population": 973671,
+    "Prev": 949866,
+    "Growth": "0.0251"
+  },
+  {
+    "rank": 576,
+    "Name": "Cancun",
+    "Country": "Mexico",
+    "Population": 971798,
+    "Prev": 943922,
+    "Growth": "0.0295"
+  },
+  {
+    "rank": 577,
+    "Name": "Tshikapa",
+    "Country": "DR Congo",
+    "Population": 970831,
+    "Prev": 919192,
+    "Growth": "0.0562"
+  },
+  {
+    "rank": 578,
+    "Name": "Nyala",
+    "Country": "Sudan",
+    "Population": 967430,
+    "Prev": 922532,
+    "Growth": "0.0487"
+  },
+  {
+    "rank": 579,
+    "Name": "Xintai",
+    "Country": "China",
+    "Population": 966759,
+    "Prev": 936382,
+    "Growth": "0.0324"
+  },
+  {
+    "rank": 580,
+    "Name": "Jixi Heilongjiang",
+    "Country": "China",
+    "Population": 963278,
+    "Prev": 949646,
+    "Growth": "0.0144"
+  },
+  {
+    "rank": 581,
+    "Name": "Blantyre-Limbe",
+    "Country": "Malawi",
+    "Population": 962145,
+    "Prev": 932263,
+    "Growth": "0.0321"
+  },
+  {
+    "rank": 582,
+    "Name": "Morelia",
+    "Country": "Mexico",
+    "Population": 961834,
+    "Prev": 948793,
+    "Growth": "0.0137"
+  },
+  {
+    "rank": 583,
+    "Name": "Pingxiang Jiangxi",
+    "Country": "China",
+    "Population": 953042,
+    "Prev": 928895,
+    "Growth": "0.0260"
+  },
+  {
+    "rank": 584,
+    "Name": "Dnipro",
+    "Country": "Ukraine",
+    "Population": 951821,
+    "Prev": 957345,
+    "Growth": "-0.0058"
+  },
+  {
+    "rank": 585,
+    "Name": "Khulna",
+    "Country": "Bangladesh",
+    "Population": 949229,
+    "Prev": 953745,
+    "Growth": "-0.0047"
+  },
+  {
+    "rank": 586,
+    "Name": "Jerusalem",
+    "Country": "Israel",
+    "Population": 944188,
+    "Prev": 931756,
+    "Growth": "0.0133"
+  },
+  {
+    "rank": 587,
+    "Name": "Cucuta",
+    "Country": "Colombia",
+    "Population": 943489,
+    "Prev": 933380,
+    "Growth": "0.0108"
+  },
+  {
+    "rank": 588,
+    "Name": "Nice",
+    "Country": "France",
+    "Population": 943342,
+    "Prev": 942208,
+    "Growth": "0.0012"
+  },
+  {
+    "rank": 589,
+    "Name": "Dehradun",
+    "Country": "India",
+    "Population": 943136,
+    "Prev": 918946,
+    "Growth": "0.0263"
+  },
+  {
+    "rank": 590,
+    "Name": "Seongnam",
+    "Country": "South Korea",
+    "Population": 942342,
+    "Prev": 943768,
+    "Growth": "-0.0015"
+  },
+  {
+    "rank": 591,
+    "Name": "Fort Worth",
+    "Country": "United States",
+    "Population": 942323,
+    "Prev": 925954,
+    "Growth": "0.0177"
+  },
+  {
+    "rank": 592,
+    "Name": "Agadir",
+    "Country": "Morocco",
+    "Population": 941839,
+    "Prev": 923552,
+    "Growth": "0.0198"
+  },
+  {
+    "rank": 593,
+    "Name": "Mudanjiang",
+    "Country": "China",
+    "Population": 941660,
+    "Prev": 925522,
+    "Growth": "0.0174"
+  },
+  {
+    "rank": 594,
+    "Name": "Hamah",
+    "Country": "Syria",
+    "Population": 939904,
+    "Prev": 921502,
+    "Growth": "0.0200"
+  },
+  {
+    "rank": 595,
+    "Name": "Dushanbe",
+    "Country": "Tajikistan",
+    "Population": 938444,
+    "Prev": 915712,
+    "Growth": "0.0248"
+  },
+  {
+    "rank": 596,
+    "Name": "Guiping",
+    "Country": "China",
+    "Population": 937152,
+    "Prev": 891158,
+    "Growth": "0.0516"
+  },
+  {
+    "rank": 597,
+    "Name": "Jiujiang",
+    "Country": "China",
+    "Population": 936927,
+    "Prev": 913212,
+    "Growth": "0.0260"
+  },
+  {
+    "rank": 598,
+    "Name": "Southampton",
+    "Country": "United Kingdom",
+    "Population": 935868,
+    "Prev": 927916,
+    "Growth": "0.0086"
+  },
+  {
+    "rank": 599,
+    "Name": "Laiwu",
+    "Country": "China",
+    "Population": 934916,
+    "Prev": 907839,
+    "Growth": "0.0298"
+  },
+  {
+    "rank": 600,
+    "Name": "Arequipa",
+    "Country": "Peru",
+    "Population": 934845,
+    "Prev": 922999,
+    "Growth": "0.0128"
+  },
+  {
+    "rank": 601,
+    "Name": "Ciudad Guayana",
+    "Country": "Venezuela",
+    "Population": 933968,
+    "Prev": 917700,
+    "Growth": "0.0177"
+  },
+  {
+    "rank": 602,
+    "Name": "Zamboanga City",
+    "Country": "Philippines",
+    "Population": 930610,
+    "Prev": 917477,
+    "Growth": "0.0143"
+  },
+  {
+    "rank": 603,
+    "Name": "Veracruz",
+    "Country": "Mexico",
+    "Population": 930387,
+    "Prev": 918529,
+    "Growth": "0.0129"
+  },
+  {
+    "rank": 604,
+    "Name": "Jacksonville",
+    "Country": "United States",
+    "Population": 929647,
+    "Prev": 920577,
+    "Growth": "0.0099"
+  },
+  {
+    "rank": 605,
+    "Name": "San Pedro Sula",
+    "Country": "Honduras",
+    "Population": 929191,
+    "Prev": 902751,
+    "Growth": "0.0293"
+  },
+  {
+    "rank": 606,
+    "Name": "Zhucheng",
+    "Country": "China",
+    "Population": 926596,
+    "Prev": 891494,
+    "Growth": "0.0394"
+  },
+  {
+    "rank": 607,
+    "Name": "Pathum Thani",
+    "Country": "Thailand",
+    "Population": 925893,
+    "Prev": 913741,
+    "Growth": "0.0133"
+  },
+  {
+    "rank": 608,
+    "Name": "Rajshahi",
+    "Country": "Bangladesh",
+    "Population": 924033,
+    "Prev": 907732,
+    "Growth": "0.0180"
+  },
+  {
+    "rank": 609,
+    "Name": "Chengde",
+    "Country": "China",
+    "Population": 920395,
+    "Prev": 880494,
+    "Growth": "0.0453"
+  },
+  {
+    "rank": 610,
+    "Name": "Misratah",
+    "Country": "Libya",
+    "Population": 918946,
+    "Prev": 881319,
+    "Growth": "0.0427"
+  },
+  {
+    "rank": 611,
+    "Name": "Guigang",
+    "Country": "China",
+    "Population": 917484,
+    "Prev": 891173,
+    "Growth": "0.0295"
+  },
+  {
+    "rank": 612,
+    "Name": "Jos",
+    "Country": "Nigeria",
+    "Population": 917289,
+    "Prev": 895288,
+    "Growth": "0.0246"
+  },
+  {
+    "rank": 613,
+    "Name": "Reynosa",
+    "Country": "Mexico",
+    "Population": 917021,
+    "Prev": 899084,
+    "Growth": "0.0200"
+  },
+  {
+    "rank": 614,
+    "Name": "Bengbu",
+    "Country": "China",
+    "Population": 915242,
+    "Prev": 901773,
+    "Growth": "0.0149"
+  },
+  {
+    "rank": 615,
+    "Name": "Columbus",
+    "Country": "United States",
+    "Population": 913921,
+    "Prev": 906237,
+    "Growth": "0.0085"
+  },
+  {
+    "rank": 616,
+    "Name": "Villahermosa",
+    "Country": "Mexico",
+    "Population": 913606,
+    "Prev": 898461,
+    "Growth": "0.0169"
+  },
+  {
+    "rank": 617,
+    "Name": "Yangjiang",
+    "Country": "China",
+    "Population": 912468,
+    "Prev": 890013,
+    "Growth": "0.0252"
+  },
+  {
+    "rank": 618,
+    "Name": "Charlotte",
+    "Country": "United States",
+    "Population": 912096,
+    "Prev": 898902,
+    "Growth": "0.0147"
+  },
+  {
+    "rank": 619,
+    "Name": "Ulsan",
+    "Country": "South Korea",
+    "Population": 910778,
+    "Prev": 910330,
+    "Growth": "0.0005"
+  },
+  {
+    "rank": 620,
+    "Name": "Bangui",
+    "Country": "Central African Republic",
+    "Population": 910270,
+    "Prev": 889231,
+    "Growth": "0.0237"
+  },
+  {
+    "rank": 621,
+    "Name": "Oran",
+    "Country": "Algeria",
+    "Population": 910030,
+    "Prev": 899182,
+    "Growth": "0.0121"
+  },
+  {
+    "rank": 622,
+    "Name": "West Rand",
+    "Country": "South Africa",
+    "Population": 909301,
+    "Prev": 897609,
+    "Growth": "0.0130"
+  },
+  {
+    "rank": 623,
+    "Name": "Owerri",
+    "Country": "Nigeria",
+    "Population": 908109,
+    "Prev": 872604,
+    "Growth": "0.0407"
+  },
+  {
+    "rank": 624,
+    "Name": "Campo Grande",
+    "Country": "Brazil",
+    "Population": 907028,
+    "Prev": 896864,
+    "Growth": "0.0113"
+  },
+  {
+    "rank": 625,
+    "Name": "Liverpool",
+    "Country": "United Kingdom",
+    "Population": 906443,
+    "Prev": 901708,
+    "Growth": "0.0053"
+  },
+  {
+    "rank": 626,
+    "Name": "Antipolo",
+    "Country": "Philippines",
+    "Population": 902993,
+    "Prev": 881018,
+    "Growth": "0.0249"
+  },
+  {
+    "rank": 627,
+    "Name": "Najaf",
+    "Country": "Iraq",
+    "Population": 901405,
+    "Prev": 873744,
+    "Growth": "0.0317"
+  },
+  {
+    "rank": 628,
+    "Name": "Zhangzhou",
+    "Country": "China",
+    "Population": 900904,
+    "Prev": 871690,
+    "Growth": "0.0335"
+  },
+  {
+    "rank": 629,
+    "Name": "Bergamo",
+    "Country": "Italy",
+    "Population": 900094,
+    "Prev": 892089,
+    "Growth": "0.0090"
+  },
+  {
+    "rank": 630,
+    "Name": "Donetsk",
+    "Country": "Ukraine",
+    "Population": 899325,
+    "Prev": 905530,
+    "Growth": "-0.0069"
+  },
+  {
+    "rank": 631,
+    "Name": "Tianmen",
+    "Country": "China",
+    "Population": 899094,
+    "Prev": 869837,
+    "Growth": "0.0336"
+  },
+  {
+    "rank": 632,
+    "Name": "Warri",
+    "Country": "Nigeria",
+    "Population": 898927,
+    "Prev": 855941,
+    "Growth": "0.0502"
+  },
+  {
+    "rank": 633,
+    "Name": "Londrina",
+    "Country": "Brazil",
+    "Population": 898681,
+    "Prev": 885516,
+    "Growth": "0.0149"
+  },
+  {
+    "rank": 634,
+    "Name": "Leiyang",
+    "Country": "China",
+    "Population": 896394,
+    "Prev": 851071,
+    "Growth": "0.0533"
+  },
+  {
+    "rank": 635,
+    "Name": "Malang",
+    "Country": "Indonesia",
+    "Population": 896009,
+    "Prev": 886620,
+    "Growth": "0.0106"
+  },
+  {
+    "rank": 636,
+    "Name": "La Plata",
+    "Country": "Argentina",
+    "Population": 894159,
+    "Prev": 884054,
+    "Growth": "0.0114"
+  },
+  {
+    "rank": 637,
+    "Name": "Concepcion",
+    "Country": "Chile",
+    "Population": 891744,
+    "Prev": 880722,
+    "Growth": "0.0125"
+  },
+  {
+    "rank": 638,
+    "Name": "Hengshui",
+    "Country": "China",
+    "Population": 891603,
+    "Prev": 856705,
+    "Growth": "0.0407"
+  },
+  {
+    "rank": 639,
+    "Name": "Linfen",
+    "Country": "China",
+    "Population": 891049,
+    "Prev": 858103,
+    "Growth": "0.0384"
+  },
+  {
+    "rank": 640,
+    "Name": "Xinyu",
+    "Country": "China",
+    "Population": 890884,
+    "Prev": 857567,
+    "Growth": "0.0389"
+  },
+  {
+    "rank": 641,
+    "Name": "Sylhet",
+    "Country": "Bangladesh",
+    "Population": 890180,
+    "Prev": 851808,
+    "Growth": "0.0450"
+  },
+  {
+    "rank": 642,
+    "Name": "Dandong",
+    "Country": "China",
+    "Population": 890031,
+    "Prev": 877258,
+    "Growth": "0.0146"
+  },
+  {
+    "rank": 643,
+    "Name": "Indianapolis",
+    "Country": "United States",
+    "Population": 887232,
+    "Prev": 881808,
+    "Growth": "0.0062"
+  },
+  {
+    "rank": 644,
+    "Name": "Nampula",
+    "Country": "Mozambique",
+    "Population": 887055,
+    "Prev": 848096,
+    "Growth": "0.0459"
+  },
+  {
+    "rank": 645,
+    "Name": "Deyang",
+    "Country": "China",
+    "Population": 885818,
+    "Prev": 857306,
+    "Growth": "0.0333"
+  },
+  {
+    "rank": 646,
+    "Name": "Hermosillo",
+    "Country": "Mexico",
+    "Population": 883916,
+    "Prev": 867885,
+    "Growth": "0.0185"
+  },
+  {
+    "rank": 647,
+    "Name": "San Francisco",
+    "Country": "United States",
+    "Population": 883255,
+    "Prev": 882402,
+    "Growth": "0.0010"
+  },
+  {
+    "rank": 648,
+    "Name": "Trujillo",
+    "Country": "Peru",
+    "Population": 877875,
+    "Prev": 864633,
+    "Growth": "0.0153"
+  },
+  {
+    "rank": 649,
+    "Name": "Taiz",
+    "Country": "Yemen",
+    "Population": 875941,
+    "Prev": 845154,
+    "Growth": "0.0364"
+  },
+  {
+    "rank": 650,
+    "Name": "Guntur",
+    "Country": "India",
+    "Population": 875474,
+    "Prev": 854488,
+    "Growth": "0.0246"
+  },
+  {
+    "rank": 651,
+    "Name": "Jiangyin",
+    "Country": "China",
+    "Population": 874924,
+    "Prev": 843292,
+    "Growth": "0.0375"
+  },
+  {
+    "rank": 652,
+    "Name": "Bhiwandi",
+    "Country": "India",
+    "Population": 874032,
+    "Prev": 859435,
+    "Growth": "0.0170"
+  },
+  {
+    "rank": 653,
+    "Name": "Lubango",
+    "Country": "Angola",
+    "Population": 870935,
+    "Prev": 828248,
+    "Growth": "0.0515"
+  },
+  {
+    "rank": 654,
+    "Name": "Liaoyang",
+    "Country": "China",
+    "Population": 870185,
+    "Prev": 855663,
+    "Growth": "0.0170"
+  },
+  {
+    "rank": 655,
+    "Name": "Bahawalpur",
+    "Country": "Pakistan",
+    "Population": 869548,
+    "Prev": 844673,
+    "Growth": "0.0294"
+  },
+  {
+    "rank": 656,
+    "Name": "Changzhi",
+    "Country": "China",
+    "Population": 868308,
+    "Prev": 846365,
+    "Growth": "0.0259"
+  },
+  {
+    "rank": 657,
+    "Name": "Tyumen",
+    "Country": "Russia",
+    "Population": 866741,
+    "Prev": 843196,
+    "Growth": "0.0279"
+  },
+  {
+    "rank": 658,
+    "Name": "Soshanguve",
+    "Country": "South Africa",
+    "Population": 866005,
+    "Prev": 853347,
+    "Growth": "0.0148"
+  },
+  {
+    "rank": 659,
+    "Name": "Tuxtla Gutierrez",
+    "Country": "Mexico",
+    "Population": 865000,
+    "Prev": 847924,
+    "Growth": "0.0201"
+  },
+  {
+    "rank": 660,
+    "Name": "Ashgabat",
+    "Country": "Turkmenistan",
+    "Population": 864695,
+    "Prev": 846255,
+    "Growth": "0.0218"
+  },
+  {
+    "rank": 661,
+    "Name": "Erbil",
+    "Country": "Iraq",
+    "Population": 861158,
+    "Prev": 846374,
+    "Growth": "0.0175"
+  },
+  {
+    "rank": 662,
+    "Name": "Baishan",
+    "Country": "China",
+    "Population": 859381,
+    "Prev": 821967,
+    "Growth": "0.0455"
+  },
+  {
+    "rank": 663,
+    "Name": "Liling",
+    "Country": "China",
+    "Population": 857167,
+    "Prev": 812975,
+    "Growth": "0.0544"
+  },
+  {
+    "rank": 664,
+    "Name": "Tainan",
+    "Country": "Taiwan",
+    "Population": 856736,
+    "Prev": 849996,
+    "Growth": "0.0079"
+  },
+  {
+    "rank": 665,
+    "Name": "Puducherry",
+    "Country": "India",
+    "Population": 856354,
+    "Prev": 836003,
+    "Growth": "0.0243"
+  },
+  {
+    "rank": 666,
+    "Name": "Culiacan",
+    "Country": "Mexico",
+    "Population": 856072,
+    "Prev": 839054,
+    "Growth": "0.0203"
+  },
+  {
+    "rank": 667,
+    "Name": "Changde",
+    "Country": "China",
+    "Population": 853497,
+    "Prev": 830010,
+    "Growth": "0.0283"
+  },
+  {
+    "rank": 668,
+    "Name": "Fuxin",
+    "Country": "China",
+    "Population": 850647,
+    "Prev": 839189,
+    "Growth": "0.0137"
+  },
+  {
+    "rank": 669,
+    "Name": "Palermo",
+    "Country": "Italy",
+    "Population": 850179,
+    "Prev": 851146,
+    "Growth": "-0.0011"
+  },
+  {
+    "rank": 670,
+    "Name": "Shangqiu",
+    "Country": "China",
+    "Population": 850165,
+    "Prev": 826598,
+    "Growth": "0.0285"
+  },
+  {
+    "rank": 671,
+    "Name": "Xingtai",
+    "Country": "China",
+    "Population": 849674,
+    "Prev": 831175,
+    "Growth": "0.0223"
+  },
+  {
+    "rank": 672,
+    "Name": "Hufuf-Mubarraz",
+    "Country": "Saudi Arabia",
+    "Population": 848479,
+    "Prev": 836727,
+    "Growth": "0.0140"
+  },
+  {
+    "rank": 673,
+    "Name": "Firozabad",
+    "Country": "India",
+    "Population": 845746,
+    "Prev": 821043,
+    "Growth": "0.0301"
+  },
+  {
+    "rank": 674,
+    "Name": "Libreville",
+    "Country": "Gabon",
+    "Population": 845100,
+    "Prev": 834204,
+    "Growth": "0.0131"
+  },
+  {
+    "rank": 675,
+    "Name": "Huangshi",
+    "Country": "China",
+    "Population": 844307,
+    "Prev": 828324,
+    "Growth": "0.0193"
+  },
+  {
+    "rank": 676,
+    "Name": "Saratov",
+    "Country": "Russia",
+    "Population": 840883,
+    "Prev": 842680,
+    "Growth": "-0.0021"
+  },
+  {
+    "rank": 677,
+    "Name": "Banghazi",
+    "Country": "Libya",
+    "Population": 836031,
+    "Prev": 823974,
+    "Growth": "0.0146"
+  },
+  {
+    "rank": 678,
+    "Name": "Valencia",
+    "Country": "Spain",
+    "Population": 835341,
+    "Prev": 833724,
+    "Growth": "0.0019"
+  },
+  {
+    "rank": 679,
+    "Name": "Luzhou",
+    "Country": "China",
+    "Population": 833637,
+    "Prev": 822996,
+    "Growth": "0.0129"
+  },
+  {
+    "rank": 680,
+    "Name": "Quebec City",
+    "Country": "Canada",
+    "Population": 831776,
+    "Prev": 826109,
+    "Growth": "0.0069"
+  },
+  {
+    "rank": 681,
+    "Name": "Yibin",
+    "Country": "China",
+    "Population": 831013,
+    "Prev": 814166,
+    "Growth": "0.0207"
+  },
+  {
+    "rank": 682,
+    "Name": "Bucheon",
+    "Country": "South Korea",
+    "Population": 829592,
+    "Prev": 832093,
+    "Growth": "-0.0030"
+  },
+  {
+    "rank": 683,
+    "Name": "Ipoh",
+    "Country": "Malaysia",
+    "Population": 827719,
+    "Prev": 813553,
+    "Growth": "0.0174"
+  },
+  {
+    "rank": 684,
+    "Name": "Winnipeg",
+    "Country": "Canada",
+    "Population": 824771,
+    "Prev": 816593,
+    "Growth": "0.0100"
+  },
+  {
+    "rank": 685,
+    "Name": "Bogra",
+    "Country": "Bangladesh",
+    "Population": 820297,
+    "Prev": 775034,
+    "Growth": "0.0584"
+  },
+  {
+    "rank": 686,
+    "Name": "Cabinda",
+    "Country": "Angola",
+    "Population": 819452,
+    "Prev": 777697,
+    "Growth": "0.0537"
+  },
+  {
+    "rank": 687,
+    "Name": "Umuahia",
+    "Country": "Nigeria",
+    "Population": 816983,
+    "Prev": 773822,
+    "Growth": "0.0558"
+  },
+  {
+    "rank": 688,
+    "Name": "Xinyang",
+    "Country": "China",
+    "Population": 816967,
+    "Prev": 797369,
+    "Growth": "0.0246"
+  },
+  {
+    "rank": 689,
+    "Name": "Xinghua",
+    "Country": "China",
+    "Population": 815780,
+    "Prev": 791297,
+    "Growth": "0.0309"
+  },
+  {
+    "rank": 690,
+    "Name": "Newcastle upon Tyne",
+    "Country": "United Kingdom",
+    "Population": 813807,
+    "Prev": 809481,
+    "Growth": "0.0053"
+  },
+  {
+    "rank": 691,
+    "Name": "Yangquan",
+    "Country": "China",
+    "Population": 813696,
+    "Prev": 794262,
+    "Growth": "0.0245"
+  },
+  {
+    "rank": 692,
+    "Name": "Thessaloniki",
+    "Country": "Greece",
+    "Population": 812964,
+    "Prev": 812166,
+    "Growth": "0.0010"
+  },
+  {
+    "rank": 693,
+    "Name": "Yongzhou",
+    "Country": "China",
+    "Population": 809415,
+    "Prev": 781940,
+    "Growth": "0.0351"
+  },
+  {
+    "rank": 694,
+    "Name": "Bologna",
+    "Country": "Italy",
+    "Population": 808931,
+    "Prev": 805986,
+    "Growth": "0.0037"
+  },
+  {
+    "rank": 695,
+    "Name": "Orumiyeh",
+    "Country": "Iran",
+    "Population": 808149,
+    "Prev": 793044,
+    "Growth": "0.0190"
+  },
+  {
+    "rank": 696,
+    "Name": "Xiaogan",
+    "Country": "China",
+    "Population": 806258,
+    "Prev": 783483,
+    "Growth": "0.0291"
+  },
+  {
+    "rank": 697,
+    "Name": "Heze",
+    "Country": "China",
+    "Population": 804759,
+    "Prev": 795246,
+    "Growth": "0.0120"
+  },
+  {
+    "rank": 698,
+    "Name": "Barcelona-Puerto La Cruz",
+    "Country": "Venezuela",
+    "Population": 804488,
+    "Prev": 793641,
+    "Growth": "0.0137"
+  },
+  {
+    "rank": 699,
+    "Name": "Maiduguri",
+    "Country": "Nigeria",
+    "Population": 802988,
+    "Prev": 786485,
+    "Growth": "0.0210"
+  },
+  {
+    "rank": 700,
+    "Name": "Kuerle",
+    "Country": "China",
+    "Population": 801993,
+    "Prev": 761329,
+    "Growth": "0.0534"
+  },
+  {
+    "rank": 701,
+    "Name": "Niigata",
+    "Country": "Japan",
+    "Population": 801982,
+    "Prev": 804298,
+    "Growth": "-0.0029"
+  },
+  {
+    "rank": 702,
+    "Name": "Eskisehir",
+    "Country": "Turkey",
+    "Population": 801612,
+    "Prev": 783669,
+    "Growth": "0.0229"
+  },
+  {
+    "rank": 703,
+    "Name": "Cherthala",
+    "Country": "India",
+    "Population": 801264,
+    "Prev": 764135,
+    "Growth": "0.0486"
+  },
+  {
+    "rank": 704,
+    "Name": "Quzhou",
+    "Country": "China",
+    "Population": 798191,
+    "Prev": 757655,
+    "Growth": "0.0535"
+  },
+  {
+    "rank": 705,
+    "Name": "Zhuji",
+    "Country": "China",
+    "Population": 796974,
+    "Prev": 777536,
+    "Growth": "0.0250"
+  },
+  {
+    "rank": 706,
+    "Name": "Sorocaba",
+    "Country": "Brazil",
+    "Population": 795569,
+    "Prev": 785997,
+    "Growth": "0.0122"
+  },
+  {
+    "rank": 707,
+    "Name": "Haicheng",
+    "Country": "China",
+    "Population": 795424,
+    "Prev": 783484,
+    "Growth": "0.0152"
+  },
+  {
+    "rank": 708,
+    "Name": "Enugu",
+    "Country": "Nigeria",
+    "Population": 795271,
+    "Prev": 772872,
+    "Growth": "0.0290"
+  },
+  {
+    "rank": 709,
+    "Name": "Nottingham",
+    "Country": "United Kingdom",
+    "Population": 794008,
+    "Prev": 787610,
+    "Growth": "0.0081"
+  },
+  {
+    "rank": 710,
+    "Name": "Tianshui",
+    "Country": "China",
+    "Population": 790461,
+    "Prev": 765372,
+    "Growth": "0.0328"
+  },
+  {
+    "rank": 711,
+    "Name": "Huludao",
+    "Country": "China",
+    "Population": 790403,
+    "Prev": 775322,
+    "Growth": "0.0195"
+  },
+  {
+    "rank": 712,
+    "Name": "Xalapa",
+    "Country": "Mexico",
+    "Population": 787349,
+    "Prev": 775620,
+    "Growth": "0.0151"
+  },
+  {
+    "rank": 713,
+    "Name": "Bikaner",
+    "Country": "India",
+    "Population": 786652,
+    "Prev": 771878,
+    "Growth": "0.0191"
+  },
+  {
+    "rank": 714,
+    "Name": "Frankfurt",
+    "Country": "Germany",
+    "Population": 784780,
+    "Prev": 777156,
+    "Growth": "0.0098"
+  },
+  {
+    "rank": 715,
+    "Name": "Huaihua",
+    "Country": "China",
+    "Population": 784323,
+    "Prev": 751803,
+    "Growth": "0.0433"
+  },
+  {
+    "rank": 716,
+    "Name": "Nakhon Ratchasima",
+    "Country": "Thailand",
+    "Population": 783180,
+    "Prev": 774022,
+    "Growth": "0.0118"
+  },
+  {
+    "rank": 717,
+    "Name": "Vereeniging",
+    "Country": "South Africa",
+    "Population": 779530,
+    "Prev": 774031,
+    "Growth": "0.0071"
+  },
+  {
+    "rank": 718,
+    "Name": "Liaocheng",
+    "Country": "China",
+    "Population": 778562,
+    "Prev": 760885,
+    "Growth": "0.0232"
+  },
+  {
+    "rank": 719,
+    "Name": "Seattle",
+    "Country": "United States",
+    "Population": 776555,
+    "Prev": 765115,
+    "Growth": "0.0150"
+  },
+  {
+    "rank": 720,
+    "Name": "Jiaozuo",
+    "Country": "China",
+    "Population": 775685,
+    "Prev": 766770,
+    "Growth": "0.0116"
+  },
+  {
+    "rank": 721,
+    "Name": "Bozhou",
+    "Country": "China",
+    "Population": 773217,
+    "Prev": 742150,
+    "Growth": "0.0419"
+  },
+  {
+    "rank": 722,
+    "Name": "Nellore",
+    "Country": "India",
+    "Population": 772941,
+    "Prev": 751034,
+    "Growth": "0.0292"
+  },
+  {
+    "rank": 723,
+    "Name": "Hamilton",
+    "Country": "Canada",
+    "Population": 770976,
+    "Prev": 766688,
+    "Growth": "0.0056"
+  },
+  {
+    "rank": 724,
+    "Name": "Gebze",
+    "Country": "Turkey",
+    "Population": 769633,
+    "Prev": 744674,
+    "Growth": "0.0335"
+  },
+  {
+    "rank": 726,
+    "Name": "Taixing",
+    "Country": "China",
+    "Population": 769620,
+    "Prev": 747588,
+    "Growth": "0.0295"
+  },
+  {
+    "rank": 725,
+    "Name": "Cagayan de Oro City",
+    "Country": "Philippines",
+    "Population": 769620,
+    "Prev": 753138,
+    "Growth": "0.0219"
+  },
+  {
+    "rank": 727,
+    "Name": "Krakow",
+    "Country": "Poland",
+    "Population": 769307,
+    "Prev": 768731,
+    "Growth": "0.0007"
+  },
+  {
+    "rank": 728,
+    "Name": "Kunshan",
+    "Country": "China",
+    "Population": 769021,
+    "Prev": 737654,
+    "Growth": "0.0425"
+  },
+  {
+    "rank": 729,
+    "Name": "Shaoguan",
+    "Country": "China",
+    "Population": 767557,
+    "Prev": 761249,
+    "Growth": "0.0083"
+  },
+  {
+    "rank": 730,
+    "Name": "Gorakhpur",
+    "Country": "India",
+    "Population": 766646,
+    "Prev": 758214,
+    "Growth": "0.0111"
+  },
+  {
+    "rank": 731,
+    "Name": "Dasmarinas",
+    "Country": "Philippines",
+    "Population": 765742,
+    "Prev": 747208,
+    "Growth": "0.0248"
+  },
+  {
+    "rank": 732,
+    "Name": "Amravati",
+    "Country": "India",
+    "Population": 764645,
+    "Prev": 752189,
+    "Growth": "0.0166"
+  },
+  {
+    "rank": 733,
+    "Name": "Jincheng",
+    "Country": "China",
+    "Population": 763554,
+    "Prev": 733879,
+    "Growth": "0.0404"
+  },
+  {
+    "rank": 734,
+    "Name": "Langfang",
+    "Country": "China",
+    "Population": 763320,
+    "Prev": 739632,
+    "Growth": "0.0320"
+  },
+  {
+    "rank": 735,
+    "Name": "Ansan",
+    "Country": "South Korea",
+    "Population": 762698,
+    "Prev": 760764,
+    "Growth": "0.0025"
+  },
+  {
+    "rank": 736,
+    "Name": "Ar-Rayyan",
+    "Country": "Qatar",
+    "Population": 759174,
+    "Prev": 737903,
+    "Growth": "0.0288"
+  },
+  {
+    "rank": 737,
+    "Name": "Sulaimaniya",
+    "Country": "Iraq",
+    "Population": 758795,
+    "Prev": 739182,
+    "Growth": "0.0265"
+  },
+  {
+    "rank": 738,
+    "Name": "Cuttack",
+    "Country": "India",
+    "Population": 751859,
+    "Prev": 742011,
+    "Growth": "0.0133"
+  },
+  {
+    "rank": 739,
+    "Name": "Bur Sa'id",
+    "Country": "Egypt",
+    "Population": 750373,
+    "Prev": 737000,
+    "Growth": "0.0181"
+  },
+  {
+    "rank": 740,
+    "Name": "Denver",
+    "Country": "United States",
+    "Population": 749103,
+    "Prev": 738157,
+    "Growth": "0.0148"
+  },
+  {
+    "rank": 741,
+    "Name": "Meishan",
+    "Country": "China",
+    "Population": 748981,
+    "Prev": 723267,
+    "Growth": "0.0356"
+  },
+  {
+    "rank": 742,
+    "Name": "Zhumadian",
+    "Country": "China",
+    "Population": 747329,
+    "Prev": 716002,
+    "Growth": "0.0438"
+  },
+  {
+    "rank": 743,
+    "Name": "Zigong",
+    "Country": "China",
+    "Population": 746711,
+    "Prev": 737291,
+    "Growth": "0.0128"
+  },
+  {
+    "rank": 744,
+    "Name": "Benguela",
+    "Country": "Angola",
+    "Population": 745372,
+    "Prev": 715130,
+    "Growth": "0.0423"
+  },
+  {
+    "rank": 745,
+    "Name": "Gaomi",
+    "Country": "China",
+    "Population": 745055,
+    "Prev": 716261,
+    "Growth": "0.0402"
+  },
+  {
+    "rank": 746,
+    "Name": "Anqing",
+    "Country": "China",
+    "Population": 744768,
+    "Prev": 726950,
+    "Growth": "0.0245"
+  },
+  {
+    "rank": 747,
+    "Name": "Qingyuan",
+    "Country": "China",
+    "Population": 744726,
+    "Prev": 734856,
+    "Growth": "0.0134"
+  },
+  {
+    "rank": 748,
+    "Name": "Banjarmasin",
+    "Country": "Indonesia",
+    "Population": 744334,
+    "Prev": 732005,
+    "Growth": "0.0168"
+  },
+  {
+    "rank": 749,
+    "Name": "Hanchuan",
+    "Country": "China",
+    "Population": 743610,
+    "Prev": 715218,
+    "Growth": "0.0397"
+  },
+  {
+    "rank": 750,
+    "Name": "Danyang",
+    "Country": "China",
+    "Population": 743482,
+    "Prev": 718649,
+    "Growth": "0.0346"
+  },
+  {
+    "rank": 751,
+    "Name": "Muzaffarnagar",
+    "Country": "India",
+    "Population": 742227,
+    "Prev": 716748,
+    "Growth": "0.0355"
+  },
+  {
+    "rank": 752,
+    "Name": "Lokoja",
+    "Country": "Nigeria",
+    "Population": 741482,
+    "Prev": 692050,
+    "Growth": "0.0714"
+  },
+  {
+    "rank": 753,
+    "Name": "Kumamoto",
+    "Country": "Japan",
+    "Population": 741455,
+    "Prev": 742612,
+    "Growth": "-0.0016"
+  },
+  {
+    "rank": 754,
+    "Name": "Kottayam",
+    "Country": "India",
+    "Population": 739212,
+    "Prev": 696061,
+    "Growth": "0.0620"
+  },
+  {
+    "rank": 755,
+    "Name": "Belgaum",
+    "Country": "India",
+    "Population": 738074,
+    "Prev": 724747,
+    "Growth": "0.0184"
+  },
+  {
+    "rank": 756,
+    "Name": "Zarqa",
+    "Country": "Jordan",
+    "Population": 737085,
+    "Prev": 729220,
+    "Growth": "0.0108"
+  },
+  {
+    "rank": 757,
+    "Name": "Zaria",
+    "Country": "Nigeria",
+    "Population": 736098,
+    "Prev": 726172,
+    "Growth": "0.0137"
+  },
+  {
+    "rank": 758,
+    "Name": "Sheffield",
+    "Country": "United Kingdom",
+    "Population": 735292,
+    "Prev": 730158,
+    "Growth": "0.0070"
+  },
+  {
+    "rank": 759,
+    "Name": "Zanzibar",
+    "Country": "Tanzania",
+    "Population": 734832,
+    "Prev": 705078,
+    "Growth": "0.0422"
+  },
+  {
+    "rank": 760,
+    "Name": "Gaza",
+    "Country": "Palestine",
+    "Population": 734547,
+    "Prev": 713621,
+    "Growth": "0.0293"
+  },
+  {
+    "rank": 761,
+    "Name": "Zaragoza",
+    "Country": "Spain",
+    "Population": 733825,
+    "Prev": 730828,
+    "Growth": "0.0041"
+  },
+  {
+    "rank": 762,
+    "Name": "Linhai",
+    "Country": "China",
+    "Population": 732334,
+    "Prev": 708981,
+    "Growth": "0.0329"
+  },
+  {
+    "rank": 763,
+    "Name": "Zaporizhzhya",
+    "Country": "Ukraine",
+    "Population": 731984,
+    "Prev": 736167,
+    "Growth": "-0.0057"
+  },
+  {
+    "rank": 764,
+    "Name": "Malegaon",
+    "Country": "India",
+    "Population": 731493,
+    "Prev": 715605,
+    "Growth": "0.0222"
+  },
+  {
+    "rank": 765,
+    "Name": "Sao Jose dos Campos",
+    "Country": "Brazil",
+    "Population": 731481,
+    "Prev": 721795,
+    "Growth": "0.0134"
+  },
+  {
+    "rank": 766,
+    "Name": "Oshogbo",
+    "Country": "Nigeria",
+    "Population": 730529,
+    "Prev": 713677,
+    "Growth": "0.0236"
+  },
+  {
+    "rank": 767,
+    "Name": "Erduosi-Ordoss",
+    "Country": "China",
+    "Population": 730229,
+    "Prev": 706657,
+    "Growth": "0.0334"
+  },
+  {
+    "rank": 768,
+    "Name": "Shaoyang",
+    "Country": "China",
+    "Population": 729522,
+    "Prev": 713559,
+    "Growth": "0.0224"
+  },
+  {
+    "rank": 769,
+    "Name": "Kayamkulam",
+    "Country": "India",
+    "Population": 726675,
+    "Prev": 694892,
+    "Growth": "0.0457"
+  },
+  {
+    "rank": 770,
+    "Name": "Jiamusi",
+    "Country": "China",
+    "Population": 726622,
+    "Prev": 715965,
+    "Growth": "0.0149"
+  },
+  {
+    "rank": 771,
+    "Name": "Mangalore",
+    "Country": "India",
+    "Population": 724159,
+    "Prev": 713357,
+    "Growth": "0.0151"
+  },
+  {
+    "rank": 772,
+    "Name": "Okayama",
+    "Country": "Japan",
+    "Population": 724157,
+    "Prev": 724696,
+    "Growth": "-0.0007"
+  },
+  {
+    "rank": 773,
+    "Name": "Ribeirao Preto",
+    "Country": "Brazil",
+    "Population": 724044,
+    "Prev": 714111,
+    "Growth": "0.0139"
+  },
+  {
+    "rank": 774,
+    "Name": "Xianyang Shaanxi",
+    "Country": "China",
+    "Population": 723612,
+    "Prev": 715007,
+    "Growth": "0.0120"
+  },
+  {
+    "rank": 775,
+    "Name": "Bunia",
+    "Country": "DR Congo",
+    "Population": 723276,
+    "Prev": 679418,
+    "Growth": "0.0646"
+  },
+  {
+    "rank": 776,
+    "Name": "Lviv",
+    "Country": "Ukraine",
+    "Population": 722476,
+    "Prev": 723758,
+    "Growth": "-0.0018"
+  },
+  {
+    "rank": 777,
+    "Name": "Rasht",
+    "Country": "Iran",
+    "Population": 722026,
+    "Prev": 712715,
+    "Growth": "0.0131"
+  },
+  {
+    "rank": 778,
+    "Name": "Anqiu",
+    "Country": "China",
+    "Population": 721402,
+    "Prev": 682299,
+    "Growth": "0.0573"
+  },
+  {
+    "rank": 779,
+    "Name": "Tongliao",
+    "Country": "China",
+    "Population": 720662,
+    "Prev": 702280,
+    "Growth": "0.0262"
+  },
+  {
+    "rank": 780,
+    "Name": "Cheongju",
+    "Country": "South Korea",
+    "Population": 720584,
+    "Prev": 717027,
+    "Growth": "0.0050"
+  },
+  {
+    "rank": 781,
+    "Name": "Sialkot",
+    "Country": "Pakistan",
+    "Population": 720439,
+    "Prev": 705121,
+    "Growth": "0.0217"
+  },
+  {
+    "rank": 782,
+    "Name": "Maturin",
+    "Country": "Venezuela",
+    "Population": 717788,
+    "Prev": 694716,
+    "Growth": "0.0332"
+  },
+  {
+    "rank": 783,
+    "Name": "Buffalo City",
+    "Country": "South Africa",
+    "Population": 717067,
+    "Prev": 708559,
+    "Growth": "0.0120"
+  },
+  {
+    "rank": 784,
+    "Name": "Panzhihua",
+    "Country": "China",
+    "Population": 716878,
+    "Prev": 707134,
+    "Growth": "0.0138"
+  },
+  {
+    "rank": 785,
+    "Name": "Suining Sichuan",
+    "Country": "China",
+    "Population": 716754,
+    "Prev": 699679,
+    "Growth": "0.0244"
+  },
+  {
+    "rank": 786,
+    "Name": "Yanji",
+    "Country": "China",
+    "Population": 716660,
+    "Prev": 695165,
+    "Growth": "0.0309"
+  },
+  {
+    "rank": 787,
+    "Name": "Tongling",
+    "Country": "China",
+    "Population": 715946,
+    "Prev": 696639,
+    "Growth": "0.0277"
+  },
+  {
+    "rank": 788,
+    "Name": "Wuzhou",
+    "Country": "China",
+    "Population": 715472,
+    "Prev": 696630,
+    "Growth": "0.0270"
+  },
+  {
+    "rank": 789,
+    "Name": "Oaxaca de Juarez",
+    "Country": "Mexico",
+    "Population": 714983,
+    "Prev": 704559,
+    "Growth": "0.0148"
+  },
+  {
+    "rank": 790,
+    "Name": "Washington",
+    "Country": "United States",
+    "Population": 714153,
+    "Prev": 709951,
+    "Growth": "0.0059"
+  },
+  {
+    "rank": 791,
+    "Name": "Sargodha",
+    "Country": "Pakistan",
+    "Population": 712961,
+    "Prev": 700095,
+    "Growth": "0.0184"
+  },
+  {
+    "rank": 792,
+    "Name": "Bhavnagar",
+    "Country": "India",
+    "Population": 711625,
+    "Prev": 700367,
+    "Growth": "0.0161"
+  },
+  {
+    "rank": 793,
+    "Name": "Gold Coast",
+    "Country": "Australia",
+    "Population": 710650,
+    "Prev": 699226,
+    "Growth": "0.0163"
+  },
+  {
+    "rank": 794,
+    "Name": "Yan'an",
+    "Country": "China",
+    "Population": 710029,
+    "Prev": 678619,
+    "Growth": "0.0463"
+  },
+  {
+    "rank": 795,
+    "Name": "Kitwe",
+    "Country": "Zambia",
+    "Population": 709854,
+    "Prev": 685908,
+    "Growth": "0.0349"
+  },
+  {
+    "rank": 796,
+    "Name": "Florence",
+    "Country": "Italy",
+    "Population": 709064,
+    "Prev": 708357,
+    "Growth": "0.0010"
+  },
+  {
+    "rank": 797,
+    "Name": "Jammu",
+    "Country": "India",
+    "Population": 708612,
+    "Prev": 702085,
+    "Growth": "0.0093"
+  },
+  {
+    "rank": 798,
+    "Name": "Yulin Shaanxi",
+    "Country": "China",
+    "Population": 706571,
+    "Prev": 695614,
+    "Growth": "0.0158"
+  },
+  {
+    "rank": 799,
+    "Name": "Nanded Waghala",
+    "Country": "India",
+    "Population": 705667,
+    "Prev": 689771,
+    "Growth": "0.0230"
+  },
+  {
+    "rank": 800,
+    "Name": "Dazhou",
+    "Country": "China",
+    "Population": 705321,
+    "Prev": 682342,
+    "Growth": "0.0337"
+  },
+  {
+    "rank": 801,
+    "Name": "Tirupati",
+    "Country": "India",
+    "Population": 704615,
+    "Prev": 679456,
+    "Growth": "0.0370"
+  },
+  {
+    "rank": 802,
+    "Name": "Bacoor",
+    "Country": "Philippines",
+    "Population": 704334,
+    "Prev": 686398,
+    "Growth": "0.0261"
+  },
+  {
+    "rank": 803,
+    "Name": "Malanje",
+    "Country": "Angola",
+    "Population": 704271,
+    "Prev": 665150,
+    "Growth": "0.0588"
+  },
+  {
+    "rank": 804,
+    "Name": "Dengzhou",
+    "Country": "China",
+    "Population": 703922,
+    "Prev": 673626,
+    "Growth": "0.0450"
+  },
+  {
+    "rank": 805,
+    "Name": "The Hague",
+    "Country": "Netherlands",
+    "Population": 703588,
+    "Prev": 697564,
+    "Growth": "0.0086"
+  },
+  {
+    "rank": 806,
+    "Name": "Longyan",
+    "Country": "China",
+    "Population": 703524,
+    "Prev": 691987,
+    "Growth": "0.0167"
+  },
+  {
+    "rank": 807,
+    "Name": "Yuncheng",
+    "Country": "China",
+    "Population": 703194,
+    "Prev": 675082,
+    "Growth": "0.0416"
+  },
+  {
+    "rank": 808,
+    "Name": "Seville",
+    "Country": "Spain",
+    "Population": 702386,
+    "Prev": 703790,
+    "Growth": "-0.0020"
+  },
+  {
+    "rank": 809,
+    "Name": "Cotonou",
+    "Country": "Benin",
+    "Population": 698868,
+    "Prev": 691949,
+    "Growth": "0.0100"
+  },
+  {
+    "rank": 810,
+    "Name": "Dongtai",
+    "Country": "China",
+    "Population": 698218,
+    "Prev": 676996,
+    "Growth": "0.0313"
+  },
+  {
+    "rank": 811,
+    "Name": "Tolyatti",
+    "Country": "Russia",
+    "Population": 696889,
+    "Prev": 700252,
+    "Growth": "-0.0048"
+  },
+  {
+    "rank": 812,
+    "Name": "Salta",
+    "Country": "Argentina",
+    "Population": 696715,
+    "Prev": 684751,
+    "Growth": "0.0175"
+  },
+  {
+    "rank": 813,
+    "Name": "Merca",
+    "Country": "Somalia",
+    "Population": 696510,
+    "Prev": 666370,
+    "Growth": "0.0452"
+  },
+  {
+    "rank": 814,
+    "Name": "Bali",
+    "Country": "Indonesia",
+    "Population": 695940,
+    "Prev": 682065,
+    "Growth": "0.0203"
+  },
+  {
+    "rank": 815,
+    "Name": "Yuyao",
+    "Country": "China",
+    "Population": 695704,
+    "Prev": 678841,
+    "Growth": "0.0248"
+  },
+  {
+    "rank": 816,
+    "Name": "Boston",
+    "Country": "United States",
+    "Population": 695506,
+    "Prev": 694053,
+    "Growth": "0.0021"
+  },
+  {
+    "rank": 817,
+    "Name": "Uberlandia",
+    "Country": "Brazil",
+    "Population": 695461,
+    "Prev": 686896,
+    "Growth": "0.0125"
+  },
+  {
+    "rank": 818,
+    "Name": "Taif",
+    "Country": "Saudi Arabia",
+    "Population": 694894,
+    "Prev": 688693,
+    "Growth": "0.0090"
+  },
+  {
+    "rank": 819,
+    "Name": "Yuxi",
+    "Country": "China",
+    "Population": 693811,
+    "Prev": 662863,
+    "Growth": "0.0467"
+  },
+  {
+    "rank": 820,
+    "Name": "Vientiane",
+    "Country": "Laos",
+    "Population": 693594,
+    "Prev": 682542,
+    "Growth": "0.0162"
+  },
+  {
+    "rank": 821,
+    "Name": "Bristol",
+    "Country": "United Kingdom",
+    "Population": 693552,
+    "Prev": 686210,
+    "Growth": "0.0107"
+  },
+  {
+    "rank": 822,
+    "Name": "Akure",
+    "Country": "Nigeria",
+    "Population": 690533,
+    "Prev": 665524,
+    "Growth": "0.0376"
+  },
+  {
+    "rank": 823,
+    "Name": "Ibb",
+    "Country": "Yemen",
+    "Population": 690456,
+    "Prev": 648889,
+    "Growth": "0.0641"
+  },
+  {
+    "rank": 824,
+    "Name": "Celaya",
+    "Country": "Mexico",
+    "Population": 689735,
+    "Prev": 680971,
+    "Growth": "0.0129"
+  },
+  {
+    "rank": 825,
+    "Name": "Al-Hudaydah",
+    "Country": "Yemen",
+    "Population": 689640,
+    "Prev": 668899,
+    "Growth": "0.0310"
+  },
+  {
+    "rank": 826,
+    "Name": "Cheonan",
+    "Country": "South Korea",
+    "Population": 688543,
+    "Prev": 679802,
+    "Growth": "0.0129"
+  },
+  {
+    "rank": 827,
+    "Name": "Jundiai",
+    "Country": "Brazil",
+    "Population": 688192,
+    "Prev": 678521,
+    "Growth": "0.0143"
+  },
+  {
+    "rank": 828,
+    "Name": "Gulbarga",
+    "Country": "India",
+    "Population": 687882,
+    "Prev": 673027,
+    "Growth": "0.0221"
+  },
+  {
+    "rank": 829,
+    "Name": "Huambo",
+    "Country": "Angola",
+    "Population": 687795,
+    "Prev": 671413,
+    "Growth": "0.0244"
+  },
+  {
+    "rank": 830,
+    "Name": "Padova",
+    "Country": "Italy",
+    "Population": 687698,
+    "Prev": 683604,
+    "Growth": "0.0060"
+  },
+  {
+    "rank": 831,
+    "Name": "Durgapur",
+    "Country": "India",
+    "Population": 686568,
+    "Prev": 675384,
+    "Growth": "0.0166"
+  },
+  {
+    "rank": 832,
+    "Name": "Kurnool",
+    "Country": "India",
+    "Population": 685818,
+    "Prev": 665186,
+    "Growth": "0.0310"
+  },
+  {
+    "rank": 833,
+    "Name": "El Paso",
+    "Country": "United States",
+    "Population": 685434,
+    "Prev": 683581,
+    "Growth": "0.0027"
+  },
+  {
+    "rank": 834,
+    "Name": "Nantes",
+    "Country": "France",
+    "Population": 685377,
+    "Prev": 677766,
+    "Growth": "0.0112"
+  },
+  {
+    "rank": 835,
+    "Name": "Buraydah",
+    "Country": "Saudi Arabia",
+    "Population": 684626,
+    "Prev": 668775,
+    "Growth": "0.0237"
+  },
+  {
+    "rank": 836,
+    "Name": "Zagreb",
+    "Country": "Croatia",
+    "Population": 684524,
+    "Prev": 684878,
+    "Growth": "-0.0005"
+  },
+  {
+    "rank": 837,
+    "Name": "Zhangjiagang",
+    "Country": "China",
+    "Population": 683500,
+    "Prev": 656036,
+    "Growth": "0.0419"
+  },
+  {
+    "rank": 838,
+    "Name": "Pontianak",
+    "Country": "Indonesia",
+    "Population": 680655,
+    "Prev": 667910,
+    "Growth": "0.0191"
+  },
+  {
+    "rank": 839,
+    "Name": "Amara",
+    "Country": "Iraq",
+    "Population": 680156,
+    "Prev": 655663,
+    "Growth": "0.0374"
+  },
+  {
+    "rank": 840,
+    "Name": "Liege",
+    "Country": "Belgium",
+    "Population": 679895,
+    "Prev": 677589,
+    "Growth": "0.0034"
+  },
+  {
+    "rank": 841,
+    "Name": "Taicang",
+    "Country": "China",
+    "Population": 679623,
+    "Prev": 654441,
+    "Growth": "0.0385"
+  },
+  {
+    "rank": 842,
+    "Name": "Nashville",
+    "Country": "United States",
+    "Population": 678448,
+    "Prev": 674634,
+    "Growth": "0.0057"
+  },
+  {
+    "rank": 843,
+    "Name": "Genoa",
+    "Country": "Italy",
+    "Population": 677222,
+    "Prev": 679613,
+    "Growth": "-0.0035"
+  },
+  {
+    "rank": 844,
+    "Name": "Ezhou",
+    "Country": "China",
+    "Population": 676600,
+    "Prev": 668405,
+    "Growth": "0.0123"
+  },
+  {
+    "rank": 845,
+    "Name": "Santiago",
+    "Country": "Dominican Republic",
+    "Population": 672272,
+    "Prev": 664575,
+    "Growth": "0.0116"
+  },
+  {
+    "rank": 846,
+    "Name": "Mar Del Plata",
+    "Country": "Argentina",
+    "Population": 672116,
+    "Prev": 665707,
+    "Growth": "0.0096"
+  },
+  {
+    "rank": 847,
+    "Name": "Tamale",
+    "Country": "Ghana",
+    "Population": 671812,
+    "Prev": 641911,
+    "Growth": "0.0466"
+  },
+  {
+    "rank": 848,
+    "Name": "Zhoukou",
+    "Country": "China",
+    "Population": 671419,
+    "Prev": 650060,
+    "Growth": "0.0329"
+  },
+  {
+    "rank": 849,
+    "Name": "Lodz",
+    "Country": "Poland",
+    "Population": 671395,
+    "Prev": 676830,
+    "Growth": "-0.0080"
+  },
+  {
+    "rank": 850,
+    "Name": "Goma",
+    "Country": "DR Congo",
+    "Population": 670218,
+    "Prev": 634197,
+    "Growth": "0.0568"
+  },
+  {
+    "rank": 851,
+    "Name": "Oklahoma City",
+    "Country": "United States",
+    "Population": 669347,
+    "Prev": 662202,
+    "Growth": "0.0108"
+  },
+  {
+    "rank": 852,
+    "Name": "Lattakia",
+    "Country": "Syria",
+    "Population": 668809,
+    "Prev": 655714,
+    "Growth": "0.0200"
+  },
+  {
+    "rank": 853,
+    "Name": "Las Vegas",
+    "Country": "United States",
+    "Population": 667501,
+    "Prev": 659410,
+    "Growth": "0.0123"
+  },
+  {
+    "rank": 854,
+    "Name": "Tabuk",
+    "Country": "Saudi Arabia",
+    "Population": 667155,
+    "Prev": 657277,
+    "Growth": "0.0150"
+  },
+  {
+    "rank": 855,
+    "Name": "Ankang",
+    "Country": "China",
+    "Population": 666656,
+    "Prev": 636293,
+    "Growth": "0.0477"
+  },
+  {
+    "rank": 856,
+    "Name": "General Santos City",
+    "Country": "Philippines",
+    "Population": 665418,
+    "Prev": 652723,
+    "Growth": "0.0194"
+  },
+  {
+    "rank": 857,
+    "Name": "Renqiu",
+    "Country": "China",
+    "Population": 664262,
+    "Prev": 640271,
+    "Growth": "0.0375"
+  },
+  {
+    "rank": 858,
+    "Name": "Detroit",
+    "Country": "United States",
+    "Population": 664139,
+    "Prev": 667085,
+    "Growth": "-0.0044"
+  },
+  {
+    "rank": 859,
+    "Name": "Manama",
+    "Country": "Bahrain",
+    "Population": 663893,
+    "Prev": 634508,
+    "Growth": "0.0463"
+  },
+  {
+    "rank": 860,
+    "Name": "Loudi",
+    "Country": "China",
+    "Population": 663765,
+    "Prev": 639167,
+    "Growth": "0.0385"
+  },
+  {
+    "rank": 861,
+    "Name": "Jeonju",
+    "Country": "South Korea",
+    "Population": 663607,
+    "Prev": 663145,
+    "Growth": "0.0007"
+  },
+  {
+    "rank": 862,
+    "Name": "Bijie",
+    "Country": "China",
+    "Population": 662697,
+    "Prev": 637795,
+    "Growth": "0.0390"
+  },
+  {
+    "rank": 863,
+    "Name": "Portland",
+    "Country": "United States",
+    "Population": 662549,
+    "Prev": 658645,
+    "Growth": "0.0059"
+  },
+  {
+    "rank": 864,
+    "Name": "Sokoto",
+    "Country": "Nigeria",
+    "Population": 662173,
+    "Prev": 641249,
+    "Growth": "0.0326"
+  },
+  {
+    "rank": 865,
+    "Name": "Qinzhou",
+    "Country": "China",
+    "Population": 661953,
+    "Prev": 644359,
+    "Growth": "0.0273"
+  },
+  {
+    "rank": 866,
+    "Name": "Macao",
+    "Country": "Macau",
+    "Population": 661838,
+    "Prev": 651875,
+    "Growth": "0.0153"
+  },
+  {
+    "rank": 867,
+    "Name": "Samsun",
+    "Country": "Turkey",
+    "Population": 660863,
+    "Prev": 642592,
+    "Growth": "0.0284"
+  },
+  {
+    "rank": 868,
+    "Name": "Denizli",
+    "Country": "Turkey",
+    "Population": 660643,
+    "Prev": 644782,
+    "Growth": "0.0246"
+  },
+  {
+    "rank": 869,
+    "Name": "Zhoushan",
+    "Country": "China",
+    "Population": 659777,
+    "Prev": 647419,
+    "Growth": "0.0191"
+  },
+  {
+    "rank": 870,
+    "Name": "Busto Arsizio",
+    "Country": "Italy",
+    "Population": 657698,
+    "Prev": 654258,
+    "Growth": "0.0053"
+  },
+  {
+    "rank": 871,
+    "Name": "Tongxiang",
+    "Country": "China",
+    "Population": 656136,
+    "Prev": 629527,
+    "Growth": "0.0423"
+  },
+  {
+    "rank": 872,
+    "Name": "Longhai",
+    "Country": "China",
+    "Population": 655081,
+    "Prev": 631203,
+    "Growth": "0.0378"
+  },
+  {
+    "rank": 873,
+    "Name": "Puyang",
+    "Country": "China",
+    "Population": 654261,
+    "Prev": 632347,
+    "Growth": "0.0347"
+  },
+  {
+    "rank": 874,
+    "Name": "Hezhou",
+    "Country": "China",
+    "Population": 654185,
+    "Prev": 625304,
+    "Growth": "0.0462"
+  },
+  {
+    "rank": 875,
+    "Name": "Jhansi",
+    "Country": "India",
+    "Population": 653879,
+    "Prev": 642709,
+    "Growth": "0.0174"
+  },
+  {
+    "rank": 876,
+    "Name": "Neijiang",
+    "Country": "China",
+    "Population": 653866,
+    "Prev": 645874,
+    "Growth": "0.0124"
+  },
+  {
+    "rank": 877,
+    "Name": "Izhevsk",
+    "Country": "Russia",
+    "Population": 651601,
+    "Prev": 651338,
+    "Growth": "0.0004"
+  },
+  {
+    "rank": 878,
+    "Name": "Memphis",
+    "Country": "United States",
+    "Population": 651011,
+    "Prev": 651042,
+    "Growth": "-0.0000"
+  },
+  {
+    "rank": 879,
+    "Name": "Jamnagar",
+    "Country": "India",
+    "Population": 650977,
+    "Prev": 644738,
+    "Growth": "0.0097"
+  },
+  {
+    "rank": 880,
+    "Name": "As-Suways",
+    "Country": "Egypt",
+    "Population": 649368,
+    "Prev": 638229,
+    "Growth": "0.0175"
+  },
+  {
+    "rank": 881,
+    "Name": "Erode",
+    "Country": "India",
+    "Population": 647988,
+    "Prev": 634977,
+    "Growth": "0.0205"
+  },
+  {
+    "rank": 882,
+    "Name": "Doha",
+    "Country": "Qatar",
+    "Population": 646177,
+    "Prev": 641380,
+    "Growth": "0.0075"
+  },
+  {
+    "rank": 883,
+    "Name": "Pachuca de Soto",
+    "Country": "Mexico",
+    "Population": 646101,
+    "Prev": 633453,
+    "Growth": "0.0200"
+  },
+  {
+    "rank": 884,
+    "Name": "Haimen",
+    "Country": "China",
+    "Population": 645598,
+    "Prev": 626067,
+    "Growth": "0.0312"
+  },
+  {
+    "rank": 885,
+    "Name": "Chongjin",
+    "Country": "North Korea",
+    "Population": 645488,
+    "Prev": 642447,
+    "Growth": "0.0047"
+  },
+  {
+    "rank": 886,
+    "Name": "Chiclayo",
+    "Country": "Peru",
+    "Population": 645366,
+    "Prev": 637255,
+    "Growth": "0.0127"
+  },
+  {
+    "rank": 887,
+    "Name": "Wuhai",
+    "Country": "China",
+    "Population": 644895,
+    "Prev": 630295,
+    "Growth": "0.0232"
+  },
+  {
+    "rank": 888,
+    "Name": "Hegang",
+    "Country": "China",
+    "Population": 644894,
+    "Prev": 638855,
+    "Growth": "0.0095"
+  },
+  {
+    "rank": 889,
+    "Name": "Sanya",
+    "Country": "China",
+    "Population": 644727,
+    "Prev": 625290,
+    "Growth": "0.0311"
+  },
+  {
+    "rank": 890,
+    "Name": "Be'er Sheva",
+    "Country": "Israel",
+    "Population": 644278,
+    "Prev": 637539,
+    "Growth": "0.0106"
+  },
+  {
+    "rank": 891,
+    "Name": "Durango",
+    "Country": "Mexico",
+    "Population": 642750,
+    "Prev": 630982,
+    "Growth": "0.0187"
+  },
+  {
+    "rank": 892,
+    "Name": "Bokaro Steel City",
+    "Country": "India",
+    "Population": 642145,
+    "Prev": 633551,
+    "Growth": "0.0136"
+  },
+  {
+    "rank": 893,
+    "Name": "Wroclaw",
+    "Country": "Poland",
+    "Population": 642085,
+    "Prev": 641401,
+    "Growth": "0.0011"
+  },
+  {
+    "rank": 894,
+    "Name": "Irkutsk",
+    "Country": "Russia",
+    "Population": 641504,
+    "Prev": 638843,
+    "Growth": "0.0042"
+  },
+  {
+    "rank": 895,
+    "Name": "Barnaul",
+    "Country": "Russia",
+    "Population": 640396,
+    "Prev": 639783,
+    "Growth": "0.0010"
+  },
+  {
+    "rank": 896,
+    "Name": "Nay Pyi Taw",
+    "Country": "Myanmar",
+    "Population": 639759,
+    "Prev": 593596,
+    "Growth": "0.0778"
+  },
+  {
+    "rank": 897,
+    "Name": "Bulawayo",
+    "Country": "Zimbabwe",
+    "Population": 639722,
+    "Prev": 638188,
+    "Growth": "0.0024"
+  },
+  {
+    "rank": 898,
+    "Name": "Miluo",
+    "Country": "China",
+    "Population": 639015,
+    "Prev": 604159,
+    "Growth": "0.0577"
+  },
+  {
+    "rank": 899,
+    "Name": "Venezia",
+    "Country": "Italy",
+    "Population": 638264,
+    "Prev": 637245,
+    "Growth": "0.0016"
+  },
+  {
+    "rank": 900,
+    "Name": "Jambi",
+    "Country": "Indonesia",
+    "Population": 637037,
+    "Prev": 626192,
+    "Growth": "0.0173"
+  },
+  {
+    "rank": 901,
+    "Name": "Safaqis",
+    "Country": "Tunisia",
+    "Population": 636613,
+    "Prev": 630175,
+    "Growth": "0.0102"
+  },
+  {
+    "rank": 902,
+    "Name": "Khabarovsk",
+    "Country": "Russia",
+    "Population": 636254,
+    "Prev": 633151,
+    "Growth": "0.0049"
+  },
+  {
+    "rank": 903,
+    "Name": "Herat",
+    "Country": "Afghanistan",
+    "Population": 635579,
+    "Prev": 605575,
+    "Growth": "0.0495"
+  },
+  {
+    "rank": 904,
+    "Name": "Duesseldorf",
+    "Country": "Germany",
+    "Population": 635046,
+    "Prev": 631942,
+    "Growth": "0.0049"
+  },
+  {
+    "rank": 905,
+    "Name": "Belfast",
+    "Country": "United Kingdom",
+    "Population": 634594,
+    "Prev": 630632,
+    "Growth": "0.0063"
+  },
+  {
+    "rank": 906,
+    "Name": "Nasiriyah",
+    "Country": "Iraq",
+    "Population": 634492,
+    "Prev": 616994,
+    "Growth": "0.0284"
+  },
+  {
+    "rank": 907,
+    "Name": "Stuttgart",
+    "Country": "Germany",
+    "Population": 633808,
+    "Prev": 632692,
+    "Growth": "0.0018"
+  },
+  {
+    "rank": 908,
+    "Name": "Verona",
+    "Country": "Italy",
+    "Population": 633128,
+    "Prev": 629658,
+    "Growth": "0.0055"
+  },
+  {
+    "rank": 909,
+    "Name": "Raurkela",
+    "Country": "India",
+    "Population": 631310,
+    "Prev": 622636,
+    "Growth": "0.0139"
+  },
+  {
+    "rank": 910,
+    "Name": "Jubayl",
+    "Country": "Saudi Arabia",
+    "Population": 631060,
+    "Prev": 605743,
+    "Growth": "0.0418"
+  },
+  {
+    "rank": 911,
+    "Name": "Riga",
+    "Country": "Latvia",
+    "Population": 627763,
+    "Prev": 630692,
+    "Growth": "-0.0046"
+  },
+  {
+    "rank": 912,
+    "Name": "Bandar Abbas",
+    "Country": "Iran",
+    "Population": 627174,
+    "Prev": 606633,
+    "Growth": "0.0339"
+  },
+  {
+    "rank": 913,
+    "Name": "Kolhapur",
+    "Country": "India",
+    "Population": 626791,
+    "Prev": 619358,
+    "Growth": "0.0120"
+  },
+  {
+    "rank": 914,
+    "Name": "Bacolod",
+    "Country": "Philippines",
+    "Population": 624783,
+    "Prev": 613437,
+    "Growth": "0.0185"
+  },
+  {
+    "rank": 915,
+    "Name": "Seregno",
+    "Country": "Italy",
+    "Population": 624706,
+    "Prev": 619871,
+    "Growth": "0.0078"
+  },
+  {
+    "rank": 916,
+    "Name": "Ulyanovsk",
+    "Country": "Russia",
+    "Population": 624103,
+    "Prev": 624896,
+    "Growth": "-0.0013"
+  },
+  {
+    "rank": 917,
+    "Name": "Uvira",
+    "Country": "DR Congo",
+    "Population": 622862,
+    "Prev": 589731,
+    "Growth": "0.0562"
+  },
+  {
+    "rank": 918,
+    "Name": "Al-Ain",
+    "Country": "United Arab Emirates",
+    "Population": 622675,
+    "Prev": 610887,
+    "Growth": "0.0193"
+  },
+  {
+    "rank": 919,
+    "Name": "Bari",
+    "Country": "Italy",
+    "Population": 622590,
+    "Prev": 622377,
+    "Growth": "0.0003"
+  },
+  {
+    "rank": 920,
+    "Name": "Yulin Guangxi",
+    "Country": "China",
+    "Population": 622115,
+    "Prev": 613668,
+    "Growth": "0.0138"
+  },
+  {
+    "rank": 921,
+    "Name": "Ajmer",
+    "Country": "India",
+    "Population": 621505,
+    "Prev": 613617,
+    "Growth": "0.0129"
+  },
+  {
+    "rank": 922,
+    "Name": "Kuching",
+    "Country": "Malaysia",
+    "Population": 621114,
+    "Prev": 611566,
+    "Growth": "0.0156"
+  },
+  {
+    "rank": 923,
+    "Name": "Bissau",
+    "Country": "Guinea-Bissau",
+    "Population": 620974,
+    "Prev": 599714,
+    "Growth": "0.0355"
+  },
+  {
+    "rank": 924,
+    "Name": "Bauchi",
+    "Country": "Nigeria",
+    "Population": 620800,
+    "Prev": 597679,
+    "Growth": "0.0387"
+  },
+  {
+    "rank": 925,
+    "Name": "Geneva",
+    "Country": "Switzerland",
+    "Population": 620131,
+    "Prev": 613373,
+    "Growth": "0.0110"
+  },
+  {
+    "rank": 926,
+    "Name": "Enshi",
+    "Country": "China",
+    "Population": 619178,
+    "Prev": 586667,
+    "Growth": "0.0554"
+  },
+  {
+    "rank": 927,
+    "Name": "Anshun",
+    "Country": "China",
+    "Population": 619116,
+    "Prev": 600121,
+    "Growth": "0.0317"
+  },
+  {
+    "rank": 928,
+    "Name": "Colombo",
+    "Country": "Sri Lanka",
+    "Population": 619001,
+    "Prev": 612535,
+    "Growth": "0.0106"
+  },
+  {
+    "rank": 929,
+    "Name": "Sihui",
+    "Country": "China",
+    "Population": 618859,
+    "Prev": 591080,
+    "Growth": "0.0470"
+  },
+  {
+    "rank": 930,
+    "Name": "Hanzhong",
+    "Country": "China",
+    "Population": 618109,
+    "Prev": 605327,
+    "Growth": "0.0211"
+  },
+  {
+    "rank": 931,
+    "Name": "Ujjain",
+    "Country": "India",
+    "Population": 617812,
+    "Prev": 607055,
+    "Growth": "0.0177"
+  },
+  {
+    "rank": 932,
+    "Name": "Gothenburg",
+    "Country": "Sweden",
+    "Population": 617781,
+    "Prev": 610521,
+    "Growth": "0.0119"
+  },
+  {
+    "rank": 933,
+    "Name": "Jinzhong",
+    "Country": "China",
+    "Population": 617236,
+    "Prev": 599611,
+    "Growth": "0.0294"
+  },
+  {
+    "rank": 934,
+    "Name": "Patiala",
+    "Country": "India",
+    "Population": 616590,
+    "Prev": 599186,
+    "Growth": "0.0290"
+  },
+  {
+    "rank": 935,
+    "Name": "Zahedan",
+    "Country": "Iran",
+    "Population": 616511,
+    "Prev": 609873,
+    "Growth": "0.0109"
+  },
+  {
+    "rank": 936,
+    "Name": "Bilaspur",
+    "Country": "India",
+    "Population": 616394,
+    "Prev": 599812,
+    "Growth": "0.0276"
+  },
+  {
+    "rank": 937,
+    "Name": "Louisville",
+    "Country": "United States",
+    "Population": 615924,
+    "Prev": 616781,
+    "Growth": "-0.0014"
+  },
+  {
+    "rank": 938,
+    "Name": "San Jose del Monte",
+    "Country": "Philippines",
+    "Population": 615815,
+    "Prev": 607692,
+    "Growth": "0.0134"
+  },
+  {
+    "rank": 939,
+    "Name": "Hillah",
+    "Country": "Iraq",
+    "Population": 615167,
+    "Prev": 604149,
+    "Growth": "0.0182"
+  },
+  {
+    "rank": 940,
+    "Name": "Kryvyi Rih",
+    "Country": "Ukraine",
+    "Population": 613696,
+    "Prev": 618706,
+    "Growth": "-0.0081"
+  },
+  {
+    "rank": 941,
+    "Name": "Yaroslavl",
+    "Country": "Russia",
+    "Population": 612502,
+    "Prev": 612365,
+    "Growth": "0.0002"
+  },
+  {
+    "rank": 942,
+    "Name": "Brighton",
+    "Country": "United Kingdom",
+    "Population": 612159,
+    "Prev": 606909,
+    "Growth": "0.0087"
+  },
+  {
+    "rank": 943,
+    "Name": "Feira De Santana",
+    "Country": "Brazil",
+    "Population": 609939,
+    "Prev": 602128,
+    "Growth": "0.0130"
+  },
+  {
+    "rank": 944,
+    "Name": "Vladivostok",
+    "Country": "Russia",
+    "Population": 609632,
+    "Prev": 609754,
+    "Growth": "-0.0002"
+  },
+  {
+    "rank": 945,
+    "Name": "Comilla",
+    "Country": "Bangladesh",
+    "Population": 609345,
+    "Prev": 588772,
+    "Growth": "0.0349"
+  },
+  {
+    "rank": 946,
+    "Name": "Tlaxcala",
+    "Country": "Mexico",
+    "Population": 606590,
+    "Prev": 596362,
+    "Growth": "0.0172"
+  },
+  {
+    "rank": 947,
+    "Name": "Siping",
+    "Country": "China",
+    "Population": 604724,
+    "Prev": 594482,
+    "Growth": "0.0172"
+  },
+  {
+    "rank": 948,
+    "Name": "Sanhe",
+    "Country": "China",
+    "Population": 604549,
+    "Prev": 576241,
+    "Growth": "0.0491"
+  },
+  {
+    "rank": 949,
+    "Name": "Calabar",
+    "Country": "Nigeria",
+    "Population": 604546,
+    "Prev": 579273,
+    "Growth": "0.0436"
+  },
+  {
+    "rank": 950,
+    "Name": "Mathura",
+    "Country": "India",
+    "Population": 603301,
+    "Prev": 588334,
+    "Growth": "0.0254"
+  },
+  {
+    "rank": 951,
+    "Name": "Abakaliki",
+    "Country": "Nigeria",
+    "Population": 601712,
+    "Prev": 572028,
+    "Growth": "0.0519"
+  },
+  {
+    "rank": 952,
+    "Name": "Xinmi",
+    "Country": "China",
+    "Population": 600980,
+    "Prev": 575696,
+    "Growth": "0.0439"
+  },
+  {
+    "rank": 953,
+    "Name": "Skopje",
+    "Country": "North Macedonia",
+    "Population": 600708,
+    "Prev": 595275,
+    "Growth": "0.0091"
+  },
+  {
+    "rank": 954,
+    "Name": "Makhachkala",
+    "Country": "Russia",
+    "Population": 600541,
+    "Prev": 599792,
+    "Growth": "0.0012"
+  },
+  {
+    "rank": 955,
+    "Name": "Tomsk",
+    "Country": "Russia",
+    "Population": 600254,
+    "Prev": 595642,
+    "Growth": "0.0077"
+  },
+  {
+    "rank": 956,
+    "Name": "Jingjiang",
+    "Country": "China",
+    "Population": 599221,
+    "Prev": 577513,
+    "Growth": "0.0376"
+  },
+  {
+    "rank": 957,
+    "Name": "Shishi",
+    "Country": "China",
+    "Population": 598547,
+    "Prev": 585317,
+    "Growth": "0.0226"
+  },
+  {
+    "rank": 958,
+    "Name": "Fuqing",
+    "Country": "China",
+    "Population": 597698,
+    "Prev": 584631,
+    "Growth": "0.0224"
+  },
+  {
+    "rank": 959,
+    "Name": "Sanliurfa",
+    "Country": "Turkey",
+    "Population": 596713,
+    "Prev": 590522,
+    "Growth": "0.0105"
+  },
+  {
+    "rank": 960,
+    "Name": "Leipzig",
+    "Country": "Germany",
+    "Population": 596230,
+    "Prev": 591052,
+    "Growth": "0.0088"
+  },
+  {
+    "rank": 961,
+    "Name": "Agartala",
+    "Country": "India",
+    "Population": 595210,
+    "Prev": 575073,
+    "Growth": "0.0350"
+  },
+  {
+    "rank": 962,
+    "Name": "Xiantao",
+    "Country": "China",
+    "Population": 594155,
+    "Prev": 588540,
+    "Growth": "0.0095"
+  },
+  {
+    "rank": 963,
+    "Name": "Yichun Heilongjiang",
+    "Country": "China",
+    "Population": 593871,
+    "Prev": 598465,
+    "Growth": "-0.0077"
+  },
+  {
+    "rank": 964,
+    "Name": "Imphal",
+    "Country": "India",
+    "Population": 593524,
+    "Prev": 575625,
+    "Growth": "0.0311"
+  },
+  {
+    "rank": 965,
+    "Name": "Daye",
+    "Country": "China",
+    "Population": 592972,
+    "Prev": 578374,
+    "Growth": "0.0252"
+  },
+  {
+    "rank": 966,
+    "Name": "Mbeya",
+    "Country": "Tanzania",
+    "Population": 592579,
+    "Prev": 566065,
+    "Growth": "0.0468"
+  },
+  {
+    "rank": 967,
+    "Name": "Cenxi",
+    "Country": "China",
+    "Population": 592553,
+    "Prev": 565509,
+    "Growth": "0.0478"
+  },
+  {
+    "rank": 968,
+    "Name": "Kingston",
+    "Country": "Jamaica",
+    "Population": 592477,
+    "Prev": 590940,
+    "Growth": "0.0026"
+  },
+  {
+    "rank": 969,
+    "Name": "Sangli",
+    "Country": "India",
+    "Population": 592117,
+    "Prev": 583629,
+    "Growth": "0.0145"
+  },
+  {
+    "rank": 970,
+    "Name": "Cuiaba",
+    "Country": "Brazil",
+    "Population": 591522,
+    "Prev": 588566,
+    "Growth": "0.0050"
+  },
+  {
+    "rank": 971,
+    "Name": "Samarkand",
+    "Country": "Uzbekistan",
+    "Population": 591252,
+    "Prev": 578762,
+    "Growth": "0.0216"
+  },
+  {
+    "rank": 972,
+    "Name": "Malaga",
+    "Country": "Spain",
+    "Population": 591091,
+    "Prev": 590032,
+    "Growth": "0.0018"
+  },
+  {
+    "rank": 973,
+    "Name": "Ibague",
+    "Country": "Colombia",
+    "Population": 590686,
+    "Prev": 586187,
+    "Growth": "0.0077"
+  },
+  {
+    "rank": 974,
+    "Name": "Dortmund",
+    "Country": "Germany",
+    "Population": 589748,
+    "Prev": 589600,
+    "Growth": "0.0003"
+  },
+  {
+    "rank": 975,
+    "Name": "Kagoshima",
+    "Country": "Japan",
+    "Population": 588413,
+    "Prev": 591042,
+    "Growth": "-0.0044"
+  },
+  {
+    "rank": 976,
+    "Name": "Cabimas",
+    "Country": "Venezuela",
+    "Population": 588348,
+    "Prev": 578222,
+    "Growth": "0.0175"
+  },
+  {
+    "rank": 977,
+    "Name": "Qitaihe",
+    "Country": "China",
+    "Population": 588212,
+    "Prev": 578992,
+    "Growth": "0.0159"
+  },
+  {
+    "rank": 978,
+    "Name": "Milwaukee",
+    "Country": "United States",
+    "Population": 587721,
+    "Prev": 588939,
+    "Growth": "-0.0021"
+  },
+  {
+    "rank": 979,
+    "Name": "Catania",
+    "Country": "Italy",
+    "Population": 586049,
+    "Prev": 585877,
+    "Growth": "0.0003"
+  },
+  {
+    "rank": 980,
+    "Name": "Samut Sakhon",
+    "Country": "Thailand",
+    "Population": 585964,
+    "Prev": 578273,
+    "Growth": "0.0133"
+  },
+  {
+    "rank": 981,
+    "Name": "Likasi",
+    "Country": "DR Congo",
+    "Population": 585678,
+    "Prev": 567839,
+    "Growth": "0.0314"
+  },
+  {
+    "rank": 982,
+    "Name": "Beira",
+    "Country": "Mozambique",
+    "Population": 584989,
+    "Prev": 569911,
+    "Growth": "0.0265"
+  },
+  {
+    "rank": 983,
+    "Name": "Hamadan",
+    "Country": "Iran",
+    "Population": 584645,
+    "Prev": 577808,
+    "Growth": "0.0118"
+  },
+  {
+    "rank": 984,
+    "Name": "Shuozhou",
+    "Country": "China",
+    "Population": 584272,
+    "Prev": 563456,
+    "Growth": "0.0369"
+  },
+  {
+    "rank": 985,
+    "Name": "Tonghua",
+    "Country": "China",
+    "Population": 584209,
+    "Prev": 572967,
+    "Growth": "0.0196"
+  },
+  {
+    "rank": 986,
+    "Name": "Djibouti",
+    "Country": "Djibouti",
+    "Population": 583695,
+    "Prev": 576157,
+    "Growth": "0.0131"
+  },
+  {
+    "rank": 987,
+    "Name": "Essen",
+    "Country": "Germany",
+    "Population": 581579,
+    "Prev": 582128,
+    "Growth": "-0.0009"
+  },
+  {
+    "rank": 988,
+    "Name": "Toulon",
+    "Country": "France",
+    "Population": 581264,
+    "Prev": 579095,
+    "Growth": "0.0037"
+  },
+  {
+    "rank": 989,
+    "Name": "Dresden",
+    "Country": "Germany",
+    "Population": 580877,
+    "Prev": 575476,
+    "Growth": "0.0094"
+  },
+  {
+    "rank": 990,
+    "Name": "Juiz De Fora",
+    "Country": "Brazil",
+    "Population": 580874,
+    "Prev": 575481,
+    "Growth": "0.0094"
+  },
+  {
+    "rank": 991,
+    "Name": "Bouake",
+    "Country": "Ivory Coast",
+    "Population": 580586,
+    "Prev": 571876,
+    "Growth": "0.0152"
+  },
+  {
+    "rank": 992,
+    "Name": "Pereira",
+    "Country": "Colombia",
+    "Population": 580225,
+    "Prev": 579620,
+    "Growth": "0.0010"
+  },
+  {
+    "rank": 993,
+    "Name": "Udaipur",
+    "Country": "India",
+    "Population": 580191,
+    "Prev": 569224,
+    "Growth": "0.0193"
+  },
+  {
+    "rank": 994,
+    "Name": "Sanmenxia",
+    "Country": "China",
+    "Population": 579273,
+    "Prev": 561369,
+    "Growth": "0.0319"
+  },
+  {
+    "rank": 995,
+    "Name": "Vellore",
+    "Country": "India",
+    "Population": 578956,
+    "Prev": 569048,
+    "Growth": "0.0174"
+  },
+  {
+    "rank": 996,
+    "Name": "Dongyang",
+    "Country": "China",
+    "Population": 578734,
+    "Prev": 566083,
+    "Growth": "0.0223"
+  },
+  {
+    "rank": 997,
+    "Name": "Ardabil",
+    "Country": "Iran",
+    "Population": 578222,
+    "Prev": 567912,
+    "Growth": "0.0182"
+  },
+  {
+    "rank": 998,
+    "Name": "Thoothukkudi",
+    "Country": "India",
+    "Population": 577945,
+    "Prev": 560930,
+    "Growth": "0.0303"
+  },
+  {
+    "rank": 999,
+    "Name": "Bloemfontein",
+    "Country": "South Africa",
+    "Population": 577560,
+    "Prev": 567029,
+    "Growth": "0.0186"
+  },
+  {
+    "rank": 1000,
+    "Name": "Xinyi",
+    "Country": "China",
+    "Population": 577474,
+    "Prev": 559613,
+    "Growth": "0.0319"
+  },
+  {
+    "rank": 1001,
+    "Name": "Udon Thani",
+    "Country": "Thailand",
+    "Population": 576666,
+    "Prev": 570115,
+    "Growth": "0.0115"
+  },
+  {
+    "rank": 1002,
+    "Name": "Ogbomosho",
+    "Country": "Nigeria",
+    "Population": 576557,
+    "Prev": 551474,
+    "Growth": "0.0455"
+  },
+  {
+    "rank": 1003,
+    "Name": "Jalgaon",
+    "Country": "India",
+    "Population": 576506,
+    "Prev": 564540,
+    "Growth": "0.0212"
+  },
+  {
+    "rank": 1004,
+    "Name": "Hebi",
+    "Country": "China",
+    "Population": 576427,
+    "Prev": 565986,
+    "Growth": "0.0184"
+  },
+  {
+    "rank": 1005,
+    "Name": "Zaoyang",
+    "Country": "China",
+    "Population": 576057,
+    "Prev": 562379,
+    "Growth": "0.0243"
+  },
+  {
+    "rank": 1006,
+    "Name": "Yiyang Hunan",
+    "Country": "China",
+    "Population": 576041,
+    "Prev": 558615,
+    "Growth": "0.0312"
+  },
+  {
+    "rank": 1007,
+    "Name": "Gaya",
+    "Country": "India",
+    "Population": 575652,
+    "Prev": 565253,
+    "Growth": "0.0184"
+  },
+  {
+    "rank": 1008,
+    "Name": "Baltimore",
+    "Country": "United States",
+    "Population": 575584,
+    "Prev": 584537,
+    "Growth": "-0.0153"
+  },
+  {
+    "rank": 1009,
+    "Name": "Yazd",
+    "Country": "Iran",
+    "Population": 575105,
+    "Prev": 565449,
+    "Growth": "0.0171"
+  },
+  {
+    "rank": 1010,
+    "Name": "Tirunelveli",
+    "Country": "India",
+    "Population": 574000,
+    "Prev": 565735,
+    "Growth": "0.0146"
+  },
+  {
+    "rank": 1011,
+    "Name": "Zhaodong",
+    "Country": "China",
+    "Population": 572358,
+    "Prev": 550240,
+    "Growth": "0.0402"
+  },
+  {
+    "rank": 1012,
+    "Name": "Dengfeng",
+    "Country": "China",
+    "Population": 571083,
+    "Prev": 540789,
+    "Growth": "0.0560"
+  },
+  {
+    "rank": 1013,
+    "Name": "Matamoros",
+    "Country": "Mexico",
+    "Population": 570752,
+    "Prev": 562755,
+    "Growth": "0.0142"
+  },
+  {
+    "rank": 1014,
+    "Name": "Kitchener",
+    "Country": "Canada",
+    "Population": 570681,
+    "Prev": 562466,
+    "Growth": "0.0146"
+  },
+  {
+    "rank": 1015,
+    "Name": "Poza Rica de Hidalgo",
+    "Country": "Mexico",
+    "Population": 570576,
+    "Prev": 564578,
+    "Growth": "0.0106"
+  },
+  {
+    "rank": 1016,
+    "Name": "Oujda",
+    "Country": "Morocco",
+    "Population": 570257,
+    "Prev": 558524,
+    "Growth": "0.0210"
+  },
+  {
+    "rank": 1017,
+    "Name": "Santa Fe",
+    "Country": "Argentina",
+    "Population": 569991,
+    "Prev": 562917,
+    "Growth": "0.0126"
+  },
+  {
+    "rank": 1018,
+    "Name": "Cuito",
+    "Country": "Angola",
+    "Population": 569533,
+    "Prev": 535407,
+    "Growth": "0.0637"
+  },
+  {
+    "rank": 1019,
+    "Name": "Orenburg",
+    "Country": "Russia",
+    "Population": 569029,
+    "Prev": 568812,
+    "Growth": "0.0004"
+  },
+  {
+    "rank": 1020,
+    "Name": "Cangzhou",
+    "Country": "China",
+    "Population": 568818,
+    "Prev": 560962,
+    "Growth": "0.0140"
+  },
+  {
+    "rank": 1021,
+    "Name": "Jiaozhou",
+    "Country": "China",
+    "Population": 568186,
+    "Prev": 551500,
+    "Growth": "0.0303"
+  },
+  {
+    "rank": 1022,
+    "Name": "Kemerovo",
+    "Country": "Russia",
+    "Population": 567035,
+    "Prev": 565759,
+    "Growth": "0.0023"
+  },
+  {
+    "rank": 1023,
+    "Name": "Bremen",
+    "Country": "Germany",
+    "Population": 566331,
+    "Prev": 565354,
+    "Growth": "0.0017"
+  },
+  {
+    "rank": 1024,
+    "Name": "Karbala",
+    "Country": "Iraq",
+    "Population": 565196,
+    "Prev": 555073,
+    "Growth": "0.0182"
+  },
+  {
+    "rank": 1025,
+    "Name": "Al-Mansurah",
+    "Country": "Egypt",
+    "Population": 565015,
+    "Prev": 555621,
+    "Growth": "0.0169"
+  },
+  {
+    "rank": 1026,
+    "Name": "Weinan",
+    "Country": "China",
+    "Population": 564709,
+    "Prev": 553302,
+    "Growth": "0.0206"
+  },
+  {
+    "rank": 1027,
+    "Name": "Anyang",
+    "Country": "South Korea",
+    "Population": 564685,
+    "Prev": 567945,
+    "Growth": "-0.0057"
+  },
+  {
+    "rank": 1028,
+    "Name": "Mazar-e Sharif",
+    "Country": "Afghanistan",
+    "Population": 563825,
+    "Prev": 532689,
+    "Growth": "0.0585"
+  },
+  {
+    "rank": 1029,
+    "Name": "Kota Kinabalu",
+    "Country": "Malaysia",
+    "Population": 562824,
+    "Prev": 549586,
+    "Growth": "0.0241"
+  },
+  {
+    "rank": 1030,
+    "Name": "Basel",
+    "Country": "Switzerland",
+    "Population": 562710,
+    "Prev": 559027,
+    "Growth": "0.0066"
+  },
+  {
+    "rank": 1031,
+    "Name": "Gomel",
+    "Country": "Belarus",
+    "Population": 562405,
+    "Prev": 557589,
+    "Growth": "0.0086"
+  },
+  {
+    "rank": 1032,
+    "Name": "Albuquerque",
+    "Country": "United States",
+    "Population": 562281,
+    "Prev": 561397,
+    "Growth": "0.0016"
+  },
+  {
+    "rank": 1033,
+    "Name": "Gaozhou",
+    "Country": "China",
+    "Population": 561197,
+    "Prev": 537329,
+    "Growth": "0.0444"
+  },
+  {
+    "rank": 1034,
+    "Name": "Feicheng",
+    "Country": "China",
+    "Population": 560756,
+    "Prev": 551319,
+    "Growth": "0.0171"
+  },
+  {
+    "rank": 1035,
+    "Name": "Meknes",
+    "Country": "Morocco",
+    "Population": 560746,
+    "Prev": 553755,
+    "Growth": "0.0126"
+  },
+  {
+    "rank": 1036,
+    "Name": "Panipat",
+    "Country": "India",
+    "Population": 559798,
+    "Prev": 547952,
+    "Growth": "0.0216"
+  },
+  {
+    "rank": 1037,
+    "Name": "Kahramanmaras",
+    "Country": "Turkey",
+    "Population": 559574,
+    "Prev": 546688,
+    "Growth": "0.0236"
+  },
+  {
+    "rank": 1038,
+    "Name": "Irbid",
+    "Country": "Jordan",
+    "Population": 559386,
+    "Prev": 556899,
+    "Growth": "0.0045"
+  },
+  {
+    "rank": 1039,
+    "Name": "Arak",
+    "Country": "Iran",
+    "Population": 559300,
+    "Prev": 551006,
+    "Growth": "0.0151"
+  },
+  {
+    "rank": 1040,
+    "Name": "Tepic",
+    "Country": "Mexico",
+    "Population": 558052,
+    "Prev": 545941,
+    "Growth": "0.0222"
+  },
+  {
+    "rank": 1041,
+    "Name": "Chiang Rai",
+    "Country": "Thailand",
+    "Population": 557280,
+    "Prev": 549966,
+    "Growth": "0.0133"
+  },
+  {
+    "rank": 1042,
+    "Name": "Guangyuan",
+    "Country": "China",
+    "Population": 557144,
+    "Prev": 539179,
+    "Growth": "0.0333"
+  },
+  {
+    "rank": 1043,
+    "Name": "Leicester",
+    "Country": "United Kingdom",
+    "Population": 556930,
+    "Prev": 552178,
+    "Growth": "0.0086"
+  },
+  {
+    "rank": 1044,
+    "Name": "Tongchuan",
+    "Country": "China",
+    "Population": 556484,
+    "Prev": 546649,
+    "Growth": "0.0180"
+  },
+  {
+    "rank": 1045,
+    "Name": "Khamis Mushayt",
+    "Country": "Saudi Arabia",
+    "Population": 555589,
+    "Prev": 547724,
+    "Growth": "0.0144"
+  },
+  {
+    "rank": 1046,
+    "Name": "Ndola",
+    "Country": "Zambia",
+    "Population": 555560,
+    "Prev": 542495,
+    "Growth": "0.0241"
+  },
+  {
+    "rank": 1047,
+    "Name": "Tucson",
+    "Country": "United States",
+    "Population": 554503,
+    "Prev": 551288,
+    "Growth": "0.0058"
+  },
+  {
+    "rank": 1048,
+    "Name": "Imus",
+    "Country": "Philippines",
+    "Population": 553579,
+    "Prev": 527779,
+    "Growth": "0.0489"
+  },
+  {
+    "rank": 1049,
+    "Name": "Villavicencio",
+    "Country": "Colombia",
+    "Population": 553451,
+    "Prev": 544115,
+    "Growth": "0.0172"
+  },
+  {
+    "rank": 1050,
+    "Name": "Sakarya",
+    "Country": "Turkey",
+    "Population": 553438,
+    "Prev": 539445,
+    "Growth": "0.0259"
+  },
+  {
+    "rank": 1051,
+    "Name": "Bamenda",
+    "Country": "Cameroon",
+    "Population": 553084,
+    "Prev": 533257,
+    "Growth": "0.0372"
+  },
+  {
+    "rank": 1052,
+    "Name": "Shouguang",
+    "Country": "China",
+    "Population": 552602,
+    "Prev": 544207,
+    "Growth": "0.0154"
+  },
+  {
+    "rank": 1053,
+    "Name": "Utrecht",
+    "Country": "Netherlands",
+    "Population": 551879,
+    "Prev": 544389,
+    "Growth": "0.0138"
+  },
+  {
+    "rank": 1054,
+    "Name": "Rajahmundry",
+    "Country": "India",
+    "Population": 551828,
+    "Prev": 543729,
+    "Growth": "0.0149"
+  },
+  {
+    "rank": 1055,
+    "Name": "Novokuznetsk",
+    "Country": "Russia",
+    "Population": 549364,
+    "Prev": 550575,
+    "Growth": "-0.0022"
+  },
+  {
+    "rank": 1056,
+    "Name": "Larkana",
+    "Country": "Pakistan",
+    "Population": 548916,
+    "Prev": 534288,
+    "Growth": "0.0274"
+  },
+  {
+    "rank": 1057,
+    "Name": "Basilan City",
+    "Country": "Philippines",
+    "Population": 548445,
+    "Prev": 533135,
+    "Growth": "0.0287"
+  },
+  {
+    "rank": 1058,
+    "Name": "Valledupar",
+    "Country": "Colombia",
+    "Population": 547790,
+    "Prev": 533453,
+    "Growth": "0.0269"
+  },
+  {
+    "rank": 1059,
+    "Name": "Chaoyang",
+    "Country": "China",
+    "Population": 546816,
+    "Prev": 539052,
+    "Growth": "0.0144"
+  },
+  {
+    "rank": 1060,
+    "Name": "Uige",
+    "Country": "Angola",
+    "Population": 546706,
+    "Prev": 510631,
+    "Growth": "0.0706"
+  },
+  {
+    "rank": 1061,
+    "Name": "Hamhung",
+    "Country": "North Korea",
+    "Population": 545847,
+    "Prev": 548992,
+    "Growth": "-0.0057"
+  },
+  {
+    "rank": 1062,
+    "Name": "Sukkur",
+    "Country": "Pakistan",
+    "Population": 545349,
+    "Prev": 534486,
+    "Growth": "0.0203"
+  },
+  {
+    "rank": 1063,
+    "Name": "Rayong",
+    "Country": "Thailand",
+    "Population": 545307,
+    "Prev": 538150,
+    "Growth": "0.0133"
+  },
+  {
+    "rank": 1064,
+    "Name": "Port of Spain",
+    "Country": "Trinidad and Tobago",
+    "Population": 544305,
+    "Prev": 544207,
+    "Growth": "0.0002"
+  },
+  {
+    "rank": 1065,
+    "Name": "Kerman",
+    "Country": "Iran",
+    "Population": 543855,
+    "Prev": 541485,
+    "Growth": "0.0044"
+  },
+  {
+    "rank": 1066,
+    "Name": "Abeokuta",
+    "Country": "Nigeria",
+    "Population": 543723,
+    "Prev": 532856,
+    "Growth": "0.0204"
+  },
+  {
+    "rank": 1067,
+    "Name": "Mekele",
+    "Country": "Ethiopia",
+    "Population": 543622,
+    "Prev": 523914,
+    "Growth": "0.0376"
+  },
+  {
+    "rank": 1068,
+    "Name": "Yongkang",
+    "Country": "China",
+    "Population": 543073,
+    "Prev": 526069,
+    "Growth": "0.0323"
+  },
+  {
+    "rank": 1069,
+    "Name": "Edinburgh",
+    "Country": "United Kingdom",
+    "Population": 542599,
+    "Prev": 536775,
+    "Growth": "0.0108"
+  },
+  {
+    "rank": 1070,
+    "Name": "Haining",
+    "Country": "China",
+    "Population": 542380,
+    "Prev": 527655,
+    "Growth": "0.0279"
+  },
+  {
+    "rank": 1071,
+    "Name": "San Juan",
+    "Country": "Argentina",
+    "Population": 541366,
+    "Prev": 536913,
+    "Growth": "0.0083"
+  },
+  {
+    "rank": 1072,
+    "Name": "Ryazan",
+    "Country": "Russia",
+    "Population": 540183,
+    "Prev": 540317,
+    "Growth": "-0.0002"
+  },
+  {
+    "rank": 1073,
+    "Name": "Vilnius",
+    "Country": "Lithuania",
+    "Population": 539978,
+    "Prev": 538894,
+    "Growth": "0.0020"
+  },
+  {
+    "rank": 1074,
+    "Name": "Taishan",
+    "Country": "China",
+    "Population": 539674,
+    "Prev": 524937,
+    "Growth": "0.0281"
+  },
+  {
+    "rank": 1075,
+    "Name": "Calamba",
+    "Country": "Philippines",
+    "Population": 539157,
+    "Prev": 524577,
+    "Growth": "0.0278"
+  },
+  {
+    "rank": 1076,
+    "Name": "Mesa",
+    "Country": "United States",
+    "Population": 538146,
+    "Prev": 528079,
+    "Growth": "0.0191"
+  },
+  {
+    "rank": 1077,
+    "Name": "Hannover",
+    "Country": "Germany",
+    "Population": 537418,
+    "Prev": 536976,
+    "Growth": "0.0008"
+  },
+  {
+    "rank": 1078,
+    "Name": "Fresno",
+    "Country": "United States",
+    "Population": 537100,
+    "Prev": 534338,
+    "Growth": "0.0052"
+  },
+  {
+    "rank": 1079,
+    "Name": "Chuzhou",
+    "Country": "China",
+    "Population": 536745,
+    "Prev": 522062,
+    "Growth": "0.0281"
+  },
+  {
+    "rank": 1080,
+    "Name": "Namangan",
+    "Country": "Uzbekistan",
+    "Population": 536396,
+    "Prev": 528763,
+    "Growth": "0.0144"
+  },
+  {
+    "rank": 1081,
+    "Name": "Pingdu",
+    "Country": "China",
+    "Population": 536334,
+    "Prev": 525093,
+    "Growth": "0.0214"
+  },
+  {
+    "rank": 1082,
+    "Name": "Al-Mukalla",
+    "Country": "Yemen",
+    "Population": 536256,
+    "Prev": 506356,
+    "Growth": "0.0590"
+  },
+  {
+    "rank": 1083,
+    "Name": "Qingzhou",
+    "Country": "China",
+    "Population": 535777,
+    "Prev": 520371,
+    "Growth": "0.0296"
+  },
+  {
+    "rank": 1084,
+    "Name": "Longkou",
+    "Country": "China",
+    "Population": 535497,
+    "Prev": 520568,
+    "Growth": "0.0287"
+  },
+  {
+    "rank": 1085,
+    "Name": "Naberezhnye Tchelny",
+    "Country": "Russia",
+    "Population": 535124,
+    "Prev": 534726,
+    "Growth": "0.0007"
+  },
+  {
+    "rank": 1086,
+    "Name": "Astrakhan",
+    "Country": "Russia",
+    "Population": 534762,
+    "Prev": 534947,
+    "Growth": "-0.0003"
+  },
+  {
+    "rank": 1087,
+    "Name": "Santa Marta",
+    "Country": "Colombia",
+    "Population": 533792,
+    "Prev": 527326,
+    "Growth": "0.0123"
+  },
+  {
+    "rank": 1088,
+    "Name": "Ambon",
+    "Country": "Indonesia",
+    "Population": 533623,
+    "Prev": 513457,
+    "Growth": "0.0393"
+  },
+  {
+    "rank": 1089,
+    "Name": "Bellary",
+    "Country": "India",
+    "Population": 533505,
+    "Prev": 520926,
+    "Growth": "0.0241"
+  },
+  {
+    "rank": 1090,
+    "Name": "Diwaniyah",
+    "Country": "Iraq",
+    "Population": 532961,
+    "Prev": 513369,
+    "Growth": "0.0382"
+  },
+  {
+    "rank": 1091,
+    "Name": "Pietermaritzburg",
+    "Country": "South Africa",
+    "Population": 532766,
+    "Prev": 526912,
+    "Growth": "0.0111"
+  },
+  {
+    "rank": 1092,
+    "Name": "Rustenburg",
+    "Country": "South Africa",
+    "Population": 532711,
+    "Prev": 509368,
+    "Growth": "0.0458"
+  },
+  {
+    "rank": 1093,
+    "Name": "Heyuan",
+    "Country": "China",
+    "Population": 532613,
+    "Prev": 523818,
+    "Growth": "0.0168"
+  },
+  {
+    "rank": 1094,
+    "Name": "Yanshi",
+    "Country": "China",
+    "Population": 532183,
+    "Prev": 507643,
+    "Growth": "0.0483"
+  },
+  {
+    "rank": 1095,
+    "Name": "Al-Raqqa",
+    "Country": "Syria",
+    "Population": 531952,
+    "Prev": 521537,
+    "Growth": "0.0200"
+  },
+  {
+    "rank": 1096,
+    "Name": "Surakarta",
+    "Country": "Indonesia",
+    "Population": 531897,
+    "Prev": 527279,
+    "Growth": "0.0088"
+  },
+  {
+    "rank": 1097,
+    "Name": "Dali",
+    "Country": "China",
+    "Population": 531353,
+    "Prev": 514610,
+    "Growth": "0.0325"
+  },
+  {
+    "rank": 1098,
+    "Name": "Sheikhupura",
+    "Country": "Pakistan",
+    "Population": 530798,
+    "Prev": 517342,
+    "Growth": "0.0260"
+  },
+  {
+    "rank": 1099,
+    "Name": "Changning",
+    "Country": "China",
+    "Population": 530738,
+    "Prev": 510275,
+    "Growth": "0.0401"
+  },
+  {
+    "rank": 1100,
+    "Name": "Grenoble",
+    "Country": "France",
+    "Population": 530690,
+    "Prev": 527720,
+    "Growth": "0.0056"
+  },
+  {
+    "rank": 1101,
+    "Name": "Puerto Vallarta",
+    "Country": "Mexico",
+    "Population": 530078,
+    "Prev": 515909,
+    "Growth": "0.0275"
+  },
+  {
+    "rank": 1102,
+    "Name": "Balashikha",
+    "Country": "Russia",
+    "Population": 530037,
+    "Prev": 514662,
+    "Growth": "0.0299"
+  },
+  {
+    "rank": 1103,
+    "Name": "Angeles City",
+    "Country": "Philippines",
+    "Population": 529991,
+    "Prev": 509765,
+    "Growth": "0.0397"
+  },
+  {
+    "rank": 1104,
+    "Name": "Gombe",
+    "Country": "Nigeria",
+    "Population": 529283,
+    "Prev": 508575,
+    "Growth": "0.0407"
+  },
+  {
+    "rank": 1105,
+    "Name": "Hosur",
+    "Country": "India",
+    "Population": 528951,
+    "Prev": 493896,
+    "Growth": "0.0710"
+  },
+  {
+    "rank": 1106,
+    "Name": "Poznan",
+    "Country": "Poland",
+    "Population": 528457,
+    "Prev": 531030,
+    "Growth": "-0.0048"
+  },
+  {
+    "rank": 1107,
+    "Name": "Gongyi",
+    "Country": "China",
+    "Population": 527880,
+    "Prev": 511410,
+    "Growth": "0.0322"
+  },
+  {
+    "rank": 1108,
+    "Name": "Van",
+    "Country": "Turkey",
+    "Population": 527682,
+    "Prev": 511391,
+    "Growth": "0.0319"
+  },
+  {
+    "rank": 1109,
+    "Name": "Gaoyou",
+    "Country": "China",
+    "Population": 527063,
+    "Prev": 507934,
+    "Growth": "0.0377"
+  },
+  {
+    "rank": 1110,
+    "Name": "Shizuishan",
+    "Country": "China",
+    "Population": 527050,
+    "Prev": 514455,
+    "Growth": "0.0245"
+  },
+  {
+    "rank": 1111,
+    "Name": "El Djelfa",
+    "Country": "Algeria",
+    "Population": 527033,
+    "Prev": 503397,
+    "Growth": "0.0470"
+  },
+  {
+    "rank": 1112,
+    "Name": "Kikwit",
+    "Country": "DR Congo",
+    "Population": 526217,
+    "Prev": 507462,
+    "Growth": "0.0370"
+  },
+  {
+    "rank": 1113,
+    "Name": "Ar-Rusayfah",
+    "Country": "Jordan",
+    "Population": 525880,
+    "Prev": 523543,
+    "Growth": "0.0045"
+  },
+  {
+    "rank": 1114,
+    "Name": "Vale do Aco",
+    "Country": "Brazil",
+    "Population": 525634,
+    "Prev": 521744,
+    "Growth": "0.0075"
+  },
+  {
+    "rank": 1115,
+    "Name": "Cuautla Morelos",
+    "Country": "Mexico",
+    "Population": 525498,
+    "Prev": 516755,
+    "Growth": "0.0169"
+  },
+  {
+    "rank": 1116,
+    "Name": "Sacramento",
+    "Country": "United States",
+    "Population": 525398,
+    "Prev": 519511,
+    "Growth": "0.0113"
+  },
+  {
+    "rank": 1117,
+    "Name": "Kalasin",
+    "Country": "Thailand",
+    "Population": 524519,
+    "Prev": 517635,
+    "Growth": "0.0133"
+  },
+  {
+    "rank": 1118,
+    "Name": "Shangyu",
+    "Country": "China",
+    "Population": 524344,
+    "Prev": 510813,
+    "Growth": "0.0265"
+  },
+  {
+    "rank": 1119,
+    "Name": "Atlanta",
+    "Country": "United States",
+    "Population": 524067,
+    "Prev": 515439,
+    "Growth": "0.0167"
+  },
+  {
+    "rank": 1120,
+    "Name": "Al-Mahallah al-Kubra",
+    "Country": "Egypt",
+    "Population": 523903,
+    "Prev": 517549,
+    "Growth": "0.0123"
+  },
+  {
+    "rank": 1121,
+    "Name": "Loum",
+    "Country": "Cameroon",
+    "Population": 523577,
+    "Prev": 497578,
+    "Growth": "0.0523"
+  },
+  {
+    "rank": 1122,
+    "Name": "Laixi",
+    "Country": "China",
+    "Population": 523107,
+    "Prev": 505117,
+    "Growth": "0.0356"
+  },
+  {
+    "rank": 1123,
+    "Name": "Kakinada",
+    "Country": "India",
+    "Population": 522676,
+    "Prev": 514227,
+    "Growth": "0.0164"
+  },
+  {
+    "rank": 1124,
+    "Name": "Rupganj",
+    "Country": "Bangladesh",
+    "Population": 522366,
+    "Prev": 481718,
+    "Growth": "0.0844"
+  },
+  {
+    "rank": 1125,
+    "Name": "Penza",
+    "Country": "Russia",
+    "Population": 522207,
+    "Prev": 523092,
+    "Growth": "-0.0017"
+  },
+  {
+    "rank": 1126,
+    "Name": "Berbera",
+    "Country": "Somalia",
+    "Population": 521966,
+    "Prev": 499396,
+    "Growth": "0.0452"
+  },
+  {
+    "rank": 1127,
+    "Name": "Utsunomiya",
+    "Country": "Japan",
+    "Population": 521669,
+    "Prev": 522100,
+    "Growth": "-0.0008"
+  },
+  {
+    "rank": 1128,
+    "Name": "Porto Velho",
+    "Country": "Brazil",
+    "Population": 521270,
+    "Prev": 510419,
+    "Growth": "0.0213"
+  },
+  {
+    "rank": 1129,
+    "Name": "Davanagere",
+    "Country": "India",
+    "Population": 520856,
+    "Prev": 511843,
+    "Growth": "0.0176"
+  },
+  {
+    "rank": 1130,
+    "Name": "Qianjiang",
+    "Country": "China",
+    "Population": 520601,
+    "Prev": 511738,
+    "Growth": "0.0173"
+  },
+  {
+    "rank": 1131,
+    "Name": "Chuxiong",
+    "Country": "China",
+    "Population": 520282,
+    "Prev": 500867,
+    "Growth": "0.0388"
+  },
+  {
+    "rank": 1132,
+    "Name": "Songyuan",
+    "Country": "China",
+    "Population": 519674,
+    "Prev": 513231,
+    "Growth": "0.0126"
+  },
+  {
+    "rank": 1133,
+    "Name": "Duisburg",
+    "Country": "Germany",
+    "Population": 519056,
+    "Prev": 515076,
+    "Growth": "0.0077"
+  },
+  {
+    "rank": 1134,
+    "Name": "Nakhon Pathom",
+    "Country": "Thailand",
+    "Population": 518433,
+    "Prev": 503271,
+    "Growth": "0.0301"
+  },
+  {
+    "rank": 1135,
+    "Name": "Muzaffarpur",
+    "Country": "India",
+    "Population": 516403,
+    "Prev": 504158,
+    "Growth": "0.0243"
+  },
+  {
+    "rank": 1136,
+    "Name": "Mataram",
+    "Country": "Indonesia",
+    "Population": 516280,
+    "Prev": 505024,
+    "Growth": "0.0223"
+  },
+  {
+    "rank": 1137,
+    "Name": "Mbouda",
+    "Country": "Cameroon",
+    "Population": 516015,
+    "Prev": 485660,
+    "Growth": "0.0625"
+  },
+  {
+    "rank": 1138,
+    "Name": "Zinder",
+    "Country": "Niger",
+    "Population": 515736,
+    "Prev": 489178,
+    "Growth": "0.0543"
+  },
+  {
+    "rank": 1139,
+    "Name": "Changge",
+    "Country": "China",
+    "Population": 515109,
+    "Prev": 490123,
+    "Growth": "0.0510"
+  },
+  {
+    "rank": 1140,
+    "Name": "Kirov",
+    "Country": "Russia",
+    "Population": 514996,
+    "Prev": 513003,
+    "Growth": "0.0039"
+  },
+  {
+    "rank": 1141,
+    "Name": "Kuantan",
+    "Country": "Malaysia",
+    "Population": 514419,
+    "Prev": 502866,
+    "Growth": "0.0230"
+  },
+  {
+    "rank": 1142,
+    "Name": "Ziyang",
+    "Country": "China",
+    "Population": 514110,
+    "Prev": 500094,
+    "Growth": "0.0280"
+  },
+  {
+    "rank": 1143,
+    "Name": "Xingning",
+    "Country": "China",
+    "Population": 513553,
+    "Prev": 487815,
+    "Growth": "0.0528"
+  },
+  {
+    "rank": 1144,
+    "Name": "Kandahar",
+    "Country": "Afghanistan",
+    "Population": 511949,
+    "Prev": 498002,
+    "Growth": "0.0280"
+  },
+  {
+    "rank": 1145,
+    "Name": "Nurenberg",
+    "Country": "Germany",
+    "Population": 511889,
+    "Prev": 511941,
+    "Growth": "-0.0001"
+  },
+  {
+    "rank": 1146,
+    "Name": "London CA",
+    "Country": "Canada",
+    "Population": 511368,
+    "Prev": 508230,
+    "Growth": "0.0062"
+  },
+  {
+    "rank": 1147,
+    "Name": "Eslamshahr",
+    "Country": "Iran",
+    "Population": 511227,
+    "Prev": 498261,
+    "Growth": "0.0260"
+  },
+  {
+    "rank": 1148,
+    "Name": "Bournemouth",
+    "Country": "United Kingdom",
+    "Population": 510021,
+    "Prev": 505687,
+    "Growth": "0.0086"
+  },
+  {
+    "rank": 1149,
+    "Name": "Jinjiang",
+    "Country": "China",
+    "Population": 509894,
+    "Prev": 498294,
+    "Growth": "0.0233"
+  },
+  {
+    "rank": 1150,
+    "Name": "Khon-Kaen",
+    "Country": "Thailand",
+    "Population": 509278,
+    "Prev": 502594,
+    "Growth": "0.0133"
+  },
+  {
+    "rank": 1151,
+    "Name": "Cheboksary",
+    "Country": "Russia",
+    "Population": 509038,
+    "Prev": 505870,
+    "Growth": "0.0063"
+  },
+  {
+    "rank": 1152,
+    "Name": "Matsuyama",
+    "Country": "Japan",
+    "Population": 508241,
+    "Prev": 509958,
+    "Growth": "-0.0034"
+  },
+  {
+    "rank": 1153,
+    "Name": "Tanta",
+    "Country": "Egypt",
+    "Population": 508012,
+    "Prev": 501423,
+    "Growth": "0.0131"
+  },
+  {
+    "rank": 1154,
+    "Name": "Shuangyashan",
+    "Country": "China",
+    "Population": 507257,
+    "Prev": 503179,
+    "Growth": "0.0081"
+  },
+  {
+    "rank": 1155,
+    "Name": "Lipetsk",
+    "Country": "Russia",
+    "Population": 505846,
+    "Prev": 507291,
+    "Growth": "-0.0028"
+  },
+  {
+    "rank": 1156,
+    "Name": "Karaganda",
+    "Country": "Kazakhstan",
+    "Population": 505157,
+    "Prev": 504946,
+    "Growth": "0.0004"
+  },
+  {
+    "rank": 1157,
+    "Name": "Changyi",
+    "Country": "China",
+    "Population": 505019,
+    "Prev": 482027,
+    "Growth": "0.0477"
+  },
+  {
+    "rank": 1158,
+    "Name": "Arusha",
+    "Country": "Tanzania",
+    "Population": 504857,
+    "Prev": 492919,
+    "Growth": "0.0242"
+  },
+  {
+    "rank": 1159,
+    "Name": "Murcia",
+    "Country": "Spain",
+    "Population": 504491,
+    "Prev": 499783,
+    "Growth": "0.0094"
+  },
+  {
+    "rank": 1160,
+    "Name": "Malatya",
+    "Country": "Turkey",
+    "Population": 503988,
+    "Prev": 496002,
+    "Growth": "0.0161"
+  },
+  {
+    "rank": 1161,
+    "Name": "Guang-an",
+    "Country": "China",
+    "Population": 503551,
+    "Prev": 484324,
+    "Growth": "0.0397"
+  },
+  {
+    "rank": 1162,
+    "Name": "Tirana",
+    "Country": "Albania",
+    "Population": 502734,
+    "Prev": 493712,
+    "Growth": "0.0183"
+  },
+  {
+    "rank": 1163,
+    "Name": "Surat Thani",
+    "Country": "Thailand",
+    "Population": 502564,
+    "Prev": 495968,
+    "Growth": "0.0133"
+  },
+  {
+    "rank": 1164,
+    "Name": "Kansas City",
+    "Country": "United States",
+    "Population": 501957,
+    "Prev": 498642,
+    "Growth": "0.0066"
+  },
+  {
+    "rank": 1165,
+    "Name": "Ubon Ratchathani",
+    "Country": "Thailand",
+    "Population": 501747,
+    "Prev": 495308,
+    "Growth": "0.0130"
+  },
+  {
+    "rank": 1166,
+    "Name": "Kolwezi",
+    "Country": "DR Congo",
+    "Population": 501375,
+    "Prev": 494654,
+    "Growth": "0.0136"
+  },
+  {
+    "rank": 1167,
+    "Name": "Kabinda",
+    "Country": "DR Congo",
+    "Population": 501054,
+    "Prev": 465599,
+    "Growth": "0.0761"
+  },
+  {
+    "rank": 1168,
+    "Name": "Jianyang",
+    "Country": "China",
+    "Population": 500925,
+    "Prev": 487133,
+    "Growth": "0.0283"
+  },
+  {
+    "rank": 1169,
+    "Name": "Douai-Lens",
+    "Country": "France",
+    "Population": 500921,
+    "Prev": 500776,
+    "Growth": "0.0003"
+  },
+  {
+    "rank": 1170,
+    "Name": "Nanping",
+    "Country": "China",
+    "Population": 500785,
+    "Prev": 491287,
+    "Growth": "0.0193"
+  }
+]
